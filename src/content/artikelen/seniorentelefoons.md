@@ -37,6 +37,10 @@ faq:
     a: "Seniorensmartphones met Android zijn onder meer de Senifone S1, de Doro Aurora A10, A20 en A30, de Emporia SMART.7lite en SMART.8 en de SeniorenTab S616. Een gewone Samsung Galaxy A17 of A18 kan ook, met de Eenvoudige modus aan."
   - q: "Welke smartphone is volgens de Consumentenbond de beste koop?"
     a: "De Consumentenbond test smartphones en kiest geregeld een Beste Koop. Die uitslag verandert vaak, dus wij nemen hem hier niet over. U vindt de actuele lijst op consumentenbond.nl."
+  - q: "Bestaat er een smartphone met echte toetsen?"
+    a: "Ja. De Doro Aurora A20 is een klapmodel met een touchscreen en een toetsenbord met verlichting. U kunt er WhatsApp op zetten via de Play Store. Het scherm is wel klein voor foto's en videobellen."
+  - q: "Hoe werkt de SOS-knop op een seniorentelefoon?"
+    a: "Eerst stelt u een paar vaste contacten in, bijvoorbeeld de kinderen. Drukt uw vader of moeder op de knop, dan waarschuwt het toestel die contacten. Bij de Doro Aurora en de Emporia SMART.8 zit de knop op de achterkant. Bij de Senifone S1 is het een rode knop op het startscherm."
 sources:
   - label: "Senifone S1, productpagina Senifone"
     url: "https://senifone.nl/products/senioren-smartphone"
@@ -62,6 +66,8 @@ panel_tested: false
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-04
+    wat: "Vragen over een smartphone met toetsen en over de SOS-knop toegevoegd"
 ---
 
 Een goede senioren telefoon is een telefoon die uw vader of moeder ook echt gebruikt. Dat is voor de een een klaptelefoon met grote toetsen. Voor de ander is het een smartphone met WhatsApp en foto's van de kleinkinderen. Het korte antwoord: wil uw vader of moeder alleen bellen, kies dan een klaptelefoon zoals de Doro Leva L30. Wil hij of zij ook WhatsApp, kies dan een seniorensmartphone zoals de Doro Aurora A30 of de Senifone S1. Hieronder leest u welk type bij wie past, en waar u op let.
