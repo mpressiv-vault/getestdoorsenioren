@@ -80,7 +80,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Compacte Android-smartphone met vereenvoudigde interface en een SOS-knop op de achterkant die helpers waarschuwt. Geschikt voor senioren die WhatsApp en apps willen gebruiken en hulp op afstand van familie willen kunnen krijgen."
+  "kort": "Compacte Android-smartphone met een vereenvoudigd scherm en een SOS-knop op de achterkant. Het scherm is 4,5 inch.",
+  "voor_wie": "Voor wie een kleine smartphone wil die goed in de hand ligt, met WhatsApp en hulp van familie op afstand.",
+  "niet_voor": "Minder geschikt als uw vader of moeder slecht ziet en een groot scherm nodig heeft. Dan past de Aurora A30 beter.",
+  "sterk": [
+   "SOS-knop op de achterkant: helpers krijgen direct een seintje",
+   "Response by Doro-app: familie ziet de status en past instellingen aan",
+   "Hoortoestelklasse T4/M3: geschikt voor gebruik met een hoortoestel",
+   "USB-C en draadloos opladen: geen gedoe met de stekker"
+  ],
+  "zwak": [
+   "Klein scherm van 4,5 inch: minder prettig bij slecht zicht",
+   "Geen oplaadschaal; een draadloze laadstandaard koopt u los",
+   "Lader zit niet in de doos",
+   "Hoe luid het gesprek klinkt, is niet bekend"
+  ]
  },
  {
   "id": "doro-aurora-a20",
@@ -163,7 +177,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Android-smartphone in klapvorm met fysiek toetsenbord en touchscreen, plus een SOS-knop op de achterkant. Geschikt voor senioren die vertrouwd zijn met een klaptelefoon maar wel WhatsApp en apps willen gebruiken."
+  "kort": "Android-smartphone in klapvorm met een touchscreen en een verlicht toetsenbord. Op de achterkant zit een SOS-knop.",
+  "voor_wie": "Voor wie gewend is aan een klaptelefoon met toetsen, maar nu ook WhatsApp en apps wil gebruiken.",
+  "niet_voor": "Minder geschikt als u een groot scherm zoekt voor foto's en beeldbellen. Het scherm is 4,5 inch.",
+  "sterk": [
+   "Verlicht toetsenbord om in te klappen: vertrouwd typen en bellen",
+   "SOS-knop op de achterkant: helpers krijgen direct een seintje",
+   "Response by Doro-app: familie helpt op afstand met instellingen",
+   "Hoortoestelklasse T4/M3: geschikt voor gebruik met een hoortoestel"
+  ],
+  "zwak": [
+   "Scherm van 4,5 inch: klein voor foto's en videobellen",
+   "Geen oplaadschaal; een draadloze laadstandaard koopt u los",
+   "Lader zit niet in de doos",
+   "Hoe luid het gesprek klinkt, is niet bekend"
+  ]
  },
  {
   "id": "doro-aurora-a30",
@@ -257,7 +285,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Android-smartphone met groot 6,1-inch scherm, vereenvoudigde interface en SOS-knop op de achterkant. Geschikt voor senioren die vooral een groot scherm willen voor WhatsApp, foto's en beeldbellen."
+  "kort": "De grootste Aurora: een Android-smartphone met een 6,1 inch scherm en een vereenvoudigd menu. Op de achterkant zit een SOS-knop.",
+  "voor_wie": "Voor wie vooral een groot scherm wil voor WhatsApp, foto's en beeldbellen, met hulp van familie op afstand.",
+  "niet_voor": "Minder geschikt als uw vader of moeder liever fysieke toetsen heeft. Dan past de Aurora A20 of een klaptelefoon beter.",
+  "sterk": [
+   "Scherm van 6,1 inch: letters en foto's zijn goed te zien",
+   "Batterij van 5000 mAh: de grootste van de Aurora-reeks",
+   "SOS-knop op de achterkant: helpers krijgen direct een seintje",
+   "Hoortoestelklasse T4/M4: de hoogste klasse voor gebruik met hoortoestel"
+  ],
+  "zwak": [
+   "Geen oplaadschaal; een draadloze laadstandaard koopt u los",
+   "Lader zit niet in de doos",
+   "Hoe luid het gesprek klinkt, is niet bekend"
+  ]
  },
  {
   "id": "emporia-smart-7lite",
@@ -279,9 +320,9 @@
   "whatsapp_detail": "ja",
   "sos_knop": true,
   "sos_detail": "ja (achterkant)",
-  "oplaadschaal": true,
+  "oplaadschaal": null,
   "oplaadschaal_detail": "ja (meegeleverd)",
-  "hac": "ja, M4/T4",
+  "hac": "onbekend",
   "volume": "beltoon 80,9 dB(A) op 1 m; luidspreker 80,1 dB(A) op 5 cm (versterking onbekend)",
   "valdetectie": null,
   "beheer_op_afstand": null,
@@ -330,7 +371,19 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een compacte 4G-seniorensmartphone met 5,45-inch scherm, Android 16 en een noodknop op de achterkant, met oplaadstation in de doos. Bedoeld voor senioren die een kleinere smartphone met WhatsApp en een vereenvoudigde bediening willen."
+  "kort": "Compacte 4G-seniorensmartphone met een 5,45 inch scherm, Android 16 en een noodknop op de achterkant.",
+  "voor_wie": "Voor wie een kleinere smartphone wil met WhatsApp, een eenvoudige bediening en een noodknop.",
+  "niet_voor": "Minder geschikt als u een groot scherm zoekt of als familie het toestel op afstand wil beheren. Dat laatste is niet bekend.",
+  "sterk": [
+   "Noodknop op de achterkant met favorietenfunctie: snel hulp of familie bellen",
+   "Accu zelf te vervangen: het toestel gaat langer mee",
+   "Emporia belooft updates voor minimaal vijf volgende Android-versies"
+  ],
+  "zwak": [
+   "Netadapter zit niet in de doos",
+   "Garantie op de accu is 6 maanden",
+   "Beheer op afstand door familie: niet bekend"
+  ]
  },
  {
   "id": "emporia-smart-8",
@@ -401,7 +454,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een 5G-seniorensmartphone met Android 16, de eenvoudige emporia-bediening en een fysieke noodknop op de achterkant. Geschikt voor senioren die WhatsApp, foto's en apps willen gebruiken en een groot scherm en hoortoestelcompatibiliteit (M4/T4) zoeken."
+  "kort": "5G-seniorensmartphone met een 6,36 inch OLED-scherm, Android 16 en de eenvoudige emporia-bediening. Op de achterkant zit een noodknop.",
+  "voor_wie": "Voor wie een groot, scherp scherm wil voor WhatsApp en foto's, en een hoortoestel draagt.",
+  "niet_voor": "Minder geschikt als u een oplaadschaal wilt of als familie het toestel op afstand moet beheren. Dat laatste is niet bekend.",
+  "sterk": [
+   "Hoortoestelklasse M4/T4 en ASHA: geluid rechtstreeks naar het hoortoestel",
+   "Noodknop op de achterkant met favorietenfunctie: snel hulp bellen",
+   "Smartcover en rubberen bumpers meegeleverd: extra bescherming",
+   "Verwisselbare accu: het toestel gaat langer mee"
+  ],
+  "zwak": [
+   "Geen oplaadschaal; wel draadloos opladen",
+   "Netadapter zit niet in de doos",
+   "Garantie op de accu is 6 maanden",
+   "Beheer op afstand door familie: niet bekend"
+  ]
  },
  {
   "id": "senifone-s1",
@@ -516,7 +583,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Android-smartphone met een vereenvoudigde schil, grote knoppen, contactfoto's op het startscherm en een instelbare SOS-knop, met toegang tot de Play Store voor apps als WhatsApp. Geschikt voor senioren die een gewone smartphone willen gebruiken met hulp van familie op afstand via de Companion App."
+  "kort": "Android-smartphone met een eenvoudige schil, grote knoppen en contactfoto's op het startscherm. Apps als WhatsApp haalt u uit de Play Store.",
+  "voor_wie": "Voor wie een gewone smartphone wil gebruiken, terwijl familie op afstand kan meekijken en helpen via de Companion App.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een hoortoestel draagt en een bekende hoortoestelklasse nodig heeft. Dan passen Doro of Emporia beter.",
+  "sterk": [
+   "Companion App: familie ziet locatie, SOS- en batterijmeldingen",
+   "Rode SOS-knop op het startscherm, of vijf keer de aan/uit-knop",
+   "Groot scherm van 6,53 inch en batterij van 5000 mAh",
+   "Adapter en kabel zitten in de doos"
+  ],
+  "zwak": [
+   "Geen bekende hoortoestelklasse; hoe luid het geluid is, is niet bekend",
+   "Opladen via Micro-USB in plaats van USB-C, geen oplaadschaal",
+   "Companion App is volgens Senifone nog in bèta",
+   "Geen NFC: niet contactloos betalen met de telefoon"
+  ]
  },
  {
   "id": "seniorentab-s616",
@@ -585,7 +666,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Samsung-smartphone met een vaste tegelinterface van SeniorenTAB, groot 6,7-inch scherm en SOS-functie, met ondersteuning via een servicedesk. Geschikt voor senioren die WhatsApp en beeldbellen willen gebruiken en hulp op afstand willen, met een maandelijkse servicebijdrage na het eerste jaar bij de Knox-varianten."
+  "kort": "Samsung Galaxy A16 met vaste, grote tegels van SeniorenTAB en een 6,7 inch scherm. Een servicedesk helpt op afstand.",
+  "voor_wie": "Voor wie WhatsApp en beeldbellen wil, en graag een vaste helpdesk heeft die meekijkt en uitlegt.",
+  "niet_voor": "Minder geschikt als u geen maandelijkse kosten wilt. Bij de Knox-varianten is na het eerste jaar een abonnement nodig.",
+  "sterk": [
+   "Vaste, grote tegels: het startscherm blijft altijd hetzelfde",
+   "Servicedesk helpt op afstand; eerste jaar inbegrepen",
+   "Groot Super AMOLED-scherm van 6,7 inch",
+   "Geschikt voor gehoorapparaat, en NFC aanwezig"
+  ],
+  "zwak": [
+   "Knox-varianten: na het eerste jaar een verplicht abonnement",
+   "Of de SOS-functie een fysieke knop is, is niet bekend",
+   "Geen lader in de doos en geen oplaadschaal",
+   "Garantie en hoortoestelklasse zijn niet bekend"
+  ]
  },
  {
   "id": "apple-iphone-17e",
@@ -701,7 +796,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "De goedkoopste nieuwe iPhone bij Apple Nederland, met 6,1-inch scherm, Ongelukdetectie en de vereenvoudigde modus Assistive Access. Geschikt voor senioren die in een iPhone-gezin willen meedoen en een helper hebben om de eenvoudige modus in te richten."
+  "kort": "Nieuwe iPhone met een 6,1 inch OLED-scherm en een eenvoudige stand: Assistive Access. Geen speciale seniorenhardware.",
+  "voor_wie": "Voor wie in een iPhone-gezin wil meedoen en een helper heeft die de eenvoudige stand instelt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een vaste SOS-knop wil. Ook niet als niemand kan helpen met instellen.",
+  "sterk": [
+   "Assistive Access: vereenvoudigd scherm met grote knoppen, ingesteld door een helper",
+   "Werkt met Made for iPhone-hoortoestellen en heeft een telecoil",
+   "Ongelukdetectie: herkent een ernstig auto-ongeluk",
+   "Bestand tegen stof en water (IP68), draadloos opladen via MagSafe"
+  ],
+  "zwak": [
+   "Geen aparte SOS-knop",
+   "Eenvoudige stand vraagt een helper die hem instelt",
+   "1 jaar Apple-garantie, naast de wettelijke rechten",
+   "Valdetectie wordt niet genoemd, alleen Ongelukdetectie in de auto"
+  ]
  },
  {
   "id": "samsung-galaxy-a17",
@@ -800,7 +909,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een gewone Android-smartphone met groot 6,7-inch scherm en lange software-ondersteuning, zonder speciale seniorenhardware. Geschikt voor senioren die een volwaardige smartphone met WhatsApp willen en de Eenvoudige modus en SOS-berichten zelf of met hulp instellen."
+  "kort": "Gewone Android-smartphone met een 6,7 inch scherm en lange software-ondersteuning. Er zit een Eenvoudige modus in de instellingen.",
+  "voor_wie": "Voor wie een volwaardige smartphone met WhatsApp wil en de Eenvoudige modus zelf of met hulp instelt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een vaste SOS-knop of een bekende hoortoestelklasse nodig heeft.",
+  "sterk": [
+   "Groot Super AMOLED-scherm van 6,7 inch en batterij van 5000 mAh",
+   "Beveiligingsupdates tot 30 september 2031: lang veilig te gebruiken",
+   "SOS-bericht via zijknop stuurt locatie, foto's en geluid naar contacten",
+   "Eenvoudige modus: grotere iconen en letters"
+  ],
+  "zwak": [
+   "Geen aparte SOS-knop: drie keer op de zijknop drukken",
+   "Hoortoestelklasse is niet bekend voor het EU-model",
+   "Geen speciale seniorenfuncties zoals een vaste noodknop",
+   "Eenvoudige modus moet u zelf aanzetten"
+  ]
  },
  {
   "id": "samsung-galaxy-a17-5g",
@@ -904,7 +1027,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "De 5G-variant van de Galaxy A17: een gewone Android-smartphone met 6,7-inch scherm en streaming naar Bluetooth-hoortoestellen (ASHA). Geschikt voor senioren die een betaalbare volwaardige smartphone willen en de Eenvoudige modus gebruiken."
+  "kort": "De 5G-versie van de Galaxy A17: een gewone Android-smartphone met een 6,7 inch scherm. Het geluid kan naar Bluetooth-hoortoestellen.",
+  "voor_wie": "Voor wie een volwaardige smartphone wil, een Bluetooth-hoortoestel draagt en de Eenvoudige modus gebruikt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een vaste SOS-knop wil of een bekende hoortoestelklasse nodig heeft.",
+  "sterk": [
+   "ASHA-streaming: geluid rechtstreeks naar een Bluetooth-hoortoestel",
+   "Groot Super AMOLED-scherm van 6,7 inch en batterij van 5000 mAh",
+   "Beveiligingsupdates tot 31 augustus 2031",
+   "5G en dual-sim"
+  ],
+  "zwak": [
+   "Geen aparte SOS-knop: drie keer op de zijknop drukken",
+   "Hoortoestelklasse is niet bekend voor het EU-model",
+   "Geen speciale seniorenfuncties zoals een vaste noodknop",
+   "Eenvoudige modus moet u zelf aanzetten"
+  ]
  },
  {
   "id": "samsung-galaxy-a18",
@@ -1007,7 +1144,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Het nieuwste 4G-model in Samsungs goedkoopste A-lijn, met 6,7-inch scherm en software-ondersteuning tot eind 2032. Geschikt voor senioren die een volwaardige smartphone lang willen gebruiken en hoortoestellen via Bluetooth koppelen."
+  "kort": "Het nieuwste 4G-model in Samsungs goedkoopste A-lijn, met een 6,7 inch scherm. Samsung geeft updates tot eind 2032.",
+  "voor_wie": "Voor wie een volwaardige smartphone jaren wil gebruiken en een hoortoestel via Bluetooth koppelt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een vaste SOS-knop wil of een bekende hoortoestelklasse nodig heeft.",
+  "sterk": [
+   "Beveiligingsupdates tot 31 oktober 2032 en tot 6 OS-upgrades",
+   "ASHA-streaming: geluid rechtstreeks naar een Bluetooth-hoortoestel",
+   "Groot Super AMOLED-scherm van 6,7 inch en batterij van 5000 mAh",
+   "NFC en microSD tot 2 TB voor foto's"
+  ],
+  "zwak": [
+   "Geen aparte SOS-knop: drie keer op de zijknop drukken",
+   "Hoortoestelklasse is niet bekend voor het EU-model",
+   "Geen speciale seniorenfuncties zoals een vaste noodknop",
+   "Eenvoudige modus moet u zelf aanzetten"
+  ]
  },
  {
   "id": "doro-leva-e20",
@@ -1079,7 +1230,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Eenvoudige klaptelefoon met grote toetsen, HD Voice en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een goedkope klaptelefoon voor bellen en sms'en zoeken."
+  "kort": "Eenvoudige klaptelefoon met grote toetsen, HD Voice en een assistentieknop. Bedoeld voor bellen en sms'en.",
+  "voor_wie": "Voor wie een simpele klaptelefoon zoekt om te bellen en te sms'en, met een knop om hulp te vragen.",
+  "niet_voor": "Minder geschikt als uw vader of moeder WhatsApp wil, of als de oplaadschaal erbij moet. Die zit wel bij de E22.",
+  "sterk": [
+   "Assistentieknop: vertrouwde contacten krijgen een hulpbericht",
+   "Hoortoestelklasse M4/T4: de hoogste klasse voor gebruik met hoortoestel",
+   "Contrastrijke toetsen en HD Voice: makkelijk bellen en goed verstaan",
+   "Verwisselbare batterij en FM-radio"
+  ],
+  "zwak": [
+   "Oplaadschaal zit niet in de doos; die koopt u los",
+   "Hulpbericht stuurt geen locatie mee",
+   "Geen WhatsApp of andere apps",
+   "Zeer eenvoudige camera van 0,3 MP"
+  ]
  },
  {
   "id": "doro-leva-e22",
@@ -1147,7 +1312,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Eenvoudige klaptelefoon met grote toetsen, HD Voice, oplaadschaal en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een klaptelefoon willen die makkelijk op te laden is."
+  "kort": "Dezelfde klaptelefoon als de Leva E20, maar met een oplaadschaal in de doos. Grote toetsen, HD Voice en een assistentieknop.",
+  "voor_wie": "Voor wie een klaptelefoon wil die makkelijk op te laden is: gewoon neerzetten in de schaal.",
+  "niet_voor": "Minder geschikt als uw vader of moeder WhatsApp wil, of als familie de locatie moet zien bij een noodgeval.",
+  "sterk": [
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Assistentieknop: vertrouwde contacten krijgen een hulpbericht",
+   "Hoortoestelklasse M4/T4: de hoogste klasse voor gebruik met hoortoestel",
+   "Verwisselbare batterij en FM-radio"
+  ],
+  "zwak": [
+   "Hulpbericht stuurt geen locatie mee",
+   "Geen WhatsApp of andere apps",
+   "Zeer eenvoudige camera van 0,3 MP"
+  ]
  },
  {
   "id": "doro-leva-e30",
@@ -1225,7 +1403,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Klaptelefoon met buitenscherm dat toont wie belt, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een betaalbare klaptelefoon met nummerweergave zoeken."
+  "kort": "Klaptelefoon met een buitenscherm dat laat zien wie er belt. Opnemen doet u door open te klappen.",
+  "voor_wie": "Voor wie een klaptelefoon wil en wil zien wie er belt voordat hij of zij opneemt.",
+  "niet_voor": "Minder geschikt als familie bij een noodgeval de locatie moet zien. Dan past de Leva L30 beter.",
+  "sterk": [
+   "Buitenscherm van 1,77 inch: zien wie belt zonder open te klappen",
+   "Opnemen door open te klappen: geen knop zoeken",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse M4/T4 en assistentieknop voor een hulpbericht"
+  ],
+  "zwak": [
+   "Hulpbericht stuurt geen locatie mee",
+   "Geen WhatsApp of andere apps",
+   "Zeer eenvoudige camera van 0,3 MP"
+  ]
  },
  {
   "id": "doro-leva-l20",
@@ -1313,7 +1504,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Klaptelefoon met groot scherm, contrastrijke toetsen en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die een eenvoudige klaptelefoon voor bellen en sms'en zoeken."
+  "kort": "Klaptelefoon met contrastrijke toetsen en een assistentieknop die de GPS-locatie meestuurt. Bedoeld voor bellen en sms'en.",
+  "voor_wie": "Voor wie een eenvoudige klaptelefoon wil, terwijl familie bij nood ook weet waar hij of zij is.",
+  "niet_voor": "Minder geschikt als uw vader of moeder WhatsApp of videobellen wil, of wil zien wie belt zonder open te klappen.",
+  "sterk": [
+   "Assistentieknop stuurt hulpbericht met GPS-locatie naar vertrouwde contacten",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse T4/M4: de hoogste klasse voor gebruik met hoortoestel",
+   "Grote contrastrijke toetsen en HD Voice"
+  ],
+  "zwak": [
+   "Geen buitenscherm: openklappen om te zien wie belt",
+   "Geen WhatsApp of andere apps",
+   "Beheer op afstand wordt niet genoemd"
+  ]
  },
  {
   "id": "doro-leva-l30",
@@ -1405,7 +1609,19 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Klaptelefoon met buitenscherm dat toont wie belt, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die een klaptelefoon willen en willen zien wie er belt zonder open te klappen."
+  "kort": "Klaptelefoon met een buitenscherm, grote toetsen en een assistentieknop die de GPS-locatie meestuurt.",
+  "voor_wie": "Voor wie wil zien wie er belt zonder open te klappen, en wil dat familie bij nood de locatie krijgt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder WhatsApp, foto's delen of videobellen wil.",
+  "sterk": [
+   "Assistentieknop stuurt hulpbericht met GPS-locatie naar vertrouwde contacten",
+   "Buitenscherm van 1,4 inch: zien wie belt zonder open te klappen",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse T4/M4: de hoogste klasse voor gebruik met hoortoestel"
+  ],
+  "zwak": [
+   "Geen WhatsApp of andere apps",
+   "Beheer op afstand wordt niet genoemd"
+  ]
  },
  {
   "id": "emporia-joy-lte",
@@ -1500,7 +1716,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een 4G-klaptelefoon met grote toetsen, drie snelkeuzetoetsen en een noodoproepknop. Geschikt voor senioren die vooral willen bellen en sms'en en een hoortoestel dragen (M4/T4)."
+  "kort": "4G-klaptelefoon met grote toetsen, drie snelkeuzetoetsen en een noodoproepknop. Een buitenscherm laat zien wie belt.",
+  "voor_wie": "Voor wie vooral wil bellen en sms'en, een hoortoestel draagt en vaste contacten snel wil bereiken.",
+  "niet_voor": "Minder geschikt als u een oplaadschaal in de doos wilt, of als uw vader of moeder WhatsApp wil.",
+  "sterk": [
+   "Drie snelkeuzetoetsen: vaste contacten bellen met één druk",
+   "Automatisch opnemen bij openklappen en buitenscherm voor nummerweergave",
+   "Hoortoestelklasse M4/T4: de hoogste klasse voor gebruik met hoortoestel",
+   "Noodoproepknop om snel hulp in te schakelen"
+  ],
+  "zwak": [
+   "Oplaadschaal zit niet in de doos; de laadkom koopt u los",
+   "Netadapter zit niet in de doos",
+   "Garantie op de accu is 6 maanden",
+   "Geen WhatsApp of andere apps"
+  ]
  },
  {
   "id": "emporia-simplicityglam-4g",
@@ -1594,7 +1824,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een witte 4G-klaptelefoon met grote verlichte toetsen, een noodknop op de achterkant en een oplaadstation in de doos. Bedoeld voor senioren die eenvoudig willen bellen en een hoortoestel gebruiken (M4/T4)."
+  "kort": "Witte 4G-klaptelefoon met extra grote, verlichte toetsen en een noodknop op de achterkant. Er zit een oplaadschaal in de doos.",
+  "voor_wie": "Voor wie eenvoudig wil bellen, een hoortoestel draagt en toetsen goed wil kunnen zien en voelen.",
+  "niet_voor": "Minder geschikt als uw vader of moeder foto's wil maken of WhatsApp wil gebruiken.",
+  "sterk": [
+   "Extra grote, verlichte en verhoogde toetsen: goed te zien en voelen",
+   "Noodknop op de achterkant en drie snelkeuzetoetsen",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse M4/T4: de hoogste klasse voor gebruik met hoortoestel"
+  ],
+  "zwak": [
+   "Een camera wordt niet genoemd",
+   "Netadapter zit niet in de doos",
+   "Garantie op de accu is 6 maanden",
+   "Geen WhatsApp of andere apps"
+  ]
  },
  {
   "id": "hmd-2660-flip-4g",
@@ -1705,7 +1949,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een 4G-klaptelefoon met 2,8-inch scherm, buitendisplay, grote toetsen en een aparte noodknop. Geschikt voor senioren die een eenvoudige telefoon voor bellen en sms'en zoeken, zonder apps."
+  "kort": "4G-klaptelefoon met een 2,8 inch scherm, buitenscherm, grote toetsen en een aparte noodoproeptoets. Opvolger van de Nokia 2660 Flip.",
+  "voor_wie": "Voor wie een bekende, eenvoudige klaptelefoon wil om te bellen en te sms'en, zonder apps.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een hoortoestel draagt. De hoortoestelklasse van dit model is niet bekend.",
+  "sterk": [
+   "Aparte noodoproeptoets om snel hulp in te schakelen",
+   "Buitenscherm van 1,77 inch: zien wie belt zonder open te klappen",
+   "Uitneembare batterij van 1450 mAh",
+   "Groot toetsenbord en FM-radio"
+  ],
+  "zwak": [
+   "Hoortoestelklasse is niet bekend",
+   "Oplaadschaal zit niet in de doos; die koopt u los",
+   "Garantie is niet bekend",
+   "Geen WhatsApp of andere apps"
+  ]
  },
  {
   "id": "doro-leva-e10",
@@ -1793,7 +2051,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Eenvoudige toetsentelefoon met breed scherm, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die alleen willen bellen en sms'en."
+  "kort": "Eenvoudige toetsentelefoon met een breed, liggend scherm en ver uit elkaar geplaatste toetsen. Met een assistentieknop.",
+  "voor_wie": "Voor wie alleen wil bellen en sms'en, met grote toetsen die niet snel verkeerd worden ingedrukt.",
+  "niet_voor": "Minder geschikt als familie bij een noodgeval de locatie moet zien. Dan past de Leva L10 beter.",
+  "sterk": [
+   "Ver uit elkaar geplaatste, contrastrijke toetsen: minder snel misdrukken",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse M4/T4: de hoogste klasse voor gebruik met hoortoestel",
+   "Assistentieknop: vertrouwde contacten krijgen een hulpbericht"
+  ],
+  "zwak": [
+   "Hulpbericht stuurt geen locatie mee",
+   "Geen WhatsApp of andere apps",
+   "Zeer eenvoudige camera van 0,3 MP"
+  ]
  },
  {
   "id": "doro-leva-l10",
@@ -1871,7 +2142,19 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Eenvoudige toetsentelefoon met breed scherm, camera en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die vooral willen bellen en sms'en."
+  "kort": "Eenvoudige toetsentelefoon met een breed scherm, camera en een assistentieknop die de GPS-locatie meestuurt.",
+  "voor_wie": "Voor wie vooral wil bellen en sms'en, terwijl familie bij nood weet waar hij of zij is.",
+  "niet_voor": "Minder geschikt als uw vader of moeder WhatsApp of videobellen wil.",
+  "sterk": [
+   "Assistentieknop stuurt hulpbericht met GPS-locatie naar vertrouwde contacten",
+   "Grote, ver uit elkaar geplaatste toetsen en breed liggend scherm",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse T4/M4 en HD Voice: goed verstaanbaar"
+  ],
+  "zwak": [
+   "Geen WhatsApp of andere apps",
+   "Beheer op afstand wordt niet genoemd"
+  ]
  },
  {
   "id": "doro-leva-x10",
@@ -1962,7 +2245,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Vereenvoudigde telefoon met vier snelkeuzetoetsen, beller-filter en een assistentieknop die locatie deelt. Geschikt voor mensen met geheugenproblemen of dementie en hun mantelzorgers."
+  "kort": "Vereenvoudigde telefoon met vier snelkeuzetoetsen, een beller-filter en een assistentieknop die de locatie deelt. Volgens Doro bedoeld voor mensen met cognitieve problemen zoals dementie.",
+  "voor_wie": "Voor wie zorgt voor een ouder met geheugenproblemen en wil dat de telefoon simpel en veilig blijft.",
+  "niet_voor": "Minder geschikt voor wie zelf alles wil instellen, apps wil of foto's wil maken. Er zit geen camera op.",
+  "sterk": [
+   "Alleen vertrouwde bellers toestaan: minder kans op ongewenste telefoontjes",
+   "Assistentieknop stuurt sms, oproep en GPS-locatie naar max. 5 contacten",
+   "Helpers vragen de GPS-positie op afstand op per sms",
+   "Medicatieherinnering en instellingen beveiligd in een beheerdersmenu"
+  ],
+  "zwak": [
+   "Hoortoestelklasse T3/M3, lager dan de meeste andere Doro-toestellen",
+   "Geen camera",
+   "Geen WhatsApp of andere apps",
+   "Valdetectie wordt niet genoemd"
+  ]
  },
  {
   "id": "emporia-simplicity-lte",
@@ -2028,7 +2325,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een 4G-toetsentelefoon zonder camera met extra grote verlichte toetsen, een noodknop op de achterkant en een oplaadstation. Geschikt voor senioren die alleen willen bellen en een hoortoestel gebruiken (M4/T4)."
+  "kort": "4G-toetsentelefoon zonder camera, met extra grote verlichte toetsen en een noodknop op de achterkant. Oplaadschaal en koptelefoon zitten in de doos.",
+  "voor_wie": "Voor wie alleen wil bellen, een hoortoestel draagt en vooral grote toetsen nodig heeft.",
+  "niet_voor": "Minder geschikt als uw vader of moeder slecht ziet en een groter scherm wil. Het scherm is 2,0 inch.",
+  "sterk": [
+   "Extra grote, verlichte en verhoogde toetsen: goed te zien en voelen",
+   "Noodknop op de achterkant en drie snelkeuzetoetsen",
+   "Oplaadschaal in de doos: neerzetten is genoeg om op te laden",
+   "Hoortoestelklasse M4/T4 en instelbare lettergrootte"
+  ],
+  "zwak": [
+   "Klein scherm van 2,0 inch",
+   "Geen camera",
+   "Netadapter zit niet in de doos",
+   "Garantie op de accu is 6 maanden"
+  ]
  },
  {
   "id": "hmd-3210-4g",
@@ -2118,7 +2429,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Een compacte 4G-toetsentelefoon zonder apps, met 2,4-inch scherm en een batterij die volgens HMD dagen meegaat. Geschikt voor senioren die alleen willen bellen en sms'en; seniorenfuncties zoals een noodknop worden door HMD niet genoemd."
+  "kort": "Compacte 4G-toetsentelefoon zonder apps, met een 2,4 inch scherm. Opvolger van de Nokia 3210 4G.",
+  "voor_wie": "Voor wie alleen wil bellen en sms'en en een bekende, eenvoudige telefoon zoekt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder een noodknop of hoortoestelklasse nodig heeft. HMD noemt die niet.",
+  "sterk": [
+   "Uitneembare batterij van 1450 mAh",
+   "Opladen via USB-C, dezelfde stekker als veel nieuwe toestellen",
+   "Dual-sim, Bluetooth en FM-radio"
+  ],
+  "zwak": [
+   "Een noodknop is niet bekend",
+   "Hoortoestelklasse is niet bekend",
+   "Oplaadschaal en garantie zijn niet bekend",
+   "Geen WhatsApp of andere apps"
+  ]
  },
  {
   "id": "alecto-cw30",
@@ -2176,7 +2500,21 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Vaste snoertelefoon met grote toetsen en zes fototoetsen waarmee je met één druk een vast contact belt. Geschikt voor ouderen die liever op foto dan op nummer kiezen en een luider gespreksvolume nodig hebben."
+  "kort": "Vaste snoertelefoon met extra grote toetsen en zes fototoetsen. Met één druk belt u een vast contact.",
+  "voor_wie": "Voor wie liever op een foto drukt dan een nummer kiest, en thuis een luider gesprek nodig heeft.",
+  "niet_voor": "Minder geschikt als uw vader of moeder door het huis wil lopen tijdens het bellen. Het is een snoertelefoon.",
+  "sterk": [
+   "Zes fototoetsen: bellen door op een gezicht te drukken",
+   "Gespreksversterking van +24 dB en extra luide beltoon",
+   "Rood knipperend bellampje: zien dat de telefoon gaat",
+   "Neer te zetten of aan de muur, wandbeugel meegeleverd"
+  ],
+  "zwak": [
+   "Snoertelefoon: niet mee door het huis",
+   "Een noodknop wordt niet genoemd",
+   "Of er een display is, is niet bekend",
+   "Werkt op een analoge vaste lijn"
+  ]
  },
  {
   "id": "fysic-fx-9000",
@@ -2249,7 +2587,20 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Draadloze DECT-seniorentelefoon met grote verlichte toetsen, een alarmeringsfunctie en kamerbewaking. Geschikt voor ouderen die een eenvoudige huistelefoon willen waarmee ze in nood met een druk op een toets een vast nummer bellen."
+  "kort": "Draadloze DECT-huistelefoon met grote verlichte toetsen, een alarmeringsfunctie en kamerbewaking.",
+  "voor_wie": "Voor wie thuis een eenvoudige telefoon wil waarmee hij of zij in nood met één toets een vast nummer belt.",
+  "niet_voor": "Minder geschikt als uw vader of moeder slecht hoort en veel versterking nodig heeft. De versterking is +8 dB.",
+  "sterk": [
+   "Alarmeringsfunctie: elke toets belt in nood één vast nummer",
+   "Kamerbewaking: de handset belt automatisch bij geluid",
+   "Grote verlichte toetsen en vier snelkiestoetsen",
+   "Oplaadschaal in de doos, uit te breiden tot 5 telefoons"
+  ],
+  "zwak": [
+   "Gespreksversterking van +8 dB: minder dan sommige andere huistelefoons",
+   "Schermgrootte is niet bekend",
+   "Hoortoestelklasse is niet bekend"
+  ]
  },
  {
   "id": "gigaset-e720",
@@ -2319,6 +2670,19 @@
   "opgehaald_op": "4 november 2026",
   "leverbaar": true,
   "panel_test": null,
-  "kort": "Draadloze DECT-huistelefoon met grote toetsen, een SOS-toets en een Bluetooth-koppeling naar hoortoestellen. Geschikt voor ouderen die thuis vast willen bellen en in een noodgeval met één toets familie of buren willen bereiken."
+  "kort": "Draadloze DECT-huistelefoon met grote verlichte toetsen, een SOS-toets en Bluetooth naar hoortoestellen.",
+  "voor_wie": "Voor wie thuis vast wil bellen en in nood met één toets familie of buren wil bereiken.",
+  "niet_voor": "Minder geschikt als u een antwoordapparaat wilt. Dat heeft alleen de variant E720A.",
+  "sterk": [
+   "SOS-toets belt vooraf ingestelde noodnummers na elkaar",
+   "Bluetooth 4.2 naar hoortoestellen; Boost-toets maakt de luidspreker luider",
+   "Sprekend toetsenbord en gesproken nummerweergave",
+   "Bellerblokkering tegen ongewenste telefoontjes"
+  ],
+  "zwak": [
+   "Geen antwoordapparaat",
+   "Gespreksversterking in dB is niet bekend",
+   "Garantie is niet bekend"
+  ]
  }
 ]
