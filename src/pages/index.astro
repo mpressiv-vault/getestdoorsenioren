@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { datum } from '../lib';
+const all = (await getCollection('artikelen', (e) => !e.data.draft)).sort((a, b) => a.data.order - b.data.order);
+const situaties = all.filter((e) => e.data.type !== 'pillar' && e.data.type !== 'product').slice(0, 6);
+const recent = [...all].sort((a, b) => +b.data.updated - +a.data.updated).slice(0, 4);
+---
+<Base title="Getest door senioren: eerlijk vergelijken voor senioren en hun familie" description="Welke telefoon past bij uw vader of moeder? Getest door senioren vergelijkt seniorentelefoons in gewone taal, met eerlijk advies per situatie.">
+  <section class="home-hero">
+    <div class="wrap">
+      <p class="eyebrow">Eerlijk advies, in gewone taal</p>
+      <h1>Kies een telefoon die uw vader of moeder echt gebruikt</h1>
+      <p class="lede">Wij vergelijken seniorentelefoons op wat telt: makkelijk bellen, goed horen, veilig voelen. Zonder vakjargon, en we zeggen erbij hoe wij geld verdienen.</p>
+      <div class="hero-actions">
+        <a class="btn-primary" href="/seniorentelefoons/">Naar de vergelijking</a>
+        <a class="btn-secondary" href="/zo-vergelijken-wij/">Zo vergelijken wij</a>
+      </div>
+    </div>
+  </section>
+  <section class="wrap home-start" aria-labelledby="start-title">
+    <h2 id="start-title">Waar zoekt u een telefoon voor?</h2>
+    <ul class="tile-list">
+      {situaties.map((e) => (
+        <li><a class="tile" href={`/${e.id}/`}><span class="tile-title">{e.data.title}</span><span class="tile-arrow" aria-hidden="true">→</span></a></li>
+      ))}
+    </ul>
+  </section>
+  <section class="home-trust">
+    <div class="wrap trust-grid">
+      <div><h2>Geschreven voor senioren</h2><p>Grote letters, korte zinnen en een duidelijk advies bovenaan. Zo kunt u het samen met uw vader of moeder lezen.</p></div>
+      <div><h2>Eerlijk over geld</h2><p>Koopt u via ons, dan krijgen we soms een vergoeding. De volgorde bepalen onze criteria, nooit die vergoeding.</p></div>
+      <div><h2>Een panel van senioren</h2><p>We bouwen een vast testpanel van senioren op. Tot dat draait, vergelijken we op papier en zeggen we dat ook.</p></div>
+    </div>
+  </section>
+  <section class="wrap home-recent" aria-labelledby="recent-title">
+    <h2 id="recent-title">Net bijgewerkt</h2>
+    <ul class="recent-list">
+      {recent.map((e) => <li><a href={`/${e.id}/`}>{e.data.title}</a> <span class="muted">{datum(e.data.updated)}</span></li>)}
+    </ul>
+  </section>
+</Base>

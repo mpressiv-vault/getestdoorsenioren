@@ -1,0 +1,2324 @@
+[
+ {
+  "id": "doro-aurora-a10",
+  "merk": "Doro",
+  "model": "Aurora A10",
+  "naam": "Doro Aurora A10",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": 249.99,
+   "laagste": 249.99,
+   "winkel": "MediaMarkt",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 4.5,
+  "scherm": "4,5 inch (IPS, touchscreen)",
+  "os": "Android 14",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant, Doro Secure Button)",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee (geen oplaadpinnen; draadloze laadstandaard los te koop, 69,99 euro)",
+  "hac": "ja, T4/M3",
+  "volume": "beltoon 80 dB op 1 m; gespreksversterking onbekend",
+  "valdetectie": false,
+  "beheer_op_afstand": true,
+  "beheer_detail": "ja, Response by Doro-app (helpers zien status en passen basisinstellingen aan) en TeamViewer QuickSupport; helpers kunnen ook via mydoro.com helpen",
+  "netwerk": "4G",
+  "camera": "13 MP achter, 5 MP voor",
+  "batterij_mah": 3000,
+  "bijzonderheden": "Compacte bar-smartphone met aanraaktoetsen. 4 GB RAM, 64 GB opslag, IP54, USB-C, draadloos opladen, NFC. ClearSound, spraakbediening via Google Assistant/Gemini. Lader niet inbegrepen.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a10-827c4b20/",
+  "omschrijving": "Compacte Android-smartphone met vereenvoudigde interface en een SOS-knop op de achterkant die helpers waarschuwt. Geschikt voor senioren die WhatsApp en apps willen gebruiken en hulp op afstand van familie willen kunnen krijgen.",
+  "onzeker": [
+   "WhatsApp is niet voorgeinstalleerd: de handleiding zegt 'Indien geinstalleerd, kunt u ook andere berichtenapps zoals Messenger, WhatsApp ... gebruiken' (installeren via Google Play Store).",
+   "Gespreksvolume/versterking in dB niet opgegeven; alleen beltoonvolume (80 dB op 1 m).",
+   "Response by Doro vereist een account voor gebruiker en helpers en een internetverbinding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "Belsimpel toont de A10 als 'Discontinued' (niet meer leverbaar bij Belsimpel)."
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a10-827c4b20/",
+    "prijs": 249.99
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-aurora-a10-senior-64-gb-graphite-64-gb-grijs-1892299.html",
+    "prijs": 249.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a10-827c4b20/"
+   },
+   {
+    "label": "doro.com (whatsapp, beheer_op_afstand, sos_knop)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_aurora_a10_nl_v12_r23900_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "mediamarkt.nl (laagste_prijs, prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-aurora-a10-senior-64-gb-graphite-64-gb-grijs-1892299.html"
+   },
+   {
+    "label": "doro.com (oplaadschaal)",
+    "url": "https://www.doro.com/nl-nl/producten/accessoires/oplader/"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Compacte Android-smartphone met vereenvoudigde interface en een SOS-knop op de achterkant die helpers waarschuwt. Geschikt voor senioren die WhatsApp en apps willen gebruiken en hulp op afstand van familie willen kunnen krijgen."
+ },
+ {
+  "id": "doro-aurora-a20",
+  "merk": "Doro",
+  "model": "Aurora A20",
+  "naam": "Doro Aurora A20",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": 269.99,
+   "laagste": 269.99,
+   "winkel": "MediaMarkt",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 4.5,
+  "scherm": "4,5 inch (IPS, touchscreen)",
+  "os": "Android 14",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant, Doro Secure Button)",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee (geen oplaadpinnen; draadloze laadstandaard los te koop, 69,99 euro)",
+  "hac": "ja, T4/M3",
+  "volume": "beltoon 80 dB op 1 m; gespreksversterking onbekend",
+  "valdetectie": false,
+  "beheer_op_afstand": true,
+  "beheer_detail": "ja, Response by Doro-app (helpers zien status en passen basisinstellingen aan) en TeamViewer QuickSupport; helpers kunnen ook via mydoro.com helpen",
+  "netwerk": "4G",
+  "camera": "13 MP achter, 5 MP voor",
+  "batterij_mah": 3000,
+  "bijzonderheden": "Klapmodel (clamshell) smartphone met touchscreen en inklapbaar toetsenbord met verlichting. 4 GB RAM, 64 GB opslag, IP54, USB-C, draadloos opladen, NFC. Lader niet inbegrepen.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a20-659c1e61/",
+  "omschrijving": "Android-smartphone in klapvorm met fysiek toetsenbord en touchscreen, plus een SOS-knop op de achterkant. Geschikt voor senioren die vertrouwd zijn met een klaptelefoon maar wel WhatsApp en apps willen gebruiken.",
+  "onzeker": [
+   "WhatsApp is niet voorgeinstalleerd: de handleiding zegt 'Indien geinstalleerd, kunt u ook andere berichtenapps zoals Messenger, WhatsApp ... gebruiken' (installeren via Google Play Store).",
+   "Gespreksvolume/versterking in dB niet opgegeven; alleen beltoonvolume (80 dB op 1 m).",
+   "Response by Doro vereist een account voor gebruiker en helpers en een internetverbinding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "Belsimpel toont de A20 als 'Discontinued' (niet meer leverbaar bij Belsimpel)."
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a20-659c1e61/",
+    "prijs": 269.99
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-aurora-a20-senior-64-gb-graphite-64-gb-grijs-1892301.html",
+    "prijs": 269.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a20-659c1e61/"
+   },
+   {
+    "label": "doro.com (whatsapp, beheer_op_afstand, sos_knop)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_aurora_a20_nl_v12_r23900_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "mediamarkt.nl (laagste_prijs, prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-aurora-a20-senior-64-gb-graphite-64-gb-grijs-1892301.html"
+   },
+   {
+    "label": "doro.com (oplaadschaal)",
+    "url": "https://www.doro.com/nl-nl/producten/accessoires/oplader/"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Android-smartphone in klapvorm met fysiek toetsenbord en touchscreen, plus een SOS-knop op de achterkant. Geschikt voor senioren die vertrouwd zijn met een klaptelefoon maar wel WhatsApp en apps willen gebruiken."
+ },
+ {
+  "id": "doro-aurora-a30",
+  "merk": "Doro",
+  "model": "Aurora A30",
+  "naam": "Doro Aurora A30",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": 319.99,
+   "laagste": 299.0,
+   "winkel": "MediaMarkt",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.1,
+  "scherm": "6,1 inch (IPS, touchscreen)",
+  "os": "Android 14",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant, Doro Secure Button)",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee (geen oplaadpinnen; draadloze laadstandaard los te koop, 69,99 euro)",
+  "hac": "ja, T4/M4",
+  "volume": "beltoon 80 dB op 1 m; gespreksversterking onbekend",
+  "valdetectie": false,
+  "beheer_op_afstand": true,
+  "beheer_detail": "ja, Response by Doro-app (helpers zien status en passen basisinstellingen aan) en TeamViewer QuickSupport; helpers kunnen ook via mydoro.com helpen",
+  "netwerk": "4G",
+  "camera": "50 MP + 5 MP achter, 5 MP voor",
+  "batterij_mah": 5000,
+  "bijzonderheden": "Grootste Aurora, bar-model met dubbele camera. IP54, USB-C, draadloos opladen, NFC. Lader niet inbegrepen.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a30-a4af12c0/",
+  "omschrijving": "Android-smartphone met groot 6,1-inch scherm, vereenvoudigde interface en SOS-knop op de achterkant. Geschikt voor senioren die vooral een groot scherm willen voor WhatsApp, foto's en beeldbellen.",
+  "onzeker": [
+   "WhatsApp is niet voorgeinstalleerd: de handleiding zegt 'Indien geinstalleerd, kunt u ook andere berichtenapps zoals Messenger, WhatsApp ... gebruiken' (installeren via Google Play Store).",
+   "Gespreksvolume/versterking in dB niet opgegeven; alleen beltoonvolume (80 dB op 1 m).",
+   "Response by Doro vereist een account voor gebruiker en helpers en een internetverbinding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "Laagste prijs 299 euro gezien bij zowel MediaMarkt (graphite; MediaMarkt toont 319,99 als meest toegepaste prijs van de laatste 30 dagen) als Belsimpel (zwart); witte uitvoering kost bij MediaMarkt 319,99.",
+   "Opslag 128 GB volgens MediaMarkt-producttitel; niet uit de Doro-specs gehaald."
+  ],
+  "koop": [
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-aurora-a30-senior-128-gb-graphite-128-gb-grijs-1892303.html",
+    "prijs": 299.0
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/doro-aurora-a30-4g/zwart",
+    "prijs": 299.0
+   },
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a30-a4af12c0/",
+    "prijs": 319.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a30-a4af12c0/"
+   },
+   {
+    "label": "doro.com (whatsapp, beheer_op_afstand, sos_knop)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_aurora_a30_nl_v12_r23900_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "mediamarkt.nl (laagste_prijs, prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-aurora-a30-senior-128-gb-graphite-128-gb-grijs-1892303.html"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/doro-aurora-a30-4g/zwart"
+   },
+   {
+    "label": "doro.com (oplaadschaal)",
+    "url": "https://www.doro.com/nl-nl/producten/accessoires/oplader/"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Android-smartphone met groot 6,1-inch scherm, vereenvoudigde interface en SOS-knop op de achterkant. Geschikt voor senioren die vooral een groot scherm willen voor WhatsApp, foto's en beeldbellen."
+ },
+ {
+  "id": "emporia-smart-7lite",
+  "merk": "Emporia",
+  "model": "SMART.7lite",
+  "naam": "Emporia SMART.7lite",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": 299.99,
+   "laagste": 149.0,
+   "winkel": "Belsimpel",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 5.45,
+  "scherm": "5,45 inch",
+  "os": "Android 16 (emporia-modus, Android-modus optioneel)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, M4/T4",
+  "volume": "beltoon 80,9 dB(A) op 1 m; luidspreker 80,1 dB(A) op 5 cm (versterking onbekend)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "13 + 0,3 + 2 MP achter, 8 MP voor",
+  "batterij_mah": 3500,
+  "bijzonderheden": "Fysieke no-panic-button met favorietenfunctie; smartcover; zelf te vervangen accu (1000 laadcycli); belofte van updates naar minimaal vijf volgende Android-generaties; NFC en vingerafdruksensor; IP54; geen netadapter meegeleverd.",
+  "garantie": "2 jaar (accu 6 maanden)",
+  "product_url": "https://www.emporia.eu/nl-nl/products/smart-7lite",
+  "omschrijving": "Een compacte 4G-seniorensmartphone met 5,45-inch scherm, Android 16 en een noodknop op de achterkant, met oplaadstation in de doos. Bedoeld voor senioren die een kleinere smartphone met WhatsApp en een vereenvoudigde bediening willen.",
+  "onzeker": [
+   "Oplaadstation, SOS-positie, WhatsApp en HAC M4/T4 komen uit de handleiding van de SMART.7lite v1 (2025, Android 15); de site verkoopt nu de '2026'-versie met Android 16",
+   "Belsimpel noemt 249,99 euro als adviesprijs Emporia, emporia.eu vraagt 299,99 euro; onduidelijk of Belsimpel de 2026-versie levert",
+   "Garantie op productpagina staat als '2 Jahre' (Duitse tekst)",
+   "Controle 04-11 door integrator: Belsimpel-pagina (149 euro) vermeldt Android 15, dus vermoedelijk de 2025-versie, niet de 2026-versie met Android 16. Laagste prijs geldt dan niet voor dit model."
+  ],
+  "koop": [
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/emporia-smart7lite/128gb-zwart",
+    "prijs": 149.0
+   },
+   {
+    "partner": "emporia.eu",
+    "naam": "emporia.eu",
+    "url": "https://www.emporia.eu/nl-nl/products/smart-7lite",
+    "prijs": 299.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "emporia.eu (adviesprijs_eur, schermgrootte, os, max_volume_db)",
+    "url": "https://www.emporia.eu/nl-nl/products/smart-7lite"
+   },
+   {
+    "label": "reseller.emporia.at (oplaadschaal, hac, sos_knop, whatsapp)",
+    "url": "https://reseller.emporia.at/Products/MOBILES/E7LT%20emporiaSMART.7lite/DOC/MANUAL/E7Lite_BDA-V1_18006-001-NL.pdf"
+   },
+   {
+    "label": "belsimpel.nl (laagste_prijs, prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/emporia-smart7lite/128gb-zwart"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een compacte 4G-seniorensmartphone met 5,45-inch scherm, Android 16 en een noodknop op de achterkant, met oplaadstation in de doos. Bedoeld voor senioren die een kleinere smartphone met WhatsApp en een vereenvoudigde bediening willen."
+ },
+ {
+  "id": "emporia-smart-8",
+  "merk": "Emporia",
+  "model": "SMART.8",
+  "naam": "Emporia SMART.8",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": 499.99,
+   "laagste": 449.0,
+   "winkel": "Belsimpel",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.36,
+  "scherm": "6,36 inch (OLED, 120 Hz)",
+  "os": "Android 16 (met emporia-bediening)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant)",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee (niet meegeleverd; wel draadloos/inductief opladen 15 W)",
+  "hac": "ja, M4/T4",
+  "volume": "beltoon 81 dB(A) op 1 m; luidspreker 68 dB(A) op 5 cm (versterking onbekend)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "5G",
+  "camera": "50 + 8 MP achter, 32 MP voor",
+  "batterij_mah": 3880,
+  "bijzonderheden": "Fysieke no-panic-button met favorietenfunctie; 12 maanden gratis displaygarantie; smartcover en rubberen bumpers meegeleverd; verwisselbare accu (1000 laadcycli); ASHA-streaming naar hoortoestel; eSIM + nano-sim; NFC; IP54; geen netadapter meegeleverd.",
+  "garantie": "2 jaar (accu 6 maanden)",
+  "product_url": "https://www.emporia.eu/nl-nl/products/smart-8",
+  "omschrijving": "Een 5G-seniorensmartphone met Android 16, de eenvoudige emporia-bediening en een fysieke noodknop op de achterkant. Geschikt voor senioren die WhatsApp, foto's en apps willen gebruiken en een groot scherm en hoortoestelcompatibiliteit (M4/T4) zoeken.",
+  "onzeker": [
+   "HAC M4/T4 staat in de Nederlandse handleiding (E8.5G.v1), niet op de productpagina",
+   "Coolblue, bol en MediaMarkt verkochten dit model op 04-11-2026 niet (bol-zoekresultaat toonde alleen accessoires; MediaMarkt-zoekresultaat had geen SMART.8)"
+  ],
+  "koop": [
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/emporia-smart.8/128gb-zwart",
+    "prijs": 449.0
+   },
+   {
+    "partner": "emporia.eu",
+    "naam": "emporia.eu",
+    "url": "https://www.emporia.eu/nl-nl/products/smart-8",
+    "prijs": 499.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "emporia.eu (adviesprijs_eur, schermgrootte, os, sos_knop)",
+    "url": "https://www.emporia.eu/nl-nl/products/smart-8"
+   },
+   {
+    "label": "reseller.emporia.at (hac, oplaadschaal, sos_knop, whatsapp)",
+    "url": "https://reseller.emporia.at/Products/MOBILES/E8%20emporiaSMART.8/DOC/MANUAL/E8.5G.v1_BDA-V1_11803-NED_WEB.pdf"
+   },
+   {
+    "label": "belsimpel.nl (laagste_prijs, prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/emporia-smart.8/128gb-zwart"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een 5G-seniorensmartphone met Android 16, de eenvoudige emporia-bediening en een fysieke noodknop op de achterkant. Geschikt voor senioren die WhatsApp, foto's en apps willen gebruiken en een groot scherm en hoortoestelcompatibiliteit (M4/T4) zoeken."
+ },
+ {
+  "id": "senifone-s1",
+  "merk": "Senifone",
+  "model": "S1",
+  "naam": "Senifone S1",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": 199.95,
+   "laagste": 199.95,
+   "winkel": "senifone.nl",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.53,
+  "scherm": "6,53 inch (IPS LCD, 1600 x 720, 400 nits)",
+  "os": "Android 13 (SeniOS)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (rode SOS-knop op het startscherm; ook te activeren door 5 keer op de aan/uit-knop te drukken)",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee",
+  "hac": "onbekend",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": true,
+  "beheer_detail": "ja, Senifone Companion App (gratis, iOS en Android): locatie, SOS- en batterijmeldingen, veilige zones, contacten en volume op afstand beheren; daarnaast bediening op afstand door de klantenservice via supportcode",
+  "netwerk": "4G",
+  "camera": "13 MP achter, 5 MP voor",
+  "batterij_mah": 5000,
+  "bijzonderheden": "Twee uitvoeringen: 32 GB opslag met 2 GB RAM (EUR 199,95) en 64 GB met 4 GB RAM (EUR 239,95). Dual nano-SIM, simlockvrij, microSD tot 512 GB, Google Play Store aanwezig, geen NFC (geen contactloos betalen met het toestel). Opladen via Micro-USB (10 W), adapter en kabel meegeleverd. Medische ID op het vergrendelscherm. 30 dagen uitproberen met gratis retour via de retourservice van Senifone. Gewicht 196 g.",
+  "garantie": "2 jaar (Senifone hanteert in de praktijk 2 jaar voor defecten die niet door de gebruiker zijn veroorzaakt; daarnaast wettelijke garantie)",
+  "product_url": "https://senifone.nl/products/senioren-smartphone",
+  "omschrijving": "Android-smartphone met een vereenvoudigde schil, grote knoppen, contactfoto's op het startscherm en een instelbare SOS-knop, met toegang tot de Play Store voor apps als WhatsApp. Geschikt voor senioren die een gewone smartphone willen gebruiken met hulp van familie op afstand via de Companion App.",
+  "onzeker": [
+   "hac: geen HAC- of M/T-rating vermeld. senifone.nl zegt alleen dat veel gehoorapparaten via Bluetooth koppelen; de MediaMarkt-listing (tekst van verkoper Senifone) noemt 'versterkt geluid en geschikt voor gebruik met een hoortoestel' zonder rating.",
+   "max_volume_db: nergens een dB-waarde gevonden; 'versterkt geluid' staat alleen in de MediaMarkt-listing.",
+   "valdetectie: niet genoemd op senifone.nl, in de online handleiding of op de Companion-pagina. Wel 'melding bij inactiviteit' in de Companion App; dat is geen valdetectie.",
+   "oplaadschaal: 'nee' is afgeleid: in de doos zitten adapter en Micro-USB-kabel, en het accessoire-assortiment van senifone.nl bevat geen oplaadschaal (wel een losse magnetische oplaadkabel van EUR 16,95).",
+   "Companion App is volgens senifone.nl in bètafase: per account kan nu 1 Senifone-toestel worden gekoppeld.",
+   "Batterijduur: senifone.nl zegt 2 tot 4 dagen; de MediaMarkt-listing zegt 'ruim een dag'.",
+   "bol-verkopertekst zegt dat de S1 gebaseerd is op een Redmi 9A; dat staat niet op senifone.nl.",
+   "Adviesprijs is de prijs van de 32 GB-uitvoering; senifone.nl noemt 64 GB 'de populairste keuze' (EUR 239,95)."
+  ],
+  "koop": [
+   {
+    "partner": "senifone",
+    "naam": "Senifone",
+    "url": "https://senifone.nl/products/senioren-smartphone",
+    "prijs": 199.95
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_senifone-s1-32-gb-zwart-4g-lte-180770099.html",
+    "prijs": 199.95
+   },
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/senifone-s1-senioren-smartphone-zwart-voor-ouderen-32gb-whatsapp-sos-functie/9300000126203888/",
+    "prijs": 209.95
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "senifone.nl (adviesprijs_eur, laagste_prijs, prijzen_gezien, schermgrootte)",
+    "url": "https://senifone.nl/products/senioren-smartphone"
+   },
+   {
+    "label": "senifone.nl (prijzen_gezien, oplaadschaal)",
+    "url": "https://senifone.nl/products.json"
+   },
+   {
+    "label": "senifone.nl (whatsapp, hac, garantie, bijzonderheden)",
+    "url": "https://senifone.nl/pages/help"
+   },
+   {
+    "label": "senifone.nl (beheer_op_afstand, valdetectie)",
+    "url": "https://senifone.nl/pages/companion-app"
+   },
+   {
+    "label": "manual.senifone.com (sos_knop)",
+    "url": "https://manual.senifone.com/nl/docs/sos/"
+   },
+   {
+    "label": "manual.senifone.com (beheer_op_afstand)",
+    "url": "https://manual.senifone.com/nl/docs/companion/"
+   },
+   {
+    "label": "manual.senifone.com (beheer_op_afstand)",
+    "url": "https://manual.senifone.com/nl/docs/settings/customer-support/"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien, verkrijgbaar_bij, hac, max_volume_db)",
+    "url": "https://www.mediamarkt.nl/nl/product/_senifone-s1-32-gb-zwart-4g-lte-180770099.html"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien, verkrijgbaar_bij)",
+    "url": "https://www.mediamarkt.nl/nl/product/_senifone-s1-32-gb-zwart-4g-lte-180770098.html"
+   },
+   {
+    "label": "bol.com (prijzen_gezien, verkrijgbaar_bij)",
+    "url": "https://www.bol.com/nl/nl/p/senifone-s1-senioren-smartphone-zwart-voor-ouderen-32gb-whatsapp-sos-functie/9300000126203888/"
+   },
+   {
+    "label": "coolblue.nl (verkrijgbaar_bij)",
+    "url": "https://www.coolblue.nl/zoeken?query=senifone"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Android-smartphone met een vereenvoudigde schil, grote knoppen, contactfoto's op het startscherm en een instelbare SOS-knop, met toegang tot de Play Store voor apps als WhatsApp. Geschikt voor senioren die een gewone smartphone willen gebruiken met hulp van familie op afstand via de Companion App."
+ },
+ {
+  "id": "seniorentab-s616",
+  "merk": "SeniorenTab",
+  "model": "S616",
+  "naam": "SeniorenTab S616",
+  "type": "seniorensmartphone",
+  "type_label": "Seniorensmartphone",
+  "prijs": {
+   "advies": null,
+   "laagste": 359.0,
+   "winkel": "MediaMarkt (marketplace: SeniorenTAB Official)",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.7,
+  "scherm": "6,7 inch (Super AMOLED, touchscreen)",
+  "os": "Android (op Samsung Galaxy A16) met SeniorenTAB-tegelinterface",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": true,
+  "sos_detail": "ja (SOS-functie; of het een fysieke knop is: onbekend)",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee",
+  "hac": "ja (geschikt voor gehoorapparaat, rating onbekend)",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": true,
+  "beheer_detail": "ja, hulp op afstand via SeniorenTAB-servicedesk; toestel kan samen met mantelzorger worden ingericht",
+  "netwerk": "4G",
+  "camera": "50 MP achter (drie camera's), 13 MP voor",
+  "batterij_mah": 5000,
+  "bijzonderheden": "Samsung Galaxy A16 met vaste, grote tegels van SeniorenTAB. Servicedesk eerste jaar inbegrepen; bij de Knox-varianten is daarna een abonnement van 5,95 euro per maand vereist (servicedesk, extra beveiliging, hulp op afstand, updates). Geen lader in de doos. IP54, NFC, 128 GB opslag.",
+  "garantie": "onbekend",
+  "product_url": "https://www.mediamarkt.nl/nl/product/_seniorentab-s616-128-gb-zwart-156983192.html",
+  "omschrijving": "Samsung-smartphone met een vaste tegelinterface van SeniorenTAB, groot 6,7-inch scherm en SOS-functie, met ondersteuning via een servicedesk. Geschikt voor senioren die WhatsApp en beeldbellen willen gebruiken en hulp op afstand willen, met een maandelijkse servicebijdrage na het eerste jaar bij de Knox-varianten.",
+  "onzeker": [
+   "seniorentab.nl gaf HTTP 403 (curl, WebFetch, DataForSEO): geen adviesprijs, garantie of eigen productpagina gecontroleerd; product_url is de MediaMarkt-pagina.",
+   "Abonnement: 5,95 euro per maand na het eerste jaar staat expliciet als 'vereist' op de S616 Knox- en Knox Voordeelpakket-pagina's; op de gewone S616-pagina staat het niet, maar de spec 'Vereiste app/service voor gebruik' staat daar wel op 'Ja'.",
+   "WhatsApp 'al geinstalleerd' staat alleen in de tekst van het Knox Voordeelpakket; die tekst noemt ook 4G en 5G, terwijl de specs 4G (LTE) noemen.",
+   "Laagste prijs is de gewone S616 (359 euro); de S616 Knox-variant was goedkoper (349 euro) maar heeft het verplichte abonnement.",
+   "MediaMarkt-specs bevatten twijfelachtige waarden (gewicht 280 g, dual-sim 'Nee', afmetingen); niet overgenomen.",
+   "Niet gecontroleerd bij Coolblue en Belsimpel (geen SeniorenTab gevonden in Belsimpel-zoekresultaten); bol gaf 403."
+  ],
+  "koop": [
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_seniorentab-s616-knox-128-gb-zwart-156983168.html",
+    "prijs": 349.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "mediamarkt.nl (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.mediamarkt.nl/nl/product/_seniorentab-s616-128-gb-zwart-156983192.html"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien, bijzonderheden, beheer_op_afstand)",
+    "url": "https://www.mediamarkt.nl/nl/product/_seniorentab-s616-knox-128-gb-zwart-156983168.html"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien, whatsapp, bijzonderheden)",
+    "url": "https://www.mediamarkt.nl/nl/product/_seniorentab-s616-knox-voordeelpakket-128-gb-zwart-156983040.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Samsung-smartphone met een vaste tegelinterface van SeniorenTAB, groot 6,7-inch scherm en SOS-functie, met ondersteuning via een servicedesk. Geschikt voor senioren die WhatsApp en beeldbellen willen gebruiken en hulp op afstand willen, met een maandelijkse servicebijdrage na het eerste jaar bij de Knox-varianten."
+ },
+ {
+  "id": "apple-iphone-17e",
+  "merk": "Apple",
+  "model": "iPhone 17e",
+  "naam": "Apple iPhone 17e",
+  "type": "smartphone",
+  "type_label": "Gewone smartphone (eenvoudige stand)",
+  "prijs": {
+   "advies": 869.0,
+   "laagste": 779.0,
+   "winkel": "bol (verkoper Clevertronic, kleur lichtroze)",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.1,
+  "scherm": "6,1 inch (OLED)",
+  "os": "iOS 26 of nieuwer (specs-pagina noemt iOS 26 en iOS 27)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": false,
+  "sos_detail": "nee (geen aparte knop; SOS-noodmelding via satelliet)",
+  "oplaadschaal": null,
+  "oplaadschaal_detail": "onbekend",
+  "hac": "ja (HAC via FCC-waiver DA 23-914, geen M/T-rating; telecoil ja)",
+  "volume": "onbekend (HAC-tabel Apple: conversational gain 16 dB met / 22 dB zonder hoortoestel)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "5G",
+  "camera": "48 MP achter, 12 MP voor",
+  "batterij_mah": null,
+  "bijzonderheden": "Toegankelijkheidsmodus Assistive Access (vereenvoudigd scherm met grote knoppen, in te stellen door een vertrouwde helper); Ongelukdetectie (auto-ongeluk); compatibel met Made for iPhone-hoortoestellen; draadloos opladen via MagSafe tot 15 W; IP68; opslag vanaf 256 GB.",
+  "garantie": "1 jaar Apple-garantie, naast de wettelijke rechten",
+  "product_url": "https://www.apple.com/nl/iphone-17e/",
+  "omschrijving": "De goedkoopste nieuwe iPhone bij Apple Nederland, met 6,1-inch scherm, Ongelukdetectie en de vereenvoudigde modus Assistive Access. Geschikt voor senioren die in een iPhone-gezin willen meedoen en een helper hebben om de eenvoudige modus in te richten.",
+  "onzeker": [
+   "Laagste prijs is een bol-partneraanbod (Clevertronic) op de pagina van het nieuwe product; Apple, Coolblue en MediaMarkt vragen 869 euro",
+   "Valdetectie niet genoemd; Apple noemt alleen Ongelukdetectie (ernstig auto-ongeluk)",
+   "HAC-tabel van Apple betreft model A3575 (VS-registratie, FCC ID BCG-E9145A)",
+   "Batterijcapaciteit in mAh staat niet op de specs-pagina (alleen tot 26 uur video afspelen)",
+   "iPhone 16e staat niet meer op apple.com/nl; iPhone 17e is de opvolger"
+  ],
+  "koop": [
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/apple-iphone-17e-256-gb-lichtroze/9300000266256322/",
+    "prijs": 779.0
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/apple-iphone-17e/256gb-zwart",
+    "prijs": 849.0
+   },
+   {
+    "partner": "coolblue",
+    "naam": "Coolblue",
+    "url": "https://www.coolblue.nl/product/976729/apple-iphone-17e-zwart-256gb.html",
+    "prijs": 869.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "apple.com (adviesprijs_eur, prijzen_gezien)",
+    "url": "https://www.apple.com/nl/shop/buy-iphone/iphone-17e"
+   },
+   {
+    "label": "apple.com (schermgrootte, os, sos_knop, netwerk)",
+    "url": "https://www.apple.com/nl/iphone-17e/specs/"
+   },
+   {
+    "label": "apple.com (bijzonderheden)",
+    "url": "https://www.apple.com/nl/iphone-17e/"
+   },
+   {
+    "label": "support.apple.com (hac, max_volume_db)",
+    "url": "https://support.apple.com/en-us/106349"
+   },
+   {
+    "label": "support.apple.com (bijzonderheden)",
+    "url": "https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios"
+   },
+   {
+    "label": "apple.com (garantie)",
+    "url": "https://www.apple.com/legal/warranty/products/netherlands-universal-warranty.html"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "bol.com (laagste_prijs)",
+    "url": "https://www.bol.com/nl/nl/p/apple-iphone-17e-256-gb-lichtroze/9300000266256322/"
+   },
+   {
+    "label": "bol.com (prijzen_gezien)",
+    "url": "https://www.bol.com/nl/nl/p/apple-iphone-17e-5g-256gb-zwart/9300000266256313/"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/apple-iphone-17e/256gb-zwart"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/976729/apple-iphone-17e-zwart-256gb.html"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_apple-iphone-17e-5g-256-gb-black-1897229.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "De goedkoopste nieuwe iPhone bij Apple Nederland, met 6,1-inch scherm, Ongelukdetectie en de vereenvoudigde modus Assistive Access. Geschikt voor senioren die in een iPhone-gezin willen meedoen en een helper hebben om de eenvoudige modus in te richten."
+ },
+ {
+  "id": "samsung-galaxy-a17",
+  "merk": "Samsung",
+  "model": "Galaxy A17",
+  "naam": "Samsung Galaxy A17",
+  "type": "smartphone",
+  "type_label": "Gewone smartphone (eenvoudige stand)",
+  "prijs": {
+   "advies": 249.0,
+   "laagste": 188.0,
+   "winkel": "Belsimpel",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.7,
+  "scherm": "6,7 inch (Super AMOLED, 90 Hz)",
+  "os": "Android 16 (bij introductie, One UI)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": false,
+  "sos_detail": "nee (geen aparte knop; SOS-berichten door 3x op de zijknop te drukken)",
+  "oplaadschaal": null,
+  "oplaadschaal_detail": "onbekend",
+  "hac": "onbekend",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "50 + 5 + 2 MP achter, 13 MP voor",
+  "batterij_mah": 5000,
+  "bijzonderheden": "Eenvoudige modus (grotere iconen en letters) in de instellingen; SOS-berichten sturen locatie, foto's en geluidsopname naar gekozen contacten; beveiligingsupdates tot 30 september 2031; 4 GB RAM, 128 GB opslag; dual-sim; NFC.",
+  "garantie": "2 jaar (fabrieksgarantie volgens Samsung NL)",
+  "product_url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbbeub/",
+  "omschrijving": "Een gewone Android-smartphone met groot 6,7-inch scherm en lange software-ondersteuning, zonder speciale seniorenhardware. Geschikt voor senioren die een volwaardige smartphone met WhatsApp willen en de Eenvoudige modus en SOS-berichten zelf of met hulp instellen.",
+  "onzeker": [
+   "HAC: Samsung publiceert voor het EU-model geen M/T-rating die ik vond; HAC-lijsten van Amerikaanse providers gaan over VS-modellen (SM-A17xU)",
+   "Eenvoudige modus (Easy Mode) en SOS-berichten komen uit Samsung-supportpagina's van Australie en het VK, niet uit een NL-modelpagina",
+   "Adviesprijs = prijs op samsung.com/nl vandaag; Belsimpel noemt een lagere 'adviesprijs Samsung'",
+   "OS bij introductie: Samsung NL noemt Android 16.0, bol noemt Android 15"
+  ],
+  "koop": [
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/samsung-galaxy-a17/128gb-zwart",
+    "prijs": 188.0
+   },
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-4g-128gb-black/9300000244479600/",
+    "prijs": 195.42
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_samsung-galaxy-a17-4g-128-gb-gray-1890034.html",
+    "prijs": 199.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "samsung.com (adviesprijs_eur, schermgrootte, os, netwerk)",
+    "url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbbeub/"
+   },
+   {
+    "label": "samsung.com (sos_knop, bijzonderheden)",
+    "url": "https://www.samsung.com/uk/support/mobile-devices/activating-sos-messages/"
+   },
+   {
+    "label": "samsung.com (bijzonderheden)",
+    "url": "https://www.samsung.com/au/support/mobile-devices/using-easy-mode/"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "belsimpel.nl (laagste_prijs)",
+    "url": "https://www.belsimpel.nl/samsung-galaxy-a17/128gb-zwart"
+   },
+   {
+    "label": "bol.com (prijzen_gezien, os)",
+    "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-4g-128gb-black/9300000244479600/"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_samsung-galaxy-a17-4g-128-gb-gray-1890034.html"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/967616/samsung-galaxy-a17-128gb-grijs-4g.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een gewone Android-smartphone met groot 6,7-inch scherm en lange software-ondersteuning, zonder speciale seniorenhardware. Geschikt voor senioren die een volwaardige smartphone met WhatsApp willen en de Eenvoudige modus en SOS-berichten zelf of met hulp instellen."
+ },
+ {
+  "id": "samsung-galaxy-a17-5g",
+  "merk": "Samsung",
+  "model": "Galaxy A17 5G",
+  "naam": "Samsung Galaxy A17 5G",
+  "type": "smartphone",
+  "type_label": "Gewone smartphone (eenvoudige stand)",
+  "prijs": {
+   "advies": 299.0,
+   "laagste": 209.0,
+   "winkel": "Belsimpel",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.7,
+  "scherm": "6,7 inch (Super AMOLED, 90 Hz)",
+  "os": "Android 15 (bij introductie, One UI)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": false,
+  "sos_detail": "nee (geen aparte knop; SOS-berichten door 3x op de zijknop te drukken)",
+  "oplaadschaal": null,
+  "oplaadschaal_detail": "onbekend",
+  "hac": "onbekend",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "5G",
+  "camera": "50 + 5 + 2 MP achter, 13 MP voor",
+  "batterij_mah": 5000,
+  "bijzonderheden": "Eenvoudige modus in de instellingen; SOS-berichten via zijknop; ondersteunt ASHA-streaming naar Bluetooth-hoortoestellen; beveiligingsupdates tot 31 augustus 2031; 4 GB RAM, 128 GB opslag; dual-sim.",
+  "garantie": "2 jaar (fabrieksgarantie volgens Samsung NL)",
+  "product_url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a17-5g-gray-128gb-sm-a176bzaaeub/",
+  "omschrijving": "De 5G-variant van de Galaxy A17: een gewone Android-smartphone met 6,7-inch scherm en streaming naar Bluetooth-hoortoestellen (ASHA). Geschikt voor senioren die een betaalbare volwaardige smartphone willen en de Eenvoudige modus gebruiken.",
+  "onzeker": [
+   "HAC: Samsung publiceert voor het EU-model geen M/T-rating die ik vond; HAC-lijsten van Amerikaanse providers gaan over VS-modellen (SM-A17xU)",
+   "Eenvoudige modus (Easy Mode) en SOS-berichten komen uit Samsung-supportpagina's van Australie en het VK, niet uit een NL-modelpagina",
+   "Adviesprijs = prijs op samsung.com/nl vandaag; Belsimpel noemt een lagere 'adviesprijs Samsung'",
+   "Garantie: de uitspraak '2 jaar standaard fabrieksgarantie' staat op de Samsung NL-pagina van de Galaxy A17 (4G), niet op deze pagina",
+   "VS-variant SM-A176U staat bij Amerikaanse providers als HAC M3/T3; geldt niet aantoonbaar voor het EU-model SM-A176B"
+  ],
+  "koop": [
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/samsung-galaxy-a17-5g/128gb-zwart",
+    "prijs": 209.0
+   },
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-5g-128gb-black/9300000236944098/",
+    "prijs": 219.0
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_samsung-galaxy-a17-5g-128gb-black-128-gb-zwart-1888625.html",
+    "prijs": 229.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "samsung.com (adviesprijs_eur, schermgrootte, os, netwerk)",
+    "url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a17-5g-gray-128gb-sm-a176bzaaeub/"
+   },
+   {
+    "label": "samsung.com (garantie)",
+    "url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbbeub/"
+   },
+   {
+    "label": "samsung.com (sos_knop)",
+    "url": "https://www.samsung.com/uk/support/mobile-devices/activating-sos-messages/"
+   },
+   {
+    "label": "samsung.com (bijzonderheden)",
+    "url": "https://www.samsung.com/au/support/mobile-devices/using-easy-mode/"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "belsimpel.nl (laagste_prijs)",
+    "url": "https://www.belsimpel.nl/samsung-galaxy-a17-5g/128gb-zwart"
+   },
+   {
+    "label": "bol.com (prijzen_gezien)",
+    "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-5g-128gb-black/9300000236944098/"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_samsung-galaxy-a17-5g-128gb-black-128-gb-zwart-1888625.html"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/967620/samsung-galaxy-a17-128gb-zwart-5g.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "De 5G-variant van de Galaxy A17: een gewone Android-smartphone met 6,7-inch scherm en streaming naar Bluetooth-hoortoestellen (ASHA). Geschikt voor senioren die een betaalbare volwaardige smartphone willen en de Eenvoudige modus gebruiken."
+ },
+ {
+  "id": "samsung-galaxy-a18",
+  "merk": "Samsung",
+  "model": "Galaxy A18",
+  "naam": "Samsung Galaxy A18",
+  "type": "smartphone",
+  "type_label": "Gewone smartphone (eenvoudige stand)",
+  "prijs": {
+   "advies": 269.0,
+   "laagste": 208.0,
+   "winkel": "Belsimpel",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 6.7,
+  "scherm": "6,7 inch (Super AMOLED)",
+  "os": "Android 17 (bij introductie, One UI 9)",
+  "whatsapp": true,
+  "whatsapp_detail": "ja",
+  "sos_knop": false,
+  "sos_detail": "nee (geen aparte knop; SOS-berichten door 3x op de zijknop te drukken)",
+  "oplaadschaal": null,
+  "oplaadschaal_detail": "onbekend",
+  "hac": "onbekend",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "50 + 5 + 2 MP achter, 13 MP voor",
+  "batterij_mah": 5000,
+  "bijzonderheden": "Opvolger van de A16/A17-lijn; tot 6 OS-upgrades en beveiligingsupdates tot 31 oktober 2032; ASHA-streaming naar Bluetooth-hoortoestellen; Eenvoudige modus; 4 GB RAM, 128 GB opslag, microSD tot 2 TB; NFC.",
+  "garantie": "2 jaar (fabrieksgarantie volgens Samsung NL)",
+  "product_url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a18-light-blue-128gb-sm-a185flbdeub/",
+  "omschrijving": "Het nieuwste 4G-model in Samsungs goedkoopste A-lijn, met 6,7-inch scherm en software-ondersteuning tot eind 2032. Geschikt voor senioren die een volwaardige smartphone lang willen gebruiken en hoortoestellen via Bluetooth koppelen.",
+  "onzeker": [
+   "HAC: Samsung publiceert voor het EU-model geen M/T-rating die ik vond; HAC-lijsten van Amerikaanse providers gaan over VS-modellen (SM-A17xU)",
+   "Eenvoudige modus (Easy Mode) en SOS-berichten komen uit Samsung-supportpagina's van Australie en het VK, niet uit een NL-modelpagina",
+   "Adviesprijs = prijs op samsung.com/nl vandaag; Belsimpel noemt een lagere 'adviesprijs Samsung'",
+   "Garantie: de uitspraak '2 jaar standaard fabrieksgarantie' staat op de Samsung NL-pagina van de Galaxy A17 (4G), niet op deze pagina"
+  ],
+  "koop": [
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/samsung-galaxy-a18/128gb-zwart",
+    "prijs": 208.0
+   },
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a18-4g-smartphone-128gb-black/9300000378317623/",
+    "prijs": 225.0
+   },
+   {
+    "partner": "coolblue",
+    "naam": "Coolblue",
+    "url": "https://www.coolblue.nl/product/985765/samsung-galaxy-a18-128gb-zwart-4g.html",
+    "prijs": 259.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "samsung.com (adviesprijs_eur, schermgrootte, os, netwerk)",
+    "url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a18-light-blue-128gb-sm-a185flbdeub/"
+   },
+   {
+    "label": "samsung.com (garantie)",
+    "url": "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbbeub/"
+   },
+   {
+    "label": "samsung.com (sos_knop)",
+    "url": "https://www.samsung.com/uk/support/mobile-devices/activating-sos-messages/"
+   },
+   {
+    "label": "samsung.com (bijzonderheden)",
+    "url": "https://www.samsung.com/au/support/mobile-devices/using-easy-mode/"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "belsimpel.nl (laagste_prijs)",
+    "url": "https://www.belsimpel.nl/samsung-galaxy-a18/128gb-zwart"
+   },
+   {
+    "label": "bol.com (prijzen_gezien)",
+    "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a18-4g-smartphone-128gb-black/9300000378317623/"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/985765/samsung-galaxy-a18-128gb-zwart-4g.html"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_samsung-galaxy-a18-4g-128-gb-black-1913797.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Het nieuwste 4G-model in Samsungs goedkoopste A-lijn, met 6,7-inch scherm en software-ondersteuning tot eind 2032. Geschikt voor senioren die een volwaardige smartphone lang willen gebruiken en hoortoestellen via Bluetooth koppelen."
+ },
+ {
+  "id": "doro-leva-e20",
+  "merk": "Doro",
+  "model": "Leva E20",
+  "naam": "Doro Leva E20",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 84.99,
+   "laagste": 84.99,
+   "winkel": "Doro webshop",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch (TFT)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht; geen locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (los te koop, bureauoplader Leva L20/E20, 22,99 euro)",
+  "hac": "ja, M4/T4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "0,3 MP (geïnterpoleerd)",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Instap-klaptelefoon met contrastrijke toetsen en HD Voice. Oplaadschaal niet meegeleverd (wel bij de verder gelijke E22). Verwisselbare batterij, FM-radio.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e20/",
+  "omschrijving": "Eenvoudige klaptelefoon met grote toetsen, HD Voice en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een goedkope klaptelefoon voor bellen en sms'en zoeken.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "Alleen bij de Doro webshop gezien; niet gevonden bij MediaMarkt en Belsimpel."
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e20/",
+    "prijs": 84.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e20/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e20_nl_v30_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "doro.com (oplaadschaal)",
+    "url": "https://www.doro.com/nl-nl/producten/accessoires/oplader/"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Eenvoudige klaptelefoon met grote toetsen, HD Voice en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een goedkope klaptelefoon voor bellen en sms'en zoeken."
+ },
+ {
+  "id": "doro-leva-e22",
+  "merk": "Doro",
+  "model": "Leva E22",
+  "naam": "Doro Leva E22",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 89.99,
+   "laagste": 89.99,
+   "winkel": "Doro webshop",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch (TFT)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht; geen locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, M4/T4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "0,3 MP (geïnterpoleerd)",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Zelfde toestel als de E20 (modelnaam DFC-0610), maar met oplaadschaal in de doos. HD Voice, verwisselbare batterij, FM-radio.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e22-0b338e63/",
+  "omschrijving": "Eenvoudige klaptelefoon met grote toetsen, HD Voice, oplaadschaal en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een klaptelefoon willen die makkelijk op te laden is.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "MediaMarkt toont de E22 (zwart en rood) voor 99,99 euro, maar online niet leverbaar (alleen winkelvoorraad); daarom niet als prijs opgenomen: https://www.mediamarkt.nl/nl/product/_doro-1892295.html"
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e22-0b338e63/",
+    "prijs": 89.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e22-0b338e63/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e22_nl_v30_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Eenvoudige klaptelefoon met grote toetsen, HD Voice, oplaadschaal en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een klaptelefoon willen die makkelijk op te laden is."
+ },
+ {
+  "id": "doro-leva-e30",
+  "merk": "Doro",
+  "model": "Leva E30",
+  "naam": "Doro Leva E30",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 99.99,
+   "laagste": 99.99,
+   "winkel": "Doro webshop",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch binnen + 1,77 inch buiten (TFT)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht; geen locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, M4/T4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "0,3 MP (geïnterpoleerd)",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Klaptelefoon met extern scherm voor nummerweergave en meldingen; opnemen door open te klappen. HD Voice, verwisselbare batterij, FM-radio.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e30/",
+  "omschrijving": "Klaptelefoon met buitenscherm dat toont wie belt, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een betaalbare klaptelefoon met nummerweergave zoeken.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "MediaMarkt toont de E30 voor 109,99 euro, maar online niet leverbaar (alleen winkelvoorraad); daarom niet als prijs opgenomen: https://www.mediamarkt.nl/nl/product/_doro-1892297.html"
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e30/",
+    "prijs": 99.99
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/doro-leva-e30/rood",
+    "prijs": 117.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e30/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e30_nl_v30_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/doro-leva-e30/rood"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Klaptelefoon met buitenscherm dat toont wie belt, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die een betaalbare klaptelefoon met nummerweergave zoeken."
+ },
+ {
+  "id": "doro-leva-l20",
+  "merk": "Doro",
+  "model": "Leva L20",
+  "naam": "Doro Leva L20",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 114.99,
+   "laagste": 114.99,
+   "winkel": "Doro webshop",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch (TFT)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht met GPS-locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, T4/M4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "2 MP",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Klaptelefoon met grote contrastrijke toetsen, HD Voice, verwisselbare batterij, FM-radio, 3,5 mm-aansluiting.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l20-5166a9b8/",
+  "omschrijving": "Klaptelefoon met groot scherm, contrastrijke toetsen en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die een eenvoudige klaptelefoon voor bellen en sms'en zoeken.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "MediaMarkt-aanbod van 116 euro is van een marketplace-verkoper (HardwareXL by Informatique)."
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l20-5166a9b8/",
+    "prijs": 114.99
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l20-4g-senior-flip-phone-met-sos-button-17-mb-zwart-1884463.html",
+    "prijs": 116.0
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/doro-leva-l20/zwart",
+    "prijs": 125.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l20-5166a9b8/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_l20_nl_v40_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/doro-leva-l20/zwart"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l20-4g-senior-flip-phone-met-sos-button-17-mb-zwart-1884463.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Klaptelefoon met groot scherm, contrastrijke toetsen en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die een eenvoudige klaptelefoon voor bellen en sms'en zoeken."
+ },
+ {
+  "id": "doro-leva-l30",
+  "merk": "Doro",
+  "model": "Leva L30",
+  "naam": "Doro Leva L30",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 124.99,
+   "laagste": 116.0,
+   "winkel": "MediaMarkt",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch binnen + 1,4 inch buiten (TFT)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht met GPS-locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, T4/M4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "2 MP",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Klaptelefoon met extern scherm voor nummerweergave en meldingen; opnemen door open te klappen. HD Voice, verwisselbare batterij, FM-radio.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l30-e845f699/",
+  "omschrijving": "Klaptelefoon met buitenscherm dat toont wie belt, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die een klaptelefoon willen en willen zien wie er belt zonder open te klappen.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "Laagste prijs geldt voor de rode uitvoering (116 euro); zwart kost bij MediaMarkt 117 euro."
+  ],
+  "koop": [
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l30-4g-senior-flip-phone-met-sos-button-17-mb-rood-1884466.html",
+    "prijs": 116.0
+   },
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l30-e845f699/",
+    "prijs": 124.99
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/doro-leva-l30/zwart",
+    "prijs": 129.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l30-e845f699/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_l30_nl_v40_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "mediamarkt.nl (laagste_prijs)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l30-4g-senior-flip-phone-met-sos-button-17-mb-rood-1884466.html"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l30-4g-senior-flip-phone-met-sos-button-17-mb-zwart-1884465.html"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/doro-leva-l30/zwart"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Klaptelefoon met buitenscherm dat toont wie belt, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die een klaptelefoon willen en willen zien wie er belt zonder open te klappen."
+ },
+ {
+  "id": "emporia-joy-lte",
+  "merk": "Emporia",
+  "model": "JOY-LTE",
+  "naam": "Emporia JOY-LTE",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 99.99,
+   "laagste": 89.0,
+   "winkel": "Belsimpel",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch binnen + 1,1 inch buiten",
+  "os": "eigen OS",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (noodoproepknop)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (los te koop: emporia laadkom, op emporia.eu 04-11-2026 niet op voorraad)",
+  "hac": "ja, M4/T4",
+  "volume": "beltoon 82,4 dB(A) op 1 m; luidspreker 79,8 dB(A) op 5 cm (versterking onbekend)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "2 MP",
+  "batterij_mah": 1300,
+  "bijzonderheden": "Drie snelkeuzetoetsen; automatisch opnemen bij openklappen; buitendisplay voor nummerweergave; IP44; geen netadapter meegeleverd.",
+  "garantie": "2 jaar (accu 6 maanden)",
+  "product_url": "https://www.emporia.eu/nl-nl/products/joy-lte",
+  "omschrijving": "Een 4G-klaptelefoon met grote toetsen, drie snelkeuzetoetsen en een noodoproepknop. Geschikt voor senioren die vooral willen bellen en sms'en en een hoortoestel dragen (M4/T4).",
+  "onzeker": [
+   "WhatsApp 'nee' is afgeleid: eigen besturingssysteem (Proprietary OS), WhatsApp ondersteunt volgens de WhatsApp-FAQ Android en iOS; geen expliciete uitspraak van Emporia",
+   "Positie van de noodknop staat niet op de productpagina",
+   "Laadkom-compatibiliteit (JOY-LTE V228-LTE) komt van de laadkom-pagina; de productpagina noemt geen oplaadstation in de doos, de handleiding was niet op te halen",
+   "Garantie op productpagina staat als '2 Jahre'; beschrijving noemt 'garantie van twee jaar'"
+  ],
+  "koop": [
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/emporia-joy-4g/zwart",
+    "prijs": 89.0
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_emporia-joy-4g-senior-feature-phone-zwart-128-mb-zwart-1886115.html",
+    "prijs": 99.99
+   },
+   {
+    "partner": "emporia.eu",
+    "naam": "emporia.eu",
+    "url": "https://www.emporia.eu/nl-nl/products/joy-lte",
+    "prijs": 99.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "emporia.eu (adviesprijs_eur, schermgrootte, os, sos_knop)",
+    "url": "https://www.emporia.eu/nl-nl/products/joy-lte"
+   },
+   {
+    "label": "emporia.eu (oplaadschaal)",
+    "url": "https://www.emporia.eu/nl-nl/products/tischlader"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "belsimpel.nl (laagste_prijs)",
+    "url": "https://www.belsimpel.nl/emporia-joy-4g/zwart"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_emporia-joy-4g-senior-feature-phone-zwart-128-mb-zwart-1886115.html"
+   },
+   {
+    "label": "bol.com (prijzen_gezien)",
+    "url": "https://www.bol.com/nl/nl/p/emporia-joy-senioren-mobiele-telefoon-compatibel-met-gehoorapparaat-zwart/9300000104902482/"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/925517/emporia-joy-senioren-telefoon-zwart.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een 4G-klaptelefoon met grote toetsen, drie snelkeuzetoetsen en een noodoproepknop. Geschikt voor senioren die vooral willen bellen en sms'en en een hoortoestel dragen (M4/T4)."
+ },
+ {
+  "id": "emporia-simplicityglam-4g",
+  "merk": "Emporia",
+  "model": "SIMPLICITYglam.4G",
+  "naam": "Emporia SIMPLICITYglam.4G",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 79.99,
+   "laagste": 79.99,
+   "winkel": "MediaMarkt",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch",
+  "os": "eigen OS",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, M4/T4",
+  "volume": "beltoon 81,2 dB(A) op 1 m; luidspreker 80,1 dB(A) op 5 cm (versterking onbekend)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "geen",
+  "batterij_mah": 1300,
+  "bijzonderheden": "Extra grote, verlichte en verhoogde toetsen; drie snelkeuzetoetsen; automatisch opnemen bij openklappen; LED-statuslampjes; verwisselbare accu; Bluetooth 5.0; IP44; geen netadapter meegeleverd.",
+  "garantie": "2 jaar (accu 6 maanden)",
+  "product_url": "https://www.emporia.eu/nl-nl/products/simplicityglam-4g",
+  "omschrijving": "Een witte 4G-klaptelefoon met grote verlichte toetsen, een noodknop op de achterkant en een oplaadstation in de doos. Bedoeld voor senioren die eenvoudig willen bellen en een hoortoestel gebruiken (M4/T4).",
+  "onzeker": [
+   "Camera 'geen': de specificatielijst op emporia.eu noemt geen camera; niet expliciet uitgesloten",
+   "WhatsApp 'nee' is afgeleid uit het eigen besturingssysteem (zie WhatsApp-FAQ: Android en iOS)",
+   "Garantie op productpagina staat als '2 Jahre' (Duitse tekst)"
+  ],
+  "koop": [
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_emporia-simplicity-glam-4g-feature-phone-64-mb-wit-64-mb-wit-1886114.html",
+    "prijs": 79.99
+   },
+   {
+    "partner": "emporia.eu",
+    "naam": "emporia.eu",
+    "url": "https://www.emporia.eu/nl-nl/products/simplicityglam-4g",
+    "prijs": 79.99
+   },
+   {
+    "partner": "coolblue",
+    "naam": "Coolblue",
+    "url": "https://www.coolblue.nl/product/925510/emporia-simplicity-glam-senioren-telefoon-wit.html",
+    "prijs": 80.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "emporia.eu (adviesprijs_eur, schermgrootte, os, sos_knop)",
+    "url": "https://www.emporia.eu/nl-nl/products/simplicityglam-4g"
+   },
+   {
+    "label": "reseller.emporia.at (hac, oplaadschaal)",
+    "url": "https://reseller.emporia.at/Products/MOBILES/V227-4G%20emporiaSiMPLiCiTYglam4G/DOC/MANUAL/V227.LTE.v3_BDA-V7_55916/V227.LTE.v3_BDA-V7_55916-NED_WEB.pdf"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "mediamarkt.nl (laagste_prijs)",
+    "url": "https://www.mediamarkt.nl/nl/product/_emporia-simplicity-glam-4g-feature-phone-64-mb-wit-64-mb-wit-1886114.html"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/emporia-simplicity-glam-4g/wit"
+   },
+   {
+    "label": "bol.com (prijzen_gezien)",
+    "url": "https://www.bol.com/nl/nl/p/emporia-simplicity-glam-4g-wit/9300000077050013/"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/925510/emporia-simplicity-glam-senioren-telefoon-wit.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een witte 4G-klaptelefoon met grote verlichte toetsen, een noodknop op de achterkant en een oplaadstation in de doos. Bedoeld voor senioren die eenvoudig willen bellen en een hoortoestel gebruiken (M4/T4)."
+ },
+ {
+  "id": "hmd-2660-flip-4g",
+  "merk": "HMD",
+  "model": "2660 Flip 4G",
+  "naam": "HMD 2660 Flip 4G",
+  "type": "klaptelefoon",
+  "type_label": "Klaptelefoon",
+  "prijs": {
+   "advies": 79.99,
+   "laagste": 76.79,
+   "winkel": "bol (verkoper Telesun.nl)",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.8,
+  "scherm": "2,8 inch binnen + 1,77 inch buiten",
+  "os": "S30+",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (aparte noodoproeptoets)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (los te koop, 19,99 euro bij HMD-webshop)",
+  "hac": "onbekend",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "0,3 MP",
+  "batterij_mah": 1450,
+  "bijzonderheden": "Opvolger van de Nokia 2660 Flip; noodknop bereikt tot vijf opgeslagen contacten; groot toetsenbord; uitneembare batterij; FM-radio; Bluetooth 5.0; IP54.",
+  "garantie": "onbekend",
+  "product_url": "https://www.hmd.com/nl_nl/hmd-2660-flip",
+  "omschrijving": "Een 4G-klaptelefoon met 2,8-inch scherm, buitendisplay, grote toetsen en een aparte noodknop. Geschikt voor senioren die een eenvoudige telefoon voor bellen en sms'en zoeken, zonder apps.",
+  "onzeker": [
+   "HAC: HMD noemt voor deze HMD-versie geen rating; de stopgezette voorganger Nokia 2660 Flip werd door HMD als compatibel met hoorapparaten aangeprezen en een retailer-datasheet noemt M4/T4, niet bevestigd voor dit model",
+   "WhatsApp 'nee' op basis van HMD's tekst 'Geen apps voor social media' en het S30+-besturingssysteem",
+   "Bereik van tot vijf contacten via noodknop staat op HMD's seniorenpagina als algemene uitspraak over HMD-telefoons met noodknop",
+   "Garantie niet gevonden op hmd.com"
+  ],
+  "koop": [
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/hmd-2660-flip-black/9300000223875208/",
+    "prijs": 76.79
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_hmd-hmd-2660-flip-violet-128-mb-paars-1907591.html",
+    "prijs": 79.0
+   },
+   {
+    "partner": "hmd-webshop",
+    "naam": "HMD-webshop",
+    "url": "https://nl.shop.hmd.com/hmd-2660-flip-4g",
+    "prijs": 79.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "hmd.com (schermgrootte, os, camera, batterij_mah)",
+    "url": "https://www.hmd.com/nl_nl/hmd-2660-flip/specs"
+   },
+   {
+    "label": "hmd.com (whatsapp, bijzonderheden)",
+    "url": "https://www.hmd.com/nl_nl/hmd-2660-flip"
+   },
+   {
+    "label": "hmd.com (sos_knop, bijzonderheden)",
+    "url": "https://www.hmd.com/nl_nl/feature-phones-series/phones-for-seniors"
+   },
+   {
+    "label": "hmd.com (sos_knop)",
+    "url": "https://www.hmd.com/nl_nl/support/api/pdf/hmd-2660-flip-user-guide"
+   },
+   {
+    "label": "nl.shop.hmd.com (oplaadschaal)",
+    "url": "https://nl.shop.hmd.com/hmd-2660-flip-charging-cradle"
+   },
+   {
+    "label": "nl.shop.hmd.com (adviesprijs_eur, prijzen_gezien)",
+    "url": "https://nl.shop.hmd.com/hmd-2660-flip-4g"
+   },
+   {
+    "label": "hmd.com (onzeker)",
+    "url": "https://www.hmd.com/nl_nl/nokia-2660-flip"
+   },
+   {
+    "label": "bol.com (laagste_prijs)",
+    "url": "https://www.bol.com/nl/nl/p/hmd-2660-flip-black/9300000223875208/"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_hmd-hmd-2660-flip-violet-128-mb-paars-1907591.html"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/hmd-2660-flip/hmd-2660-flip-zwart"
+   },
+   {
+    "label": "coolblue.nl (prijzen_gezien)",
+    "url": "https://www.coolblue.nl/product/976141/hmd-2660-flip-128mb-zwart.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een 4G-klaptelefoon met 2,8-inch scherm, buitendisplay, grote toetsen en een aparte noodknop. Geschikt voor senioren die een eenvoudige telefoon voor bellen en sms'en zoeken, zonder apps."
+ },
+ {
+  "id": "doro-leva-e10",
+  "merk": "Doro",
+  "model": "Leva E10",
+  "naam": "Doro Leva E10",
+  "type": "toetsentelefoon",
+  "type_label": "Toetsentelefoon",
+  "prijs": {
+   "advies": 74.99,
+   "laagste": 74.99,
+   "winkel": "Doro webshop",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.4,
+  "scherm": "2,4 inch (TFT, liggend)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht; geen locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, M4/T4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "0,3 MP (geïnterpoleerd)",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Instapmodel bar-telefoon met ver uit elkaar geplaatste contrastrijke toetsen en breed scherm. Verwisselbare batterij, FM-radio, 3,5 mm-aansluiting.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e10/",
+  "omschrijving": "Eenvoudige toetsentelefoon met breed scherm, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die alleen willen bellen en sms'en.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "MediaMarkt rode uitvoering (79,99 euro) is online niet leverbaar (alleen winkelvoorraad) en is daarom niet als prijs opgenomen."
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e10/",
+    "prijs": 74.99
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-e10-128mb-zwart-128-mb-zwart-1892293.html",
+    "prijs": 83.99
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/doro-leva-e10/zwart",
+    "prijs": 84.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e10/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e10_nl_v30_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-e10-128mb-zwart-128-mb-zwart-1892293.html"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/doro-leva-e10/zwart"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Eenvoudige toetsentelefoon met breed scherm, grote toetsen en een assistentieknop die vertrouwde contacten waarschuwt. Geschikt voor senioren die alleen willen bellen en sms'en."
+ },
+ {
+  "id": "doro-leva-l10",
+  "merk": "Doro",
+  "model": "Leva L10",
+  "naam": "Doro Leva L10",
+  "type": "toetsentelefoon",
+  "type_label": "Toetsentelefoon",
+  "prijs": {
+   "advies": 104.99,
+   "laagste": 97.0,
+   "winkel": "MediaMarkt",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.4,
+  "scherm": "2,4 inch (TFT, liggend)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (assistentieknop, stuurt hulpbericht met GPS-locatie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, T4/M4",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "geen beheer op afstand vermeld in specs of handleiding",
+  "netwerk": "4G",
+  "camera": "2 MP",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Bar-model met grote, ver uit elkaar geplaatste toetsen en breed liggend scherm. Verwisselbare batterij, FM-radio, 3,5 mm-aansluiting, HD Voice.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l10-dc36f727/",
+  "omschrijving": "Eenvoudige toetsentelefoon met breed scherm, camera en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die vooral willen bellen en sms'en.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro).",
+   "Belsimpel toont de L10 als 'Discontinued'."
+  ],
+  "koop": [
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l10-4g-senior-barphone-met-sos-button-17-mb-zwart-1884461.html",
+    "prijs": 97.0
+   },
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l10-dc36f727/",
+    "prijs": 104.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l10-dc36f727/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_l10_nl_v40_r23786_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "mediamarkt.nl (laagste_prijs, prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-l10-4g-senior-barphone-met-sos-button-17-mb-zwart-1884461.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Eenvoudige toetsentelefoon met breed scherm, camera en een assistentieknop die vertrouwde contacten waarschuwt met GPS-locatie. Geschikt voor senioren die vooral willen bellen en sms'en."
+ },
+ {
+  "id": "doro-leva-x10",
+  "merk": "Doro",
+  "model": "Leva X10",
+  "naam": "Doro Leva X10",
+  "type": "toetsentelefoon",
+  "type_label": "Toetsentelefoon",
+  "prijs": {
+   "advies": 159.99,
+   "laagste": 159.99,
+   "winkel": "Doro webshop",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.4,
+  "scherm": "2,4 inch (TFT)",
+  "os": "Mocor RTOS (eigen OS)",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant, assistentieknop: sms, oproep en GPS-locatie naar max. 5 contacten)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, T3/M3",
+  "volume": "gespreksvolume 35 dB; beltoon >83 dB op 1 m",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "deels: helpers kunnen de GPS-positie op afstand opvragen per sms; instellingen via beveiligd beheerdersmenu op het toestel",
+  "netwerk": "4G",
+  "camera": "geen",
+  "batterij_mah": 1150,
+  "bijzonderheden": "Bedoeld voor mensen met cognitieve problemen zoals dementie: 4 snelkeuzetoetsen, instelbare gebruikersmodi, alleen vertrouwde bellers toestaan, medicatieherinnering, veiligheidstimer. Instellingen beveiligd in beheerdersmenu.",
+  "garantie": "2 jaar (24 maanden fabrieksgarantie)",
+  "product_url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-x10-c23b5db7/",
+  "omschrijving": "Vereenvoudigde telefoon met vier snelkeuzetoetsen, beller-filter en een assistentieknop die locatie deelt. Geschikt voor mensen met geheugenproblemen of dementie en hun mantelzorgers.",
+  "onzeker": [
+   "WhatsApp: niet expliciet genoemd; 'nee' afgeleid uit het gesloten Mocor RTOS zonder appwinkel en zonder e-mail/videobellen in de specs.",
+   "Valdetectie niet genoemd in specs of handleiding.",
+   "bol.com niet gecontroleerd: productpagina's gaven HTTP 403 (curl, WebFetch en DataForSEO); bol-prijzen uit zoeksnippets niet overgenomen.",
+   "Coolblue toont op 04-11-2026 geen Doro-toestellen (\"We hebben geen resultaten gevonden\" op coolblue.nl/mobiele-telefoons/doro)."
+  ],
+  "koop": [
+   {
+    "partner": "doro",
+    "naam": "Doro webshop",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-x10-c23b5db7/",
+    "prijs": 159.99
+   },
+   {
+    "partner": "belsimpel",
+    "naam": "Belsimpel",
+    "url": "https://www.belsimpel.nl/doro-leva-x10/wit",
+    "prijs": 171.0
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-x10-4g-seniorphone-met-sos-button-gps-17-mb-wit-1884467.html",
+    "prijs": 173.0
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "doro.com (schermgrootte, os, sos_knop, hac)",
+    "url": "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-x10-c23b5db7/"
+   },
+   {
+    "label": "doro.com (garantie, beheer_op_afstand, valdetectie)",
+    "url": "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_x10_nl_v12_r23986_ua.pdf"
+   },
+   {
+    "label": "doro.com (garantie)",
+    "url": "https://www.doro.com/nl-nl/support/"
+   },
+   {
+    "label": "doro.com (sos_knop, oplaadschaal, beheer_op_afstand, bijzonderheden)",
+    "url": "https://www.doro.com/nl-nl/landing-page/doro-leva-x10/"
+   },
+   {
+    "label": "belsimpel.nl (prijzen_gezien)",
+    "url": "https://www.belsimpel.nl/doro-leva-x10/wit"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_doro-leva-x10-4g-seniorphone-met-sos-button-gps-17-mb-wit-1884467.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Vereenvoudigde telefoon met vier snelkeuzetoetsen, beller-filter en een assistentieknop die locatie deelt. Geschikt voor mensen met geheugenproblemen of dementie en hun mantelzorgers."
+ },
+ {
+  "id": "emporia-simplicity-lte",
+  "merk": "Emporia",
+  "model": "SIMPLICITY-LTE",
+  "naam": "Emporia SIMPLICITY-LTE",
+  "type": "toetsentelefoon",
+  "type_label": "Toetsentelefoon",
+  "prijs": {
+   "advies": 89.99,
+   "laagste": 89.99,
+   "winkel": "emporia.eu",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.0,
+  "scherm": "2,0 inch",
+  "os": "eigen OS",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": true,
+  "sos_detail": "ja (achterkant)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja, M4/T4",
+  "volume": "beltoon 82,6 dB(A) op 1 m; luidspreker 80,1 dB(A) op 5 cm (versterking onbekend)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "geen",
+  "batterij_mah": 1200,
+  "bijzonderheden": "Extra grote, verlichte en verhoogde toetsen; drie snelkeuzetoetsen; instelbare lettergrootte; koptelefoon en oplaadstation meegeleverd; LED-zaklamp en radio; IP44; geen netadapter meegeleverd.",
+  "garantie": "2 jaar (accu 6 maanden)",
+  "product_url": "https://www.emporia.eu/nl-nl/products/simplicity-lte",
+  "omschrijving": "Een 4G-toetsentelefoon zonder camera met extra grote verlichte toetsen, een noodknop op de achterkant en een oplaadstation. Geschikt voor senioren die alleen willen bellen en een hoortoestel gebruiken (M4/T4).",
+  "onzeker": [
+   "Op 04-11-2026 alleen bij emporia.eu gezien; bol-pagina 'Emporia Simplicity 4G' toonde niet leverbaar, niet gevonden bij Belsimpel, Coolblue en MediaMarkt",
+   "Opgenomen als actuele Emporia-toetsentelefoon in plaats van de ACTIVEglam, die niet meer op emporia.eu staat",
+   "WhatsApp 'nee' is afgeleid uit het eigen besturingssysteem (zie WhatsApp-FAQ: Android en iOS)"
+  ],
+  "koop": [
+   {
+    "partner": "emporia.eu",
+    "naam": "emporia.eu",
+    "url": "https://www.emporia.eu/nl-nl/products/simplicity-lte",
+    "prijs": 89.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "emporia.eu (adviesprijs_eur, laagste_prijs, schermgrootte, os)",
+    "url": "https://www.emporia.eu/nl-nl/products/simplicity-lte"
+   },
+   {
+    "label": "faq.whatsapp.com (whatsapp)",
+    "url": "https://faq.whatsapp.com/1150261202542208/"
+   },
+   {
+    "label": "bol.com (onzeker)",
+    "url": "https://www.bol.com/nl/nl/p/emporia-simplicity-4g-senioren-mobiele-telefoon-sos-knop-werkt-met-gehoorapparaat-zwart/9300000120519767/"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een 4G-toetsentelefoon zonder camera met extra grote verlichte toetsen, een noodknop op de achterkant en een oplaadstation. Geschikt voor senioren die alleen willen bellen en een hoortoestel gebruiken (M4/T4)."
+ },
+ {
+  "id": "hmd-3210-4g",
+  "merk": "HMD",
+  "model": "3210 4G",
+  "naam": "HMD 3210 4G",
+  "type": "toetsentelefoon",
+  "type_label": "Toetsentelefoon",
+  "prijs": {
+   "advies": 79.99,
+   "laagste": 79.99,
+   "winkel": "bol",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.4,
+  "scherm": "2,4 inch",
+  "os": "S30+",
+  "whatsapp": false,
+  "whatsapp_detail": "nee",
+  "sos_knop": null,
+  "sos_detail": "onbekend",
+  "oplaadschaal": null,
+  "oplaadschaal_detail": "onbekend",
+  "hac": "onbekend",
+  "volume": "onbekend",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "4G",
+  "camera": "2 MP (met flitser)",
+  "batterij_mah": 1450,
+  "bijzonderheden": "Opvolger van de Nokia 3210 4G; geen apps; uitneembare batterij; FM-radio; Bluetooth 5.0; USB-C; dual-sim; Snake.",
+  "garantie": "onbekend",
+  "product_url": "https://www.hmd.com/nl_nl/hmd-3210-4g",
+  "omschrijving": "Een compacte 4G-toetsentelefoon zonder apps, met 2,4-inch scherm en een batterij die volgens HMD dagen meegaat. Geschikt voor senioren die alleen willen bellen en sms'en; seniorenfuncties zoals een noodknop worden door HMD niet genoemd.",
+  "onzeker": [
+   "SOS-knop, oplaadschaal en HAC niet genoemd op hmd.com; handleiding-PDF was niet op te halen",
+   "WhatsApp 'nee' op basis van HMD's tekst 'Geen apps. Geen gedoe.' en het S30+-besturingssysteem",
+   "De oude Nokia 3210 4G is stopgezet bij HMD maar stond op 04-11-2026 nog bij Belsimpel (89 euro); Coolblue: nooit meer leverbaar"
+  ],
+  "koop": [
+   {
+    "partner": "bol",
+    "naam": "bol",
+    "url": "https://www.bol.com/nl/nl/p/hmd-3210-grunge-black/9300000348442982/",
+    "prijs": 79.99
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_hmd-3210-grunge-black-128-mb-zwart-1910626.html",
+    "prijs": 79.99
+   },
+   {
+    "partner": "hmd-webshop",
+    "naam": "HMD-webshop",
+    "url": "https://nl.shop.hmd.com/hmd-3210",
+    "prijs": 79.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "hmd.com (schermgrootte, os, camera, batterij_mah)",
+    "url": "https://www.hmd.com/nl_nl/hmd-3210-4g/specs"
+   },
+   {
+    "label": "hmd.com (whatsapp, bijzonderheden)",
+    "url": "https://www.hmd.com/nl_nl/hmd-3210-4g"
+   },
+   {
+    "label": "nl.shop.hmd.com (adviesprijs_eur, prijzen_gezien)",
+    "url": "https://nl.shop.hmd.com/hmd-3210"
+   },
+   {
+    "label": "hmd.com (bijzonderheden)",
+    "url": "https://www.hmd.com/nl_nl/nokia-3210"
+   },
+   {
+    "label": "bol.com (laagste_prijs)",
+    "url": "https://www.bol.com/nl/nl/p/hmd-3210-grunge-black/9300000348442982/"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_hmd-3210-grunge-black-128-mb-zwart-1910626.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Een compacte 4G-toetsentelefoon zonder apps, met 2,4-inch scherm en een batterij die volgens HMD dagen meegaat. Geschikt voor senioren die alleen willen bellen en sms'en; seniorenfuncties zoals een noodknop worden door HMD niet genoemd."
+ },
+ {
+  "id": "alecto-cw30",
+  "merk": "Alecto",
+  "model": "CW30",
+  "naam": "Alecto CW30",
+  "type": "huistelefoon",
+  "type_label": "Huistelefoon",
+  "prijs": {
+   "advies": 59.99,
+   "laagste": 59.99,
+   "winkel": "alectohome.nl (merkwebshop)",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": null,
+  "scherm": "onbekend",
+  "os": "n.v.t.",
+  "whatsapp": null,
+  "whatsapp_detail": "n.v.t.",
+  "sos_knop": null,
+  "sos_detail": "onbekend",
+  "oplaadschaal": false,
+  "oplaadschaal_detail": "nee",
+  "hac": "ja (HAC, rating onbekend)",
+  "volume": "+24 dB gespreksversterking, extra luide beltoon",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "vast netwerk (analoog)",
+  "camera": "geen",
+  "batterij_mah": null,
+  "bijzonderheden": "Snoertelefoon (geen DECT) met extra grote toetsen en 6 fototoetsen voor directe nummers, plus 10 indirecte geheugens. Toonregeling hoog/laag, rood knipperend bellampje, nummerherhaling. Neer te zetten of aan de muur te hangen (wandbeugel meegeleverd). Afmetingen 8,2 x 17,5 x 17,5 cm.",
+  "garantie": "wettelijke garantie, plus 1 jaar extra na productregistratie (alectohome.nl)",
+  "product_url": "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart",
+  "omschrijving": "Vaste snoertelefoon met grote toetsen en zes fototoetsen waarmee je met één druk een vast contact belt. Geschikt voor ouderen die liever op foto dan op nummer kiezen en een luider gespreksvolume nodig hebben.",
+  "onzeker": [
+   "Bron noemt geen SOS-knop en geen display; niet als 'nee' ingevuld",
+   "Of de telefoon netvoeding nodig heeft, staat niet in de bron",
+   "Alleen bij de merkwebshop gezien; geen retailerprijs gecontroleerd"
+  ],
+  "koop": [
+   {
+    "partner": "alectohome.nl",
+    "naam": "alectohome.nl",
+    "url": "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart",
+    "prijs": 59.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "alectohome.nl (adviesprijs_eur, laagste_prijs, hac, max_volume_db)",
+    "url": "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Vaste snoertelefoon met grote toetsen en zes fototoetsen waarmee je met één druk een vast contact belt. Geschikt voor ouderen die liever op foto dan op nummer kiezen en een luider gespreksvolume nodig hebben."
+ },
+ {
+  "id": "fysic-fx-9000",
+  "merk": "Fysic",
+  "model": "FX-9000",
+  "naam": "Fysic FX-9000",
+  "type": "huistelefoon",
+  "type_label": "Huistelefoon",
+  "prijs": {
+   "advies": 77.99,
+   "laagste": 77.99,
+   "winkel": "fysic.nl (merkwebshop)",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": null,
+  "scherm": "onbekend (groot verlicht display)",
+  "os": "n.v.t.",
+  "whatsapp": null,
+  "whatsapp_detail": "n.v.t.",
+  "sos_knop": true,
+  "sos_detail": "ja (alarmeringsfunctie: elke toets belt 1 voorgeprogrammeerd nummer, bv. 112 of familie)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja (geschikt voor hoorapparaten, rating onbekend)",
+  "volume": "+8 dB gespreksversterking",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "n.v.t. (DECT)",
+  "camera": "geen",
+  "batterij_mah": null,
+  "bijzonderheden": "Grote verlichte toetsen, 4 snelkiestoetsen plus 8 indirecte geheugens, VIP-beltoon, bellampje, kamerbewaking (handset belt automatisch bij geluid), handsfree. Telefoonboek 150 nummers. Uitbreidbaar tot 5 telefoons (ook als DUO-set met 2 handsets te koop, 119 euro op fysic.nl). Accu: 2x AAA meegeleverd; stand-by tot 245 uur, spreektijd tot 18 uur.",
+  "garantie": "2 jaar (garantiepagina fysic.nl)",
+  "product_url": "https://www.fysic.nl/products/fysic-fx-9000-senioren-dect-telefoon-met-grote-toetsen-en-1-handset-wit",
+  "omschrijving": "Draadloze DECT-seniorentelefoon met grote verlichte toetsen, een alarmeringsfunctie en kamerbewaking. Geschikt voor ouderen die een eenvoudige huistelefoon willen waarmee ze in nood met een druk op een toets een vast nummer bellen.",
+  "onzeker": [
+   "Schermgrootte niet vermeld",
+   "Versterking van +8 dB is beperkt; Fysic-datasheet van de verwante FX-6020 noemt +9 dB, niet van toepassing op dit model",
+   "Garantietermijn afgeleid uit algemene garantiepagina fysic.nl, niet per product vermeld",
+   "MediaMarkt-aanbod is via marketplace-verkoper, niet MediaMarkt zelf"
+  ],
+  "koop": [
+   {
+    "partner": "fysic.nl",
+    "naam": "fysic.nl",
+    "url": "https://www.fysic.nl/products/fysic-fx-9000-senioren-dect-telefoon-met-grote-toetsen-en-1-handset-wit",
+    "prijs": 77.99
+   },
+   {
+    "partner": "mediamarkt",
+    "naam": "MediaMarkt",
+    "url": "https://www.mediamarkt.nl/nl/product/_fysic-fx-9000-92882059.html",
+    "prijs": 99.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "fysic.nl (adviesprijs_eur, laagste_prijs, sos_knop, hac)",
+    "url": "https://www.fysic.nl/products/fysic-fx-9000-senioren-dect-telefoon-met-grote-toetsen-en-1-handset-wit"
+   },
+   {
+    "label": "mediamarkt.nl (prijzen_gezien)",
+    "url": "https://www.mediamarkt.nl/nl/product/_fysic-fx-9000-92882059.html"
+   },
+   {
+    "label": "fysic.nl (garantie)",
+    "url": "https://www.fysic.nl/pages/garantie"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Draadloze DECT-seniorentelefoon met grote verlichte toetsen, een alarmeringsfunctie en kamerbewaking. Geschikt voor ouderen die een eenvoudige huistelefoon willen waarmee ze in nood met een druk op een toets een vast nummer bellen."
+ },
+ {
+  "id": "gigaset-e720",
+  "merk": "Gigaset",
+  "model": "E720",
+  "naam": "Gigaset E720",
+  "type": "huistelefoon",
+  "type_label": "Huistelefoon",
+  "prijs": {
+   "advies": 109.99,
+   "laagste": 105.0,
+   "winkel": "Coolblue",
+   "datum": "4 november 2026"
+  },
+  "scherm_inch": 2.2,
+  "scherm": "2,2 inch kleurendisplay (176 x 220 px)",
+  "os": "n.v.t.",
+  "whatsapp": null,
+  "whatsapp_detail": "n.v.t.",
+  "sos_knop": true,
+  "sos_detail": "ja (snelkiestoets A als SOS-toets, belt vooraf ingestelde noodnummers na elkaar)",
+  "oplaadschaal": true,
+  "oplaadschaal_detail": "ja (meegeleverd)",
+  "hac": "ja (geschikt voor hoortoestel; Bluetooth 4.2 naar hoortoestellen met HSP/HFP; HAC-rating/T-spoel onbekend)",
+  "volume": "onbekend (Boost-toets verdubbelt het luidsprekervolume volgens Gigaset; extra luide beltoon)",
+  "valdetectie": null,
+  "beheer_op_afstand": null,
+  "beheer_detail": "onbekend",
+  "netwerk": "n.v.t. (DECT)",
+  "camera": "geen",
+  "batterij_mah": null,
+  "bijzonderheden": "Extra grote verlichte toetsen, 4 snelkiestoetsen (A-D), sprekend toetsenbord en gesproken nummerweergave, bellerblokkering, automatische volumeaanpassing bij omgevingslawaai, 2 akoestische profielen. Uitbreidbaar tot 6 handsets. Geen antwoordapparaat (variant E720A heeft er wel een, 30 min opnametijd). Accu: 2x NiMH AAA, spreektijd tot 14 uur, stand-by tot 300 uur. Aansluiting analoog; Coolblue noemt nummerweergave voor gewone vaste lijn en kabeltelefonie.",
+  "garantie": "onbekend",
+  "product_url": "https://www.gigaset.com/nl_nl/gigaset-e720/",
+  "omschrijving": "Draadloze DECT-huistelefoon met grote toetsen, een SOS-toets en een Bluetooth-koppeling naar hoortoestellen. Geschikt voor ouderen die thuis vast willen bellen en in een noodgeval met één toets familie of buren willen bereiken.",
+  "onzeker": [
+   "SOS-functie: gigaset.com noemt op dezelfde pagina zowel 'maximaal 15 nummers' als 'tot vier SOS-nummers'; vier SOS-nummers op toets A is de specifiekste vermelding",
+   "Versterking in dB niet gevonden",
+   "Garantietermijn niet gevonden",
+   "Coolblue-specificatie 'Antwoordapparaat' staat in de lijst, maar Coolblue zegt bij de minpunten 'geen antwoordapparaat'; Gigaset bevestigt dat alleen de E720A er een heeft",
+   "Gigaset-tekst over Bluetooth noemt de E720HX; de specificatietabel van de E720 noemt Bluetooth als feature"
+  ],
+  "koop": [
+   {
+    "partner": "coolblue",
+    "naam": "Coolblue",
+    "url": "https://www.coolblue.nl/product/868664/gigaset-e720.html",
+    "prijs": 105.0
+   },
+   {
+    "partner": "gigaset.com",
+    "naam": "gigaset.com",
+    "url": "https://www.gigaset.com/nl_nl/gigaset-e720/",
+    "prijs": 109.99
+   }
+  ],
+  "bronnen": [
+   {
+    "label": "gigaset.com (adviesprijs_eur, schermgrootte, sos_knop, hac)",
+    "url": "https://www.gigaset.com/nl_nl/gigaset-e720/"
+   },
+   {
+    "label": "coolblue.nl (laagste_prijs, oplaadschaal, hac, bijzonderheden)",
+    "url": "https://www.coolblue.nl/product/868664/gigaset-e720.html"
+   }
+  ],
+  "opgehaald_op": "4 november 2026",
+  "leverbaar": true,
+  "panel_test": null,
+  "kort": "Draadloze DECT-huistelefoon met grote toetsen, een SOS-toets en een Bluetooth-koppeling naar hoortoestellen. Geschikt voor ouderen die thuis vast willen bellen en in een noodgeval met één toets familie of buren willen bereiken."
+ }
+]

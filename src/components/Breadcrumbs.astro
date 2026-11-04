@@ -1,0 +1,14 @@
+---
+import site from '../data/site.json';
+interface Props { items: { label: string; href?: string }[] }
+const { items } = Astro.props;
+const all = [{ label: 'Home', href: '/' }, ...items];
+const ld = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: all.map((it, i) => ({
+  '@type': 'ListItem', position: i + 1, name: it.label, ...(it.href ? { item: new URL(it.href, site.url).href } : {}) })) };
+---
+<nav class="crumbs" aria-label="Kruimelpad">
+  <ol>
+    {all.map((it) => <li>{it.href ? <a href={it.href}>{it.label}</a> : <span aria-current="page">{it.label}</span>}</li>)}
+  </ol>
+  <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+</nav>

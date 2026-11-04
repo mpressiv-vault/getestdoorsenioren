@@ -1,0 +1,17 @@
+---
+import { koopLinks, euro } from '../lib';
+interface Props { product: any; compact?: boolean }
+const { product, compact = false } = Astro.props;
+const links = koopLinks(product);
+---
+{links.length > 0 && (
+  <div class:list={['buy', { compact }]}>
+    {links.map((l) => (
+      <a class="btn-buy" href={l.url} rel="sponsored nofollow noopener" target="_blank" aria-label={`Bekijk bij ${l.label}${l.prijs != null ? ', ' + euro(l.prijs) : ''} (opent een andere website)`}>
+        <span>Bekijk bij {l.label}{l.prijs != null && `: ${euro(l.prijs)}`}</span><span aria-hidden="true">→</span>
+      </a>
+    ))}
+    {!compact && <span class="ext-hint">Opent de website van de winkel.</span>}
+    {!compact && product.prijs?.datum && <p class="price-note">Prijs gecontroleerd op {product.prijs.datum}. Prijzen kunnen veranderen.</p>}
+  </div>
+)}

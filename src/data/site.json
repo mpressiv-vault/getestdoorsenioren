@@ -1,0 +1,12 @@
+{
+  "name": "Getest door senioren",
+  "url": "https://getestdoorsenioren.nl",
+  "publisher": "CREW",
+  "publisher_url": "https://yourcrew.online",
+  "email": "redactie@getestdoorsenioren.nl",
+  "nav": [
+    { "label": "Seniorentelefoons", "href": "/seniorentelefoons/" },
+    { "label": "Zo vergelijken wij", "href": "/zo-vergelijken-wij/" },
+    { "label": "Over ons", "href": "/over-ons/" }
+  ]
+}

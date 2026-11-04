@@ -1,0 +1,29 @@
+---
+import { euro } from '../lib';
+import BuyButtons from './BuyButtons.astro';
+import PhoneIcon from './PhoneIcon.astro';
+interface Props { product: any; heading?: 'h2' | 'h3' }
+const { product: p, heading = 'h3' } = Astro.props;
+const H = heading;
+---
+<article class="psum" id={p.id}>
+  <div class="psum-head">
+    <PhoneIcon type={p.type} />
+    <div>
+      <H><a href={`/producten/${p.id}/`}>{p.naam}</a></H>
+      <p class="psum-meta">{p.type_label ?? p.type} · vanaf {euro(p.prijs?.laagste ?? p.prijs?.advies)}</p>
+    </div>
+  </div>
+  {p.kort && <p>{p.kort}</p>}
+  <div class="fit">
+    {p.voor_wie && <div class="fit-yes"><h4>Past bij</h4><p>{p.voor_wie}</p></div>}
+    {p.niet_voor && <div class="fit-no"><h4>Minder geschikt als</h4><p>{p.niet_voor}</p></div>}
+  </div>
+  {(p.sterk?.length || p.zwak?.length) && (
+    <div class="proscons">
+      {p.sterk?.length > 0 && <div><h4>Sterk</h4><ul class="pros">{p.sterk.map((s: string) => <li>{s}</li>)}</ul></div>}
+      {p.zwak?.length > 0 && <div><h4>Minder sterk</h4><ul class="cons">{p.zwak.map((s: string) => <li>{s}</li>)}</ul></div>}
+    </div>
+  )}
+  <BuyButtons product={p} />
+</article>

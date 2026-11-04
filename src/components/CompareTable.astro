@@ -1,0 +1,39 @@
+---
+import { byId, euro, yesNo } from '../lib';
+import BuyButtons from './BuyButtons.astro';
+interface Props { ids: string[] }
+const items = Astro.props.ids.map(byId).filter(Boolean) as any[];
+const rows: [string, (p: any) => string][] = [
+  ['Soort', (p) => p.type_label ?? p.type],
+  ['Prijs vanaf', (p) => euro(p.prijs?.laagste ?? p.prijs?.advies)],
+  ['Scherm', (p) => (p.scherm_inch ? `${String(p.scherm_inch).replace('.', ',')} inch` : 'Onbekend')],
+  ['WhatsApp', (p) => yesNo(p.whatsapp)],
+  ['SOS-knop', (p) => yesNo(p.sos_knop)],
+  ['Oplaadschaal', (p) => yesNo(p.oplaadschaal)],
+  ['Geschikt voor hoortoestel', (p) => yesNo(p.hac)],
+  ['Familie kan op afstand helpen', (p) => yesNo(p.beheer_op_afstand)],
+];
+---
+<section class="compare" aria-labelledby="compare-title">
+  <h2 id="compare-title">Alle toestellen naast elkaar</h2>
+  <div class="table-wrap">
+    <table>
+      <caption class="sr-only">Vergelijking van {items.length} toestellen</caption>
+      <thead><tr><th scope="col">Kenmerk</th>{items.map((p) => <th scope="col"><a href={`/producten/${p.id}/`}>{p.naam}</a></th>)}</tr></thead>
+      <tbody>
+        {rows.map(([label, f]) => <tr><th scope="row">{label}</th>{items.map((p) => <td>{f(p)}</td>)}</tr>)}
+        <tr><th scope="row">Kopen</th>{items.map((p) => <td><BuyButtons product={p} compact /></td>)}</tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="compare-cards">
+    {items.map((p) => (
+      <article class="ccard">
+        <h3><a href={`/producten/${p.id}/`}>{p.naam}</a></h3>
+        <dl>{rows.map(([label, f]) => <div><dt>{label}</dt><dd>{f(p)}</dd></div>)}</dl>
+        <BuyButtons product={p} compact />
+      </article>
+    ))}
+  </div>
+  <p class="table-note">Gegevens uit de opgave van de fabrikant en winkels. Wat we niet konden controleren, staat er als "Onbekend".</p>
+</section>

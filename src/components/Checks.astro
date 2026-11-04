@@ -1,0 +1,9 @@
+---
+interface Props { product: any }
+const p = Astro.props.product;
+const items: [string, any][] = [['WhatsApp', p.whatsapp], ['SOS-knop', p.sos_knop], ['Oplaadschaal', p.oplaadschaal], ['Hoortoestel', p.hac]];
+const label = (v: any) => (v === true || (typeof v === 'string' && /^(ja|m\d|t\d)/i.test(v)) ? 'ja' : v === false || v === 'nee' ? 'nee' : null);
+---
+<ul class="checks">
+  {items.map(([k, v]) => { const l = label(v); return l ? <li class={l}>{l === 'ja' ? k : `Geen ${k.toLowerCase()}`}</li> : null; })}
+</ul>

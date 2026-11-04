@@ -1,0 +1,48 @@
+{
+ "senifone": {
+  "naam": "Senifone",
+  "link_template": null,
+  "programma": "Webgains (in aanvraag)",
+  "opmerking": "Zet link_template op de trackinglink met {url} zodra de deal rond is"
+ },
+ "mediamarkt": {
+  "naam": "MediaMarkt",
+  "link_template": null
+ },
+ "coolblue": {
+  "naam": "Coolblue",
+  "link_template": null
+ },
+ "bol": {
+  "naam": "bol",
+  "link_template": null
+ },
+ "belsimpel": {
+  "naam": "Belsimpel",
+  "link_template": null
+ },
+ "doro": {
+  "naam": "Doro",
+  "link_template": null
+ },
+ "emporia.eu": {
+  "naam": "Emporia",
+  "link_template": null
+ },
+ "hmd-webshop": {
+  "naam": "HMD",
+  "link_template": null
+ },
+ "fysic.nl": {
+  "naam": "Fysic",
+  "link_template": null
+ },
+ "alectohome.nl": {
+  "naam": "Alecto",
+  "link_template": null
+ },
+ "gigaset.com": {
+  "naam": "Gigaset",
+  "link_template": null
+ }
+}

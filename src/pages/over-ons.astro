@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import partners from '../data/partners.json';
+const actief = Object.values(partners as any).filter((p: any) => p.link_template);
+---
+<Base title="Over ons en hoe wij verdienen" description="Wie maakt Getest door senioren, hoe verdienen wij geld, en hoe houden we de vergelijkingen eerlijk? Alles over onze werkwijze en belangen.">
+  <div class="wrap narrow prose">
+    <Breadcrumbs items={[{ label: 'Over ons' }]} />
+    <h1>Over ons en hoe wij verdienen</h1>
+    <p class="lede">Getest door senioren helpt senioren en hun familie kiezen. We vergelijken producten die het dagelijks leven makkelijker maken, te beginnen met telefoons.</p>
+    <h2>Wie maakt deze site?</h2>
+    <p>Getest door senioren is een uitgave van CREW, een marketingbureau uit Nederland. Een vaste redactie schrijft en controleert de vergelijkingen. We schrijven voor de senior zelf en voor de zoon, dochter of buur die meehelpt kiezen.</p>
+    <h2>Waarom deze naam?</h2>
+    <p>Wat een jonge techneut makkelijk vindt, is niet altijd makkelijk voor iemand van tachtig. Daarom bouwen we een vast panel van senioren op dat producten thuis gebruikt en beoordeelt. Tot dat panel draait, vergelijken we op papier: op de gegevens van de fabrikant, de handleiding en de ervaringen van kopers. Dat staat dan ook boven elke pagina. Een toestel dat ons panel echt gebruikt heeft, krijgt een eigen kenmerk.</p>
+    <h2 id="verdienmodel">Hoe verdienen wij geld?</h2>
+    <p>Bij sommige knoppen naar een winkel krijgen wij een kleine vergoeding als u iets koopt. U betaalt daar niets extra voor. Zo kunnen we de site gratis houden, zonder reclameschermen of betaalmuur.</p>
+    <p>De vergoeding bepaalt nooit de volgorde. Een toestel staat bovenaan omdat het het best scoort op de punten die voor senioren tellen. Die punten leggen we uit op <a href="/zo-vergelijken-wij/">Zo vergelijken wij</a>.</p>
+    {actief.length > 0 && <p>Partners waarvan wij nu een vergoeding kunnen krijgen: {actief.map((p: any) => p.naam).join(', ')}.</p>}
+    <h2 id="belangen">Welke banden hebben wij met merken?</h2>
+    <p>Omdat we eerlijk willen zijn: CREW doet ook marketing voor Senifone, een merk van seniorentelefoons dat op deze site voorkomt. Senifone betaalt niet voor een plek in onze vergelijkingen en ziet onze teksten niet vooraf. We beoordelen Senifone met dezelfde punten als elk ander merk, en we zeggen het als een ander toestel beter bij u past.</p>
+    <h2>Klopt er iets niet?</h2>
+    <p>We controleren prijzen en gegevens regelmatig, maar fouten kunnen gebeuren. Ziet u iets wat niet klopt, laat het ons weten via de contactgegevens van <a href="https://yourcrew.online" rel="noopener">CREW</a>. We passen het aan en zetten de datum van de wijziging bovenaan de pagina.</p>
+  </div>
+</Base>

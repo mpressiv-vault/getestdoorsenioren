@@ -1,0 +1,29 @@
+---
+// Eenvoudige eigen illustratie per toesteltype. Geen productfoto's van derden zonder licentie.
+interface Props { type: string; size?: number }
+const { type, size = 72 } = Astro.props;
+const t = type ?? '';
+---
+<svg class="phone-icon" width={size} height={size} viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+  {t.includes('klap') ? (
+    <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round">
+      <rect x="20" y="6" width="24" height="24" rx="4" /><rect x="24" y="10" width="16" height="13" rx="1.5" fill="var(--accent-soft)" />
+      <rect x="20" y="33" width="24" height="25" rx="4" /><path d="M25 39h4M31 39h4M37 39h2M25 45h4M31 45h4M37 45h2M25 51h4M31 51h4M37 51h2" />
+    </g>
+  ) : t.includes('huis') ? (
+    <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round">
+      <rect x="10" y="26" width="44" height="30" rx="5" /><path d="M14 26c0-10 8-16 18-16s18 6 18 16" />
+      <rect x="18" y="32" width="28" height="8" rx="1.5" fill="var(--accent-soft)" /><path d="M20 46h5M30 46h5M40 46h4M20 51h5M30 51h5M40 51h4" />
+    </g>
+  ) : t.includes('toets') ? (
+    <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round">
+      <rect x="18" y="4" width="28" height="56" rx="5" /><rect x="22" y="9" width="20" height="16" rx="1.5" fill="var(--accent-soft)" />
+      <path d="M24 32h4M30 32h4M36 32h4M24 39h4M30 39h4M36 39h4M24 46h4M30 46h4M36 46h4M28 53h8" />
+    </g>
+  ) : (
+    <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round">
+      <rect x="16" y="4" width="32" height="56" rx="6" /><rect x="20" y="10" width="24" height="40" rx="2" fill="var(--accent-soft)" />
+      <circle cx="32" cy="55" r="2" fill="currentColor" />
+    </g>
+  )}
+</svg>

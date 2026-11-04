@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import Disclosure from '../../components/Disclosure.astro';
+import ProductSummary from '../../components/ProductSummary.astro';
+import Sources from '../../components/Sources.astro';
+import { allProducts, euro, yesNo } from '../../lib';
+import { getCollection } from 'astro:content';
+import site from '../../data/site.json';
+export function getStaticPaths() {
+  return allProducts.map((p) => ({ params: { id: p.id }, props: { p } }));
+}
+const { p } = Astro.props as any;
+const mentions = (await getCollection('artikelen', (e) => !e.data.draft && e.data.products.includes(p.id)));
+const specs: [string, string][] = [
+  ['Soort', p.type_label ?? p.type],
+  ['Adviesprijs', euro(p.prijs?.advies)],
+  ['Scherm', p.scherm_inch ? `${String(p.scherm_inch).replace('.', ',')} inch` : 'Onbekend'],
+  ['Besturingssysteem', p.os ?? 'Onbekend'],
+  ['WhatsApp', yesNo(p.whatsapp)],
+  ['SOS-knop', yesNo(p.sos_knop)],
+  ['Oplaadschaal', yesNo(p.oplaadschaal)],
+  ['Geschikt voor hoortoestel', yesNo(p.hac)],
+  ['Valdetectie', yesNo(p.valdetectie)],
+  ['Familie kan op afstand helpen', yesNo(p.beheer_op_afstand)],
+  ['Netwerk', p.netwerk ?? 'Onbekend'],
+  ['Camera', p.camera ?? 'Onbekend'],
+  ['Batterij', p.batterij_mah ? `${p.batterij_mah} mAh` : 'Onbekend'],
+  ['Garantie', p.garantie ?? 'Onbekend'],
+];
+const title = `${p.naam}: kenmerken, prijs en voor wie hij past`;
+const description = `${p.naam} op een rij: ${p.kort ?? ''}`.slice(0, 155);
+---
+<Base title={title} description={description}>
+  <div class="wrap narrow">
+    <Breadcrumbs items={[{ label: 'Seniorentelefoons', href: '/seniorentelefoons/' }, { label: p.naam }]} />
+    <h1>{p.naam}</h1>
+    <p class="status-note"><strong>Vergeleken op papier.</strong> Deze gegevens komen van de fabrikant en winkels, opgehaald op {p.opgehaald_op}. Dit toestel is nog niet door ons testpanel getest.</p>
+    <Disclosure senifone={p.id.startsWith('senifone')} />
+    <ProductSummary product={p} heading="h2" />
+    <section aria-labelledby="spec-title">
+      <h2 id="spec-title">Alle kenmerken</h2>
+      <dl class="spec-list">{specs.map(([k, v]) => <div><dt>{k}</dt><dd>{v}</dd></div>)}</dl>
+    </section>
+    {mentions.length > 0 && (
+      <section class="related" aria-labelledby="m-title">
+        <h2 id="m-title">In deze vergelijkingen</h2>
+        <ul class="related-list">{mentions.map((m) => <li><a href={`/${m.id}/`}><span>{m.data.title}</span></a></li>)}</ul>
+      </section>
+    )}
+    <Sources items={(p.bronnen ?? []).map((b: any) => ({ label: b.label, url: b.url }))} />
+  </div>
+</Base>

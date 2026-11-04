@@ -1,0 +1,32 @@
+---
+import { byId, euro } from '../lib';
+import BuyButtons from './BuyButtons.astro';
+import PhoneIcon from './PhoneIcon.astro';
+import Checks from './Checks.astro';
+interface Props { picks: { situatie: string; product: string; reden: string }[] }
+const { picks } = Astro.props;
+---
+<section class="picks" aria-labelledby="picks-title">
+  <h2 id="picks-title">Ons snelle antwoord: de beste keuze per situatie</h2>
+  <ol class="pick-list">
+    {picks.map((pk, i) => {
+      const p = byId(pk.product);
+      if (!p) return null;
+      return (
+        <li class="pick">
+          <p class="pick-label">{pk.situatie}</p>
+          <div class="pick-body">
+            <PhoneIcon type={p.type} />
+            <div>
+              <h3><a href={`/producten/${p.id}/`}>{p.naam}</a></h3>
+              <p class="pick-reden">{pk.reden}</p>
+              <Checks product={p} />
+              <p class="pick-price">Vanaf {euro(p.prijs?.laagste ?? p.prijs?.advies)}</p>
+            </div>
+          </div>
+          <BuyButtons product={p} compact />
+        </li>
+      );
+    })}
+  </ol>
+</section>
