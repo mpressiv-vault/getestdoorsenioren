@@ -37,6 +37,12 @@ faq:
     a: "Seniorensmartphones met Android zijn onder meer de Senifone S1, de Doro Aurora A10, A20 en A30, de Emporia SMART.7lite en SMART.8 en de SeniorenTab S616. Een gewone Samsung Galaxy A17 of A18 kan ook, met de Eenvoudige modus aan."
   - q: "Welke smartphone is volgens de Consumentenbond de beste koop?"
     a: "De Consumentenbond test smartphones en kiest geregeld een Beste Koop. Die uitslag verandert vaak, dus wij nemen hem hier niet over. U vindt de actuele lijst op consumentenbond.nl."
+  - q: "Werkt een oude seniorentelefoon straks nog?"
+    a: "Misschien niet. Volgens de ACM schakelen de providers de komende jaren hun 2G- en 3G-netwerk uit. Oudere mobieltjes waarmee u alleen kunt bellen en sms'en, werken daarna niet meer. Koop daarom een toestel met 4G of 5G. Alle toestellen in onze tabel hebben dat."
+  - q: "Bestaat er een smartphone met echte toetsen?"
+    a: "Ja. De Doro Aurora A20 is een klapmodel met een touchscreen en een toetsenbord met verlichting. U kunt er WhatsApp op zetten via de Play Store. Een lader zit niet in de doos."
+  - q: "Hoe werkt de SOS-knop op een seniorentelefoon?"
+    a: "Dat verschilt per toestel. Bij de Doro Aurora en de Emporia SMART.8 zit de knop op de achterkant. De Senifone S1 heeft een rode SOS-knop op het startscherm, of u drukt vijf keer op de aan/uit-knop. De Doro Leva L30 en X10 sturen een hulpbericht met uw locatie. De Samsung Galaxy A18 heeft geen aparte knop: u drukt drie keer op de zijknop."
 sources:
   - label: "Senifone S1, productpagina Senifone"
     url: "https://senifone.nl/products/senioren-smartphone"
@@ -56,12 +62,16 @@ sources:
     url: "https://www.emporia.eu/nl-nl/products/joy-lte"
   - label: "WhatsApp: ondersteunde apparaten"
     url: "https://faq.whatsapp.com/1150261202542208/"
+  - label: "ACM: gevolgen van de afschakeling van 2G en 3G"
+    url: "https://www.acm.nl/nl/publicaties/gevolgen-van-de-afschakeling-van-2g-en-3g"
 published: 2026-11-04
 updated: 2026-11-04
 panel_tested: false
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-04
+    wat: "Uitleg over 2G/3G en 4G toegevoegd, plus vragen over toetsen en de SOS-knop"
 ---
 
 Een goede senioren telefoon is een telefoon die uw vader of moeder ook echt gebruikt. Dat is voor de een een klaptelefoon met grote toetsen. Voor de ander is het een smartphone met WhatsApp en foto's van de kleinkinderen. Het korte antwoord: wil uw vader of moeder alleen bellen, kies dan een klaptelefoon zoals de Doro Leva L30. Wil hij of zij ook WhatsApp, kies dan een seniorensmartphone zoals de Doro Aurora A30 of de Senifone S1. Hieronder leest u welk type bij wie past, en waar u op let.
@@ -123,6 +133,8 @@ Heeft uw vader of moeder geheugenproblemen? De [Doro Leva X10](/producten/doro-l
 Belt iemand vooral thuis? Dan kan een vaste telefoon handiger zijn. Zie [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/).
 
 ## Waar let u op bij het kopen?
+
+Kijk eerst of het toestel 4G heeft. De providers zetten de komende jaren hun oude 2G- en 3G-netwerken uit, meldt de ACM. Oudere mobieltjes die alleen kunnen bellen en sms'en, werken daarna niet meer. Alle toestellen op deze pagina werken op 4G, de Emporia SMART.8 zelfs op 5G. Heeft uw vader of moeder nog een oud toestel, controleer dan of daar 4G op staat.
 
 Koopt u een los toestel, kijk dan of het simlockvrij is. Bij de Senifone S1 staat dat erbij, en hij heeft plek voor twee simkaarten. Kijk ook of er een lader in de doos zit. Bij de Doro Aurora-toestellen zit geen lader. Bij de Emporia-toestellen zit geen netadapter, de stekker voor in het stopcontact. De SIMPLICITYglam.4G en SIMPLICITY-LTE hebben wel een oplaadstation in de doos. Bij de Senifone S1 zitten adapter en kabel erbij.
 
