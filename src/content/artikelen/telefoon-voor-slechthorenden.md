@@ -28,7 +28,7 @@ picks:
     reden: "Hoortoestelwaarde M4/T4 volgens de handleiding, plus ASHA-streaming naar Bluetooth-hoortoestellen."
 faq:
   - q: "Welke telefoon is het beste voor slechthorenden?"
-    a: "Dat hangt af van het gehoor en het hoortoestel. Voor thuis biedt een vaste telefoon met veel gespreksversterking het meeste geluid, zoals de Alecto CW30. Voor onderweg kijkt u naar een mobiele telefoon met hoortoestelwaarde M4/T4, zoals de Doro Leva L20 of de Emporia SMART.8."
+    a: "Dat hangt af van het gehoor en het hoortoestel. Voor thuis geeft een vaste telefoon met gespreksversterking veel geluid, zoals de Alecto CW30. Voor onderweg kijkt u naar een mobiele telefoon met hoortoestelwaarde M4/T4, zoals de Doro Leva L20 of de Emporia SMART.8."
   - q: "Wat betekenen M3, M4, T3 en T4 bij een telefoon?"
     a: "Dat zijn waarden voor hoe goed een telefoon samenwerkt met een hoortoestel. De M gaat over de gewone stand van het hoortoestel, de T over de T-stand (de ringleidingstand). Elke waarde loopt van 1 tot 4. Een 3 geldt als geschikt, een 4 is beter."
   - q: "Wat is een telefoon met versterker?"
@@ -57,13 +57,13 @@ changelog:
     wat: "Eerste versie"
 ---
 
-Hoort uw vader of moeder de telefoon slecht? Dan zijn drie dingen belangrijk: hoe hard het gesprek klinkt, of de telefoon samenwerkt met het hoortoestel, en of een oproep ook te zien is. Voor thuis geeft de Alecto CW30 op papier het meeste geluid. Voor onderweg passen de Doro Leva L20 en de Emporia SMART.8, allebei met hoortoestelwaarde M4/T4.
+Hoort uw vader of moeder de telefoon slecht? Dan zijn drie dingen belangrijk: hoe hard het gesprek klinkt, of de telefoon samenwerkt met het hoortoestel, en of een oproep ook te zien is. Voor thuis geeft de Alecto CW30 op papier een flinke gespreksversterking. Voor onderweg passen de Doro Leva L20 en de Emporia SMART.8, allebei met hoortoestelwaarde M4/T4.
 
 Hieronder leest u waar u op let en per toestel voor wie het past. Een breder overzicht staat bij [alle seniorentelefoons](/seniorentelefoons/).
 
 ## Waar let u op bij een telefoon voor slechthorenden?
 
-Vier punten maken het verschil:
+Wij vergelijken op de zes punten van [zo vergelijken wij](/zo-vergelijken-wij/): makkelijk te bedienen, goed te horen, veilig, doet wat u nodig hebt, zorgeloos en een eerlijke prijs. Op deze pagina telt goed te horen het zwaarst. Daarbinnen maken vier dingen het verschil:
 
 - **Gespreksversterking.** Hoeveel harder het gesprek klinkt dan normaal. Dit is iets anders dan de beltoon. Veel fabrikanten noemen alleen de beltoon.
 - **Hoortoestelwaarde (M en T).** Hoe goed de telefoon samenwerkt met een hoortoestel. Hieronder leggen we dat uit.
@@ -91,6 +91,7 @@ De [Alecto CW30](/producten/alecto-cw30/) is een telefoon met snoer. Volgens Ale
 Hij heeft zes fototoetsen om met één druk te bellen. Alecto noemt hem geschikt voor hoortoestellen, maar geeft geen M- of T-waarde.
 
 **Past bij:** wie thuis belt en zo veel mogelijk geluid wil.
+
 **Past minder bij:** wie door het huis wil lopen tijdens een gesprek.
 
 ## Gigaset E720: draadloos met Bluetooth
@@ -100,6 +101,7 @@ De [Gigaset E720](/producten/gigaset-e720/) is een draadloze huistelefoon. De Bo
 Hoeveel decibel versterking hij geeft, noemt Gigaset niet. Een M- of T-waarde vonden we ook niet.
 
 **Past bij:** wie een hoortoestel met Bluetooth heeft en draadloos wil bellen.
+
 **Past minder bij:** wie zeker wil weten hoe hard het gesprek klinkt.
 
 ## Doro Leva L20: mobiel bellen zonder poespas
@@ -109,6 +111,7 @@ De [Doro Leva L20](/producten/doro-leva-l20/) is een klaptelefoon met grote toet
 De assistentieknop stuurt een hulpbericht met de locatie naar vaste contacten. WhatsApp kan er niet op. Hoeft de noodknop geen locatie mee te sturen? Dan heeft de [Doro Leva E20](/producten/doro-leva-e20/) dezelfde geluidswaarden.
 
 **Past bij:** wie alleen wil bellen en sms'en, ook buiten de deur.
+
 **Past minder bij:** wie WhatsApp of videobellen wil.
 
 ## Emporia SMART.8: smartphone met streaming naar het hoortoestel
@@ -118,6 +121,7 @@ De [Emporia SMART.8](/producten/emporia-smart-8/) is een seniorensmartphone met 
 De beltoon is volgens Emporia 81 dB(A) op een meter. Hoeveel het gesprek versterkt wordt, staat er niet bij.
 
 **Past bij:** wie WhatsApp wil en een hoortoestel met Bluetooth draagt.
+
 **Past minder bij:** wie liever toetsen heeft dan een aanraakscherm.
 
 ## Doro Aurora A30: groot scherm en hoge hoortoestelwaarde
@@ -125,6 +129,7 @@ De beltoon is volgens Emporia 81 dB(A) op een meter. Hoeveel het gesprek verster
 De [Doro Aurora A30](/producten/doro-aurora-a30/) is een seniorensmartphone met een scherm van 6,1 inch. De hoortoestelwaarde is T4/M4. De beltoon is volgens Doro 80 dB op een meter; het gespreksvolume noemt Doro niet. Familie kan via de Response by Doro-app helpen met instellingen.
 
 **Past bij:** wie WhatsApp wil, een groot scherm en een SOS-knop.
+
 **Past minder bij:** wie Bluetooth-streaming naar het hoortoestel zoekt; dat noemt Doro niet.
 
 ## iPhone 17e en Samsung Galaxy A18: gewone smartphones
@@ -134,6 +139,7 @@ De [Apple iPhone 17e](/producten/apple-iphone-17e/) werkt met Made for iPhone-ho
 De [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) ondersteunt ASHA-streaming naar hoortoestellen. Een hoortoestelwaarde voor het Europese model vonden we niet. Hoe u een Samsung eenvoudiger maakt, leest u bij [Samsung voor ouderen](/samsung-telefoon-voor-ouderen/).
 
 **Past bij:** wie al een iPhone of Samsung gewend is en een hoortoestel met Bluetooth heeft.
+
 **Past minder bij:** wie een speciaal toestel met grote knoppen zoekt.
 
 ## En de Senifone S1?

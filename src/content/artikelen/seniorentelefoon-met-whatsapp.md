@@ -11,10 +11,10 @@ products: ["senifone-s1", "doro-aurora-a20", "doro-aurora-a30", "doro-aurora-a10
 picks:
   - situatie: "Voor wie WhatsApp wil en familie op afstand laat helpen"
     product: "senifone-s1"
-    reden: "WhatsApp zet u er zelf op via de Play Store. Grote contactfoto's op het startscherm en de gratis Companion App voor familie."
+    reden: "Grote contactfoto's op het startscherm en de gratis Companion App voor familie."
   - situatie: "Voor wie een klaptelefoon gewend is"
     product: "doro-aurora-a20"
-    reden: "Een smartphone in klapvorm met echte toetsen en een touchscreen. WhatsApp zet u er zelf op via de Play Store."
+    reden: "Een smartphone in klapvorm met echte toetsen en een touchscreen."
   - situatie: "Voor wie videobelt en een hoortoestel draagt"
     product: "emporia-smart-8"
     reden: "Een voorcamera van 32 MP, volgens de handleiding klasse M4/T4 en geluid rechtstreeks naar een Bluetooth-hoortoestel."
@@ -25,11 +25,11 @@ faq:
   - q: "Welke makkelijke telefoon is geschikt voor ouderen met WhatsApp?"
     a: "Een seniorensmartphone met een eenvoudig startscherm. Voorbeelden zijn de Senifone S1, de Doro Aurora A10, A20 en A30 en de Emporia SMART.7lite en SMART.8. Wie al wat ervaring heeft, kan ook een gewone Samsung Galaxy A17 met de Eenvoudige modus gebruiken."
   - q: "Welke seniorentelefoon heeft WhatsApp?"
-    a: "Alle seniorentelefoons met Android of iOS kunnen WhatsApp gebruiken. Toetsen- en klaptelefoons met een eigen systeem, zoals de Doro Leva en de Emporia JOY-LTE, kunnen dat niet. Bij de Senifone S1 en de Doro Aurora zet u WhatsApp er zelf op via de Play Store."
+    a: "Alle seniorentelefoons met Android of iOS kunnen WhatsApp gebruiken. Toetsen- en klaptelefoons met een eigen systeem, zoals de Doro Leva en de Emporia JOY-LTE, kunnen dat niet."
   - q: "Welke simpele telefoon kan ik alleen WhatsApp gebruiken?"
     a: "Een toetsentelefoon met WhatsApp staat niet in ons overzicht. Wie het simpel wil houden, kiest een seniorensmartphone en gebruikt alleen bellen en WhatsApp. De Doro Aurora A20 komt het dichtst bij een klaptelefoon. De Senifone S1 heeft een groot scherm met contactfoto's."
   - q: "Kan ik WhatsApp gebruiken met mijn Doro-telefoon?"
-    a: "Dat hangt af van het model. Op de Doro Aurora A10, A20 en A30 werkt WhatsApp. WhatsApp zet u er zelf op via de Play Store. Op de Doro Leva-toestellen werkt het niet. Die hebben een eigen systeem zonder appwinkel."
+    a: "Dat hangt af van het model. Op de Doro Aurora A10, A20 en A30 werkt WhatsApp. Op de Doro Leva-toestellen werkt het niet. Die hebben een eigen systeem zonder appwinkel."
 sources:
   - label: "WhatsApp: ondersteunde apparaten"
     url: "https://faq.whatsapp.com/1150261202542208/"
@@ -65,8 +65,7 @@ Een seniorentelefoon met WhatsApp is altijd een smartphone. WhatsApp werkt volge
 
 Alle toestellen in de tabel bovenaan kunnen WhatsApp. Het verschil zit in hoe makkelijk het is.
 
-- **Senifone S1.** WhatsApp zet u er zelf op via de Play Store. Familie kan helpen met de Companion App.
-- **Doro Aurora A10, A20 en A30.** WhatsApp zet u er zelf op via de Play Store.
+- **Senifone S1 en Doro Aurora A10, A20 en A30.** WhatsApp staat er niet standaard op. U zet het er zelf op via de Play Store.
 - **Emporia SMART.7lite en SMART.8.** WhatsApp werkt volgens de handleiding van Emporia.
 - **SeniorenTab S616.** Volgens MediaMarkt staat WhatsApp bij het Knox Voordeelpakket, een uitvoering met extra beveiliging en beheer op afstand, al klaar.
 - **Samsung Galaxy A17 en A18.** Gewone Android-telefoons, dus WhatsApp werkt.
@@ -81,11 +80,14 @@ Het installeren en instellen vraagt de eerste keer wat hulp. Daarna is het voora
 
 ## Waar let u op bij een telefoon met WhatsApp voor uw ouder?
 
-- **Een groot, rustig scherm.** WhatsApp-berichten en foto's lezen gaat makkelijker op een groot scherm.
-- **Hulp op afstand.** Lukt iets niet, dan helpt het als familie kan meekijken zonder langs te komen.
-- **Een goede voorcamera.** Die gebruikt u bij videobellen met de kleinkinderen.
-- **Geluid.** Spraakberichten en videobellen moeten goed te verstaan zijn, ook met een hoortoestel.
-- **Een SOS-knop.** Niet voor WhatsApp, maar wel prettig als iemand alleen woont.
+Wij vergelijken op dezelfde zes punten als op onze pagina [zo vergelijken wij](/zo-vergelijken-wij/). Voor een telefoon met WhatsApp betekent dat:
+
+- **Makkelijk te bedienen.** Een groot, rustig scherm. WhatsApp-berichten en foto's lezen gaat dan makkelijker.
+- **Goed te horen.** Spraakberichten en videobellen moeten goed te verstaan zijn, ook met een hoortoestel.
+- **Veilig.** Een SOS-knop, en hulp op afstand: lukt iets niet, dan kan familie meekijken zonder langs te komen.
+- **Doet wat u nodig hebt.** Een goede voorcamera voor videobellen met de kleinkinderen.
+- **Zorgeloos.** Een accu die lang meegaat en hulp in het Nederlands als er iets is.
+- **Eerlijke prijs.** Wat u krijgt voor uw geld, ook vergeleken met een gewone smartphone in eenvoudige stand.
 
 Meer over het kiezen van een smartphone leest u bij [beste smartphone voor senioren](/beste-smartphone-voor-senioren/).
 
@@ -97,7 +99,7 @@ De Senifone S1 heeft foto's van contacten op het startscherm, en familie helpt o
 
 ## Doro Aurora A20: WhatsApp op een klaptelefoon
 
-De [Doro Aurora A20](/producten/doro-aurora-a20/) ziet eruit als een klaptelefoon, met een verlicht toetsenbord. Binnenin zit een touchscreen met Android 14. Daarop werkt WhatsApp; u zet het er zelf op via de Play Store.
+De [Doro Aurora A20](/producten/doro-aurora-a20/) ziet eruit als een klaptelefoon, met een verlicht toetsenbord. Binnenin zit een touchscreen met Android 14. Daarop werkt WhatsApp.
 
 De grotere [Doro Aurora A30](/producten/doro-aurora-a30/) heeft een scherm van 6,1 inch, prettiger voor foto's en videobellen. De [Aurora A10](/producten/doro-aurora-a10/) is een klein recht model van 4,5 inch. Alle drie hebben een SOS-knop op de achterkant. Familie helpt op afstand met de app Response by Doro.
 

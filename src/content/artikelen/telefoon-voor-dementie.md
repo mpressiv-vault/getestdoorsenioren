@@ -16,10 +16,10 @@ picks:
     reden: "Vaste telefoon met zes fototoetsen en een extra luid gespreksvolume."
   - situatie: "Mobiel en zo eenvoudig mogelijk, zonder camera"
     product: "emporia-simplicity-lte"
-    reden: "Grote verlichte toetsen, drie snelkeuzetoetsen, een noodknop en een oplaadstation."
+    reden: "Grote verlichte toetsen, drie snelkeuzetoetsen, een noodknop en een oplaadstation. Op 4 november 2026 alleen te koop in de webshop van Emporia."
   - situatie: "Beginnende dementie, voor wie al een smartphone gebruikt"
     product: "senifone-s1"
-    reden: "Contactfoto's op het startscherm, en familie ziet via een app waar de telefoon is."
+    reden: "Contactfoto's op het startscherm, en familie ziet via de Companion App waar de telefoon is. Die app is volgens Senifone nog in bèta, dus nog in ontwikkeling."
 faq:
   - q: "Wat is een fototelefoon?"
     a: "Een fototelefoon heeft grote toetsen met een foto van een vast contact. Uw vader of moeder drukt op het gezicht en de telefoon belt dat nummer. De Alecto CW30 is zo'n vaste telefoon, met zes fototoetsen."
@@ -55,7 +55,7 @@ changelog:
 
 Een telefoon voor iemand met dementie moet vooral één ding goed doen: bellen naar de mensen die ertoe doen. Hoe minder knoppen en keuzes, hoe groter de kans dat uw vader of moeder hem blijft gebruiken.
 
-Er is geen telefoon die voor iedereen met dementie werkt. Wat past, hangt af van de fase en van wat uw ouder al gewend is. Deze gids helpt u kiezen. Hij is gebaseerd op fabrieksgegevens en op adviezen van de Hulpmiddelenwijzer van Vilans en dementie.nl. Ons testpanel is in opbouw.
+Er is geen telefoon die voor iedereen met dementie werkt. Wat past, hangt af van de fase en van wat uw ouder al gewend is. Deze gids helpt u kiezen. Wij kijken naar dezelfde zes punten als op [zo vergelijken wij](/zo-vergelijken-wij/): makkelijk te bedienen, goed te horen, veilig, doet wat u nodig hebt, zorgeloos en een eerlijke prijs. Bij dementie tellen makkelijk te bedienen en veilig het zwaarst. De gids is gebaseerd op fabrieksgegevens en op adviezen van de Hulpmiddelenwijzer van Vilans en dementie.nl. Ons testpanel is in opbouw.
 
 ## Is een aparte dementie telefoon altijd nodig?
 
@@ -70,7 +70,7 @@ Een nieuw toestel wordt pas zinvol als het vertrouwde toestel niet meer lukt. Bi
 Dit zijn de functies die op papier het verschil maken. Ze komen uit de specificaties van de fabrikanten.
 
 - **Weinig, vaste toetsen.** Een paar snelkeuzetoetsen voor de kinderen of de buurvrouw. Eén druk en de telefoon belt.
-- **Foto's in plaats van nummers.** Sommige mensen herkennen een gezicht makkelijker dan een naam of nummer.
+- **Foto's in plaats van nummers.** Uw ouder drukt op de foto van de persoon die hij of zij wil bellen. Een nummer onthouden of een naam lezen is dan niet nodig.
 - **Alleen vertrouwde bellers.** Sommige toestellen laten alleen bekende nummers door. Onbekende verkopers komen dan niet meer binnen.
 - **Instellingen op slot.** Een beveiligd beheerdersmenu voorkomt dat uw ouder per ongeluk iets verandert.
 - **Een oplaadschaal.** Neerzetten is makkelijker dan een kabeltje in een klein gat steken.
@@ -88,7 +88,7 @@ Dit zijn de functies die op papier het verschil maken. Ze komen uit de specifica
 
 Gebruikt uw vader of moeder al jaren WhatsApp? Maak dan eerst het eigen toestel simpeler. Lukt dat niet, dan is een seniorensmartphone een optie.
 
-De [Senifone S1](/senifone-s1/) toont foto's van contacten op het startscherm, en via de Companion App ziet u als kind waar de telefoon is. Het blijft wel een smartphone met een touchscreen, dus later in het proces past hij minder goed.
+De [Senifone S1](/senifone-s1/) toont foto's van contacten op het startscherm, en via de Companion App ziet u als kind waar de telefoon is. Die app is volgens Senifone nog in bèta. Het blijft wel een smartphone met een touchscreen, dus later in het proces past hij minder goed.
 
 ### Middenfase: een mobiele telefoon met vaste toetsen
 
@@ -96,7 +96,7 @@ Lukt een touchscreen niet meer, dan past een toestel met een paar grote toetsen.
 
 De [Doro Leva X10](/producten/doro-leva-x10/) is volgens Doro bedoeld voor mensen met geheugenproblemen of dementie. Hij heeft vier snelkeuzetoetsen en u kunt alleen vertrouwde bellers toestaan. Verder: een medicatieherinnering, een veiligheidstimer en een assistentieknop op de achterkant. Die knop stuurt een sms, belt en deelt de GPS-locatie met maximaal vijf contacten. Als helper kunt u de locatie ook zelf opvragen per sms. Instellingen zitten achter een beveiligd beheerdersmenu. De X10 heeft geen camera en een oplaadschaal zit in de doos.
 
-De [Emporia SIMPLICITY-LTE](/producten/emporia-simplicity-lte/) is nog kaler. Hij heeft extra grote, verlichte toetsen, drie snelkeuzetoetsen en een noodknop op de achterkant. Een oplaadstation zit erbij. Een beller-filter noemt Emporia niet.
+De [Emporia SIMPLICITY-LTE](/producten/emporia-simplicity-lte/) is nog kaler. Hij heeft extra grote, verlichte toetsen, drie snelkeuzetoetsen en een noodknop op de achterkant. Een oplaadstation zit erbij. Een beller-filter noemt Emporia niet. Op 4 november 2026 zagen wij hem alleen in de webshop van Emporia, niet bij bol, Belsimpel, Coolblue of MediaMarkt.
 
 ### Thuis: een fototelefoon op de vaste lijn
 

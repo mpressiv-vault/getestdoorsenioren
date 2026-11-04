@@ -7,14 +7,14 @@ hub: telefoons
 order: 1
 primary_kw: "senioren telefoon"
 secondary_kws: ["mobiele telefoon voor senioren", "telefoon voor ouderen", "mobiele telefoon voor ouderen", "seniorentelefoon", "mobiel voor senioren", "mobieltje voor senioren", "gsm voor senioren", "ouderen mobiel telefoon", "beste mobiele telefoon voor senioren", "telefoon voor ouderen mensen", "mobiele senioren telefoon", "mobiele telefoon ouderen", "senioren mobiele telefoon simlock vrij", "ouderen telefoon gsm", "senioren telefoon kopen", "beste telefoon voor ouderen", "beste mobiele telefoon voor ouderen", "beste seniorentelefoon", "seniorentelefoon vergelijken"]
-products: ["senifone-s1", "doro-aurora-a20", "emporia-smart-8", "samsung-galaxy-a18", "doro-leva-l30", "emporia-joy-lte", "doro-leva-e10", "doro-leva-x10"]
+products: ["doro-aurora-a30", "senifone-s1", "doro-aurora-a20", "emporia-smart-8", "samsung-galaxy-a18", "doro-leva-l30", "emporia-joy-lte", "doro-leva-e10", "doro-leva-x10"]
 picks:
   - situatie: "Voor wie WhatsApp wil en hulp van familie op afstand"
     product: "senifone-s1"
     reden: "Groot scherm van 6,53 inch, een SOS-knop op het startscherm en een gratis app waarmee familie contacten en volume op afstand regelt."
   - situatie: "Voor wie een klaptelefoon gewend is, maar wel WhatsApp wil"
     product: "doro-aurora-a20"
-    reden: "Een smartphone in klapvorm met echte toetsen en een touchscreen. WhatsApp zet u er zelf op via de Play Store."
+    reden: "Een smartphone in klapvorm met echte toetsen en een touchscreen, en een SOS-knop op de achterkant."
   - situatie: "Voor wie een hoortoestel draagt en een smartphone wil"
     product: "emporia-smart-8"
     reden: "Volgens de handleiding hoortoestelklasse M4/T4, een noodknop op de achterkant en geluid rechtstreeks naar een Bluetooth-hoortoestel."
@@ -92,8 +92,9 @@ Wij vergelijken op dezelfde punten als op onze pagina [zo vergelijken wij](/zo-v
 - **Makkelijk te bedienen.** Grote toetsen of een rustig startscherm met grote foto's van contacten.
 - **Goed te horen.** Een luide beltoon en een toestel dat werkt met een hoortoestel.
 - **Veilig.** Een SOS-knop die een paar vaste contacten waarschuwt, liefst met locatie.
-- **Doet wat nodig is.** Alleen bellen, of ook WhatsApp, foto's en videobellen.
-- **Zorgeloos.** Een batterij die lang meegaat en makkelijk opladen, bijvoorbeeld in een oplaadschaal.
+- **Doet wat u nodig hebt.** Alleen bellen, of ook WhatsApp, foto's en videobellen.
+- **Zorgeloos.** Een batterij die lang meegaat, makkelijk opladen, bijvoorbeeld in een oplaadschaal, en hulp in het Nederlands.
+- **Eerlijke prijs.** Wat u krijgt voor uw geld, ook vergeleken met een gewone smartphone in eenvoudige stand.
 
 Een oplaadschaal is een standaard waar u de telefoon in zet. Dat is makkelijker dan een klein stekkertje. De Doro Leva L30, E22 en E10 hebben er een in de doos, net als de Emporia SIMPLICITYglam.4G. Bij de smartphones is dat zelden zo.
 
@@ -103,7 +104,7 @@ De [Senifone S1](/senifone-s1/) heeft foto's van contacten op het startscherm, e
 
 De Doro Aurora-lijn heeft een SOS-knop op de achterkant. De [Doro Aurora A20](/producten/doro-aurora-a20/) is een klapmodel met toetsen en een touchscreen. De A30 heeft een groter scherm van 6,1 inch. WhatsApp zet u er zelf op via de Play Store. Wilt u Senifone en Doro naast elkaar zien, lees dan [Senifone of Doro](/senifone-vs-doro/).
 
-De [Emporia SMART.8](/producten/emporia-smart-8/) is een seniorensmartphone met 5G. Hij heeft een noodknop op de achterkant en volgens de handleiding klasse M4/T4. Het geluid gaat ook rechtstreeks naar een Bluetooth-hoortoestel. Het nadeel: de grote winkelketens verkochten hem begin november 2026 niet.
+De [Emporia SMART.8](/producten/emporia-smart-8/) is een seniorensmartphone met 5G, het snelste mobiele netwerk. Hij heeft een noodknop op de achterkant en volgens de handleiding klasse M4/T4. Het geluid gaat ook rechtstreeks naar een Bluetooth-hoortoestel. Het nadeel: de grote winkelketens verkochten hem begin november 2026 niet.
 
 Een overzicht van alle smartphones vindt u op [beste smartphone voor senioren](/beste-smartphone-voor-senioren/).
 

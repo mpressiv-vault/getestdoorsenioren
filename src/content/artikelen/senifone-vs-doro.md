@@ -21,7 +21,7 @@ faq:
   - q: "Is Doro een mobiele telefoon?"
     a: "Ja. Doro is een merk dat mobiele telefoons voor senioren maakt. De Aurora-lijn bestaat uit smartphones met Android. De Leva-lijn bestaat uit eenvoudige toetsen- en klaptelefoons voor bellen en sms'en."
   - q: "Kan ik WhatsApp gebruiken met mijn Doro-telefoon?"
-    a: "Met een Doro Aurora wel. WhatsApp zet u er zelf op via de Play Store. Met een Doro Leva kan het niet: die toestellen hebben geen appwinkel."
+    a: "Met een Doro Aurora wel, want die draait Android. Met een Doro Leva kan het niet: die toestellen hebben geen appwinkel."
 sources:
   - label: "Senifone S1 productpagina"
     url: "https://senifone.nl/products/senioren-smartphone"
@@ -29,6 +29,14 @@ sources:
     url: "https://senifone.nl/pages/companion-app"
   - label: "Doro Aurora A10 productpagina"
     url: "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a10-827c4b20/"
+  - label: "Doro Aurora A20 productpagina"
+    url: "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a20-659c1e61/"
+  - label: "Doro Aurora A20 handleiding (WhatsApp, Response by Doro)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_aurora_a20_nl_v12_r23900_ua.pdf"
+  - label: "Doro Aurora A30 productpagina"
+    url: "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a30-a4af12c0/"
+  - label: "Doro Aurora A30 handleiding (WhatsApp, Response by Doro)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_aurora_a30_nl_v12_r23900_ua.pdf"
 published: 2026-11-04
 updated: 2026-11-04
 panel_tested: false
@@ -56,7 +64,7 @@ Doro maakt daarnaast de Leva-telefoons. Dat zijn eenvoudige toetsen- en klaptele
 
 ## Wat zijn de grootste verschillen?
 
-De tabel op deze pagina zet alle gegevens naast elkaar. Dit zijn de verschillen die het meest tellen:
+Wij vergelijken op de zes punten van [zo vergelijken wij](/zo-vergelijken-wij/): makkelijk te bedienen, goed te horen, veilig, doet wat u nodig hebt, zorgeloos en een eerlijke prijs. De tabel op deze pagina zet alle gegevens naast elkaar. Dit zijn de verschillen die het meest tellen:
 
 - **Scherm.** Senifone S1: 6,53 inch. Aurora A30: 6,1 inch. Aurora A10 en A20: 4,5 inch.
 - **Android.** De S1 draait Android 13 met SeniOS. De Aurora-toestellen draaien Android 14.
@@ -86,7 +94,7 @@ Bij de Senifone staat een rode SOS-knop op het startscherm. Volgens de handleidi
 
 Beide merken laten familie op afstand meehelpen. De aanpak verschilt.
 
-Met de **Senifone Companion App** ziet u de locatie, SOS- en batterijmeldingen en veilige zones. U regelt ook contacten en volume op afstand. De klantenservice kan met een supportcode meekijken. De app is volgens Senifone nog in bètafase.
+Met de **Senifone Companion App** ziet u de locatie, SOS- en batterijmeldingen en veilige zones. U regelt ook contacten en volume op afstand. De klantenservice kan met een supportcode meekijken. De app is volgens Senifone nog in bèta. Dat betekent dat de app nog in ontwikkeling is.
 
 Met **Response by Doro** ziet u de status van de telefoon en past u basisinstellingen aan. Daarnaast werkt TeamViewer QuickSupport voor hulp op afstand. Voor Response hebben uw ouder en de helpers elk een account nodig.
 

@@ -20,7 +20,7 @@ picks:
     reden: "Volgens de handleiding klasse M4/T4, extra grote verlichte toetsen en een oplaadstation in de doos."
   - situatie: "Voor wie het simpel wil houden, maar toch WhatsApp wil"
     product: "doro-aurora-a20"
-    reden: "Een smartphone in klapvorm met echte toetsen. WhatsApp zet u er zelf op via de Play Store."
+    reden: "Een smartphone in klapvorm met echte toetsen en een SOS-knop op de achterkant."
 faq:
   - q: "Wat is een makkelijke telefoon voor ouderen?"
     a: "Voor wie alleen belt, is een toetsen- of klaptelefoon met grote toetsen het makkelijkst. Let op een noodknop, een luide beltoon en een oplaadschaal. Voorbeelden zijn de Doro Leva E10, de Doro Leva L30 en de Emporia SIMPLICITYglam.4G."
@@ -59,7 +59,7 @@ changelog:
     wat: "Eerste versie"
 ---
 
-Een simpele mobiele telefoon voor ouderen doet weinig, en dat is precies de bedoeling. Grote toetsen, een luide beltoon en een noodknop. Geen apps en geen meldingen. De vraag is alleen: moet er WhatsApp op, of niet?
+Een simpele mobiele telefoon voor ouderen doet weinig, en dat is precies de bedoeling. Grote toetsen, een luide beltoon en een noodknop. Geen apps en geen meldingen. Het korte antwoord: wil uw vader of moeder alleen bellen, kies dan een Doro Leva E10 of de klaptelefoon Doro Leva L30. Bij allebei zit een oplaadschaal in de doos. Moet er WhatsApp op, kijk dan naar de Doro Aurora A20: een smartphone in klapvorm.
 
 ## Alleen bellen, of ook WhatsApp?
 
@@ -73,13 +73,14 @@ Twijfelt u nog tussen de soorten? Op onze [gids over seniorentelefoons](/seniore
 
 ## Waar let u op bij een eenvoudige telefoon?
 
-Op een simpele telefoon zijn een paar dingen extra belangrijk:
+Wij vergelijken op dezelfde zes punten als op onze pagina [zo vergelijken wij](/zo-vergelijken-wij/). Voor een simpele telefoon betekent dat:
 
-- **Grote toetsen die ver uit elkaar staan.** Zo drukt u niet per ongeluk op de verkeerde.
-- **Een noodknop.** Bij de meeste modellen zit die op de achterkant. Hij stuurt een hulpbericht naar vaste contacten. Bij sommige Doro's gaat de GPS-locatie mee.
-- **Een oplaadschaal.** U zet de telefoon erin en hij laadt op. Geen klein stekkertje nodig.
-- **Goed geluid.** Kijk naar de beltoon en of het toestel werkt met een hoortoestel. Doro en Emporia geven vaak een HAC-klasse op, zoals M4/T4.
-- **Snelkeuzetoetsen.** Eén knop voor de dochter, één voor de buurvrouw.
+- **Makkelijk te bedienen.** Grote toetsen die ver uit elkaar staan, en snelkeuzetoetsen: één knop voor de dochter, één voor de buurvrouw.
+- **Goed te horen.** Een luide beltoon en een toestel dat werkt met een hoortoestel. Doro en Emporia geven vaak een HAC-klasse op, zoals M4/T4.
+- **Veilig.** Een noodknop, bij de meeste modellen op de achterkant. Hij stuurt een hulpbericht naar vaste contacten. Bij sommige Doro's gaat de GPS-locatie mee.
+- **Doet wat u nodig hebt.** Bellen en sms'en. Wie WhatsApp wil, heeft een smartphone nodig.
+- **Zorgeloos.** Een oplaadschaal: u zet de telefoon erin en hij laadt op, zonder klein stekkertje.
+- **Eerlijke prijs.** Wat u krijgt voor uw geld. De prijzen staan in de tabel bovenaan.
 
 Alle toestellen op deze pagina werken op het 4G-netwerk.
 

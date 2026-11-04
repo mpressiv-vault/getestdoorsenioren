@@ -121,7 +121,7 @@ Drie betaalbare Samsungs zetten we op papier naast elkaar. Ze hebben alle drie e
 
 De [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) is de nieuwste. Hij krijgt beveiligingsupdates tot eind oktober 2032, het langst van de drie. Hij stuurt geluid naar Bluetooth-hoortoestellen met ASHA, een techniek die het geluid van de telefoon rechtstreeks naar het hoortoestel stuurt. Een geheugenkaart past erin voor veel foto's.
 
-De [Samsung Galaxy A17](/producten/samsung-galaxy-a17/) krijgt updates tot eind september 2031. De [Galaxy A17 5G](/producten/samsung-galaxy-a17-5g/) heeft 5G en ook ASHA-streaming. Voor bellen en WhatsApp maakt 5G weinig verschil.
+De [Samsung Galaxy A17](/producten/samsung-galaxy-a17/) krijgt updates tot eind september 2031. De [Galaxy A17 5G](/producten/samsung-galaxy-a17-5g/) heeft 5G, het snelste mobiele netwerk, en ook ASHA-streaming. Voor bellen en WhatsApp maakt 5G weinig verschil.
 
 Een HAC-klasse, de M- en T-waarde die aangeeft hoe goed een telefoon samenwerkt met een hoortoestel, vonden we voor geen van de drie Europese modellen. Hoort uw vader of moeder slecht, lees dan eerst onze pagina over een [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
 
@@ -139,7 +139,7 @@ Wilt u Senifone en Doro naast elkaar zien? Lees dan [Senifone of Doro](/senifone
 
 ## Eigen Samsung of nieuw toestel: hoe kiest u?
 
-Stel uzelf drie vragen.
+Wij vergelijken op de zes punten van [zo vergelijken wij](/zo-vergelijken-wij/): makkelijk te bedienen, goed te horen, veilig, doet wat u nodig hebt, zorgeloos en een eerlijke prijs. Een Samsung scoort goed op zorgeloos, door de lange updates. Op makkelijk te bedienen en veilig wint een seniorensmartphone vaak. Stel uzelf daarom drie vragen.
 
 - **Gebruikt uw vader of moeder al een smartphone?** Dan is de eigen Samsung met eenvoudige modus vaak genoeg.
 - **Kunt u vaak langskomen om te helpen?** Zo niet, dan is hulp op afstand veel waard. Senifone, Doro en SeniorenTab noemen hulp op afstand; Samsung noemt het niet.

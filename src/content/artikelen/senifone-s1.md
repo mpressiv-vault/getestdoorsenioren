@@ -91,7 +91,7 @@ Hier zit de grootste kracht van de S1. Met de gratis Senifone Companion App, voo
 
 U kunt ook contacten en het volume op afstand regelen. Daarnaast kan de klantenservice met een supportcode meekijken en het toestel op afstand bedienen.
 
-Let op: de Companion App is volgens Senifone in bètafase. Per account kunt u nu één Senifone koppelen.
+Let op: de Companion App is volgens Senifone nog in bèta. Dat betekent dat de app nog in ontwikkeling is. Per account kunt u nu één Senifone koppelen.
 
 ## Wat schrijven kopers over de Senifone?
 
@@ -103,7 +103,7 @@ De klachten gaan over drie dingen. Sommige kopers vinden de accu snel leeg en he
 
 ## Voor wie past de Senifone S1?
 
-De S1 past bij uw vader of moeder als:
+Wij vergelijken op de zes punten van [zo vergelijken wij](/zo-vergelijken-wij/): makkelijk te bedienen, goed te horen, veilig, doet wat u nodig hebt, zorgeloos en een eerlijke prijs. Daarop scoort de S1 sterk bij bediening, veilig en doet wat u nodig hebt. Bij goed te horen blijft het onzeker. De S1 past bij uw vader of moeder als:
 
 - die WhatsApp, foto's en videobellen wil.
 - een groot scherm prettig is.

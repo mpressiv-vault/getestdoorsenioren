@@ -30,7 +30,7 @@ faq:
   - q: "Wat is de makkelijkste senioren telefoon?"
     a: "Wie alleen wil bellen, heeft het makkelijkst met een toetsen- of klaptelefoon met grote toetsen. Wie ook WhatsApp wil, kiest een seniorensmartphone met grote knoppen en foto's van contacten op het startscherm. Kan familie helpen op afstand, dan wordt het nog makkelijker."
   - q: "Welke makkelijke telefoon is geschikt voor ouderen met WhatsApp?"
-    a: "Alle smartphones in dit overzicht kunnen WhatsApp gebruiken. Bij de Senifone S1 en de Doro Aurora zet u WhatsApp er zelf op via de Play Store. Toetsen- en klaptelefoons zonder apps kunnen geen WhatsApp."
+    a: "Alle smartphones in dit overzicht kunnen WhatsApp gebruiken. Toetsen- en klaptelefoons zonder apps kunnen geen WhatsApp."
   - q: "Welke Android-telefoons zijn geschikt voor ouderen?"
     a: "Seniorensmartphones met Android zijn de Doro Aurora A10, A20 en A30, de Senifone S1, de Emporia SMART.7lite en SMART.8 en de SeniorenTab S616. Een gewone Samsung Galaxy A17 of A18 kan ook, met de Eenvoudige modus aan."
 sources:
@@ -68,17 +68,18 @@ changelog:
 
 De beste smartphone voor senioren is er een met een rustig startscherm en hulp als het even niet lukt. Voor de meeste mensen is dat een seniorensmartphone met een SOS-knop. Wie al wat gewend is, redt zich ook met een gewone smartphone in eenvoudige stand.
 
-De keuzes hierboven zijn per situatie, geen ranglijst. Welk toestel past, hangt af van wat uw vader of moeder nodig heeft. Op onze vijf criteria scoort de Doro Aurora A30 op papier het breedst, daarom staat hij vooraan.
+De keuzes hierboven zijn per situatie, geen ranglijst. Welk toestel past, hangt af van wat uw vader of moeder nodig heeft. Op de zes punten van onze methode scoort de Doro Aurora A30 op papier het breedst, daarom staat hij vooraan.
 
 ## Wat maakt een smartphone geschikt voor ouderen?
 
-Een smartphone voor ouderen verschilt van een gewone op een paar punten. Daar letten wij op, in deze volgorde:
+Wij vergelijken op dezelfde zes punten als op onze pagina [zo vergelijken wij](/zo-vergelijken-wij/). Voor smartphones betekent dat:
 
-1. **Een eenvoudig startscherm.** Grote knoppen, grote letters en liefst foto's van contacten. Zo belt u met één tik.
-2. **Hulp op afstand.** Kan familie meekijken of instellingen aanpassen zonder langs te komen?
-3. **Een SOS-knop.** Een echte knop op de achterkant is in paniek makkelijker te vinden dan een knop op het scherm.
-4. **Geschikt voor een hoortoestel.** Kijk naar de HAC-klasse, het getal dat aangeeft hoe goed een telefoon samenwerkt met een hoortoestel. M4/T4 is de hoogste klasse.
-5. **Lang bruikbaar.** Hoe lang krijgt het toestel nog beveiligingsupdates?
+1. **Makkelijk te bedienen.** Een eenvoudig startscherm met grote knoppen, grote letters en liefst foto's van contacten. Zo belt u met één tik.
+2. **Goed te horen.** Kijk naar de HAC-klasse, het getal dat aangeeft hoe goed een telefoon samenwerkt met een hoortoestel. M4/T4 is de hoogste klasse.
+3. **Veilig.** Een SOS-knop, en hulp op afstand. Een echte knop op de achterkant is in paniek makkelijker te vinden dan een knop op het scherm.
+4. **Doet wat u nodig hebt.** WhatsApp, videobellen en foto's. Dat kan op alle toestellen hier.
+5. **Zorgeloos.** Een accu die lang meegaat, makkelijk opladen en beveiligingsupdates voor jaren.
+6. **Eerlijke prijs.** Wat u krijgt voor uw geld, ook vergeleken met een gewone smartphone in eenvoudige stand.
 
 Wilt u eerst weten of een smartphone wel de juiste keuze is? Lees dan onze [gids over seniorentelefoons](/seniorentelefoons/). Wil uw vader of moeder vooral WhatsApp, kijk dan bij [seniorentelefoon met WhatsApp](/seniorentelefoon-met-whatsapp/).
 
@@ -92,15 +93,15 @@ De [Doro Aurora A30](/producten/doro-aurora-a30/) heeft het grootste scherm: 6,1
 
 ## Senifone S1: voor wie wil dat familie ook de locatie ziet
 
-De [Senifone S1](/senifone-s1/) heeft een scherm van 6,53 inch en een batterij van 5000 mAh. Het startscherm heet SeniOS en toont grote knoppen en foto's van contacten. WhatsApp zet u er zelf op via de Play Store. De SOS-knop staat op het startscherm. U kunt hem ook gebruiken door vijf keer op de aan/uit-knop te drukken.
+De [Senifone S1](/senifone-s1/) heeft een scherm van 6,53 inch en een batterij van 5000 mAh. Het startscherm heet SeniOS en toont grote knoppen en foto's van contacten. De SOS-knop staat op het startscherm. U kunt hem ook gebruiken door vijf keer op de aan/uit-knop te drukken.
 
 Ook Doro biedt hulp op afstand. De Companion App van Senifone gaat verder: familie ziet de locatie, krijgt een melding bij SOS of een lege batterij, en beheert contacten en volume. Ook de klantenservice kan met een supportcode op afstand meekijken.
 
-**Voor wie wel:** wie een groot scherm met contactfoto's wil en familie heeft die op afstand meekijkt. **Voor wie niet:** wie een hoortoestel draagt en zekerheid wil, want Senifone noemt geen HAC-klasse. Er draait Android 13, een oudere versie dan bij Doro. Het laden gaat via Micro-USB, een oudere stekker die maar op één manier in het toestel past. Contactloos betalen kan niet. De Companion App is volgens Senifone nog in bèta.
+**Voor wie wel:** wie een groot scherm met contactfoto's wil en familie heeft die op afstand meekijkt. **Voor wie niet:** wie een hoortoestel draagt en zekerheid wil, want Senifone noemt geen HAC-klasse. Er draait Android 13, een oudere versie dan bij Doro. Het laden gaat via Micro-USB, een oudere stekker die maar op één manier in het toestel past. Contactloos betalen kan niet. De Companion App is volgens Senifone nog in bèta. Dat betekent dat de app nog in ontwikkeling is.
 
 ## Emporia SMART.8 en SMART.7lite: voor wie een hoortoestel draagt
 
-De [Emporia SMART.8](/producten/emporia-smart-8/) heeft een OLED-scherm van 6,36 inch, een scherm met diepe kleuren en scherp contrast. Hij werkt op 5G. Volgens de handleiding heeft hij klasse M4/T4. Het geluid gaat ook rechtstreeks naar een Bluetooth-hoortoestel. Op de achterkant zit een noodknop. De accu kunt u zelf vervangen.
+De [Emporia SMART.8](/producten/emporia-smart-8/) heeft een OLED-scherm van 6,36 inch, een scherm met diepe kleuren en scherp contrast. Hij werkt op 5G, het snelste mobiele netwerk. Volgens de handleiding heeft hij klasse M4/T4. Het geluid gaat ook rechtstreeks naar een Bluetooth-hoortoestel. Op de achterkant zit een noodknop. De accu kunt u zelf vervangen.
 
 De [Emporia SMART.7lite](/producten/emporia-smart-7lite/) is kleiner, met een scherm van 5,45 inch. Hij heeft ook een noodknop op de achterkant.
 

@@ -54,7 +54,7 @@ changelog:
     wat: "Eerste versie"
 ---
 
-Wil uw vader of moeder thuis vast blijven bellen? Dan is een huistelefoon met grote toetsen en luid geluid vaak de prettigste keuze. Voor wie draadloos wil en een hoortoestel draagt, past de Gigaset E720 op papier het best. Wie het luidste gesprek wil, kijkt naar de Alecto CW30 met snoer.
+Wil uw vader of moeder thuis vast blijven bellen? Dan is een huistelefoon met grote toetsen en luid geluid vaak de prettigste keuze. Voor wie draadloos wil en een hoortoestel draagt, past de Gigaset E720 op papier het best. Wie op papier de meeste gespreksversterking wil, kijkt naar de Alecto CW30 met snoer.
 
 Hieronder leest u waar u op let, en per toestel voor wie het past. Zoekt u een mobiele telefoon? Kijk dan bij [alle seniorentelefoons](/seniorentelefoons/).
 
@@ -76,13 +76,14 @@ Een tussenweg is een draadloze set met twee handsets. Eén in de woonkamer, éé
 
 ## Waar let u op bij een huistelefoon voor ouderen?
 
-Deze punten maken het verschil in het dagelijks gebruik:
+Wij vergelijken op dezelfde zes punten als op onze pagina [zo vergelijken wij](/zo-vergelijken-wij/). Voor een huistelefoon betekent dat:
 
-- **Grote toetsen.** Liefst verlicht, met duidelijke cijfers. Alle drie de toestellen hier hebben grote toetsen.
-- **Luid gesprek en luide beltoon.** Let op de gespreksversterking, niet alleen de beltoon. Fabrikanten noemen dat niet altijd in decibel.
-- **Snelkiestoetsen.** Eén druk om de dochter of de buurvrouw te bellen. De Alecto CW30 doet dat met foto's.
-- **SOS- of alarmtoets.** Een toets die in nood een of meer vaste nummers belt.
-- **Geschikt voor een hoortoestel.** Draagt uw vader of moeder een hoortoestel? Lees dan ook onze pagina over een [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
+- **Makkelijk te bedienen.** Grote toetsen, liefst verlicht, met duidelijke cijfers. En snelkiestoetsen: één druk om de dochter of de buurvrouw te bellen. De Alecto CW30 doet dat met foto's.
+- **Goed te horen.** Let op de gespreksversterking, niet alleen de beltoon. Fabrikanten noemen dat niet altijd in decibel. Draagt uw vader of moeder een hoortoestel? Lees dan ook onze pagina over een [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
+- **Veilig.** Een SOS- of alarmtoets die in nood een of meer vaste nummers belt.
+- **Doet wat u nodig hebt.** Alleen bellen, of ook een antwoordapparaat of meer handsets in huis.
+- **Zorgeloos.** Een snoertelefoon heeft geen accu. Een draadloze moet terug in de oplaadschaal.
+- **Eerlijke prijs.** Wat u krijgt voor uw geld. De prijzen staan in de tabel bovenaan.
 
 ## Gigaset E720: voor wie wel, voor wie niet?
 
