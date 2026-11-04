@@ -33,6 +33,12 @@ faq:
     a: "Alle smartphones in dit overzicht kunnen WhatsApp gebruiken. Toetsen- en klaptelefoons zonder apps kunnen geen WhatsApp."
   - q: "Welke Android-telefoons zijn geschikt voor ouderen?"
     a: "Seniorensmartphones met Android zijn de Doro Aurora A10, A20 en A30, de Senifone S1, de Emporia SMART.7lite en SMART.8 en de SeniorenTab S616. Een gewone Samsung Galaxy A17 of A18 kan ook, met de Eenvoudige modus aan."
+  - q: "Wat is het verschil tussen een seniorensmartphone en een gewone smartphone?"
+    a: "Een seniorensmartphone heeft een vast, eenvoudig startscherm en vaak een SOS-knop. Bij de meeste kan familie op afstand helpen. Een gewone smartphone maakt u eenvoudiger met een instelling, maar de meldingen en menu's blijven. Een echte SOS-knop heeft een gewone smartphone niet."
+  - q: "Welke smartphone voor senioren heeft de grootste accu?"
+    a: "De Doro Aurora A30, de Senifone S1, de SeniorenTab S616 en de Samsung Galaxy A18 hebben een accu van 5000 mAh. De Doro Aurora A10 en A20 hebben 3000 mAh. Bij de Emporia SMART.8 en SMART.7lite kunt u de accu zelf vervangen."
+  - q: "Kan een smartphone voor senioren tegen een spatje water?"
+    a: "De Doro Aurora's, de Emporia's en de SeniorenTab S616 hebben IP54: bestand tegen stof en spatwater. De iPhone 17e heeft IP68 en kan tegen onderdompelen. Voor de Senifone S1 en de Samsung Galaxy A18 vonden wij geen opgave."
 sources:
   - label: "Senifone S1, productpagina Senifone"
     url: "https://senifone.nl/products/senioren-smartphone"
@@ -64,6 +70,8 @@ panel_tested: false
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-04
+    wat: "Sectie over een gewone smartphone eenvoudiger maken toegevoegd, plus vragen over het verschil met een seniorensmartphone, de accu en spatwater"
 ---
 
 De beste smartphone voor senioren is er een met een rustig startscherm en hulp als het even niet lukt. Voor de meeste mensen is dat een seniorensmartphone met een SOS-knop. Wie al wat gewend is, redt zich ook met een gewone smartphone in eenvoudige stand.
@@ -124,6 +132,16 @@ De [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) is een gewone smartphone
 De [iPhone 17e](/producten/apple-iphone-17e/) heeft een scherm van 6,1 inch. Met de modus Assistive Access ziet het scherm er eenvoudig uit, met grote knoppen. Een vertrouwde helper stelt dat in. De iPhone werkt met Made for iPhone-hoortoestellen.
 
 **Voor wie wel:** wie familie heeft met iPhones die kan helpen. **Voor wie niet:** wie een SOS-knop wil of een budget heeft. Hij is het duurste toestel in dit overzicht; de actuele prijs staat in de tabel hierboven. Er is geen aparte SOS-knop. Apple geeft één jaar garantie, naast uw wettelijke rechten.
+
+## Kunt u een gewone smartphone eenvoudiger maken?
+
+Ja, tot op zekere hoogte. Heeft uw vader of moeder al een smartphone, of krijgt hij er een van de familie? Dan kunt u het scherm eenvoudiger maken. Een SOS-knop op de achterkant krijgt u er niet bij.
+
+Op een Samsung opent u Instellingen, kiest u Scherm en zet u de Eenvoudige modus aan. Letters en pictogrammen worden dan groter. SOS-berichten stuurt u daar door drie keer op de zijknop te drukken. Hoe u dat stap voor stap instelt, leest u bij [Samsung telefoon voor ouderen](/samsung-telefoon-voor-ouderen/).
+
+Op een iPhone heet de eenvoudige stand Assistive Access. Een vertrouwde helper stelt die in en helpt kiezen welke apps op het scherm staan. Die apps verschijnen dan als grote knoppen.
+
+Raakt uw vader of moeder snel in de war van meldingen of menu's? Dan helpt een eenvoudige stand vaak niet genoeg. Een seniorensmartphone met een vast startscherm past dan beter.
 
 ## Welke smartphone kiest u?
 
