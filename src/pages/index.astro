@@ -1,38 +1,86 @@
 ---
 import Base from '../layouts/Base.astro';
+import TopPicks from '../components/TopPicks.astro';
+import SfeerFoto from '../components/SfeerFoto.astro';
+import ArticleCards from '../components/ArticleCards.astro';
+import ProductImg from '../components/ProductImg.astro';
 import { getCollection } from 'astro:content';
-import { datum } from '../lib';
+import { allProducts, datum, euro } from '../lib';
+import home from '../data/home.json';
 const all = (await getCollection('artikelen', (e) => !e.data.draft)).sort((a, b) => a.data.order - b.data.order);
+const pillar = all.find((e) => e.data.type === 'pillar');
 const situaties = all.filter((e) => e.data.type !== 'pillar' && e.data.type !== 'product').slice(0, 6);
 const recent = [...all].sort((a, b) => +b.data.updated - +a.data.updated).slice(0, 4);
+const soorten = [
+  { label: 'Seniorensmartphones', f: (p: any) => p.type === 'seniorensmartphone' },
+  { label: 'Gewone smartphones', f: (p: any) => p.type === 'smartphone' },
+  { label: 'Toetsen- en klaptelefoons', f: (p: any) => /toets|klap/.test(p.type) },
+  { label: 'Huistelefoons', f: (p: any) => /huis|vast|dect/.test(p.type) },
+];
+const ingedeeld = new Set<string>();
+const groepen = soorten.map((s) => { const items = allProducts.filter((p) => !ingedeeld.has(p.id) && s.f(p)); items.forEach((p) => ingedeeld.add(p.id)); return { ...s, items }; });
+const rest = allProducts.filter((p) => !ingedeeld.has(p.id));
+if (rest.length) groepen.push({ label: 'Overig', f: () => true, items: rest });
 ---
 <Base title="Getest door senioren: eerlijk vergelijken voor senioren en hun familie" description="Welke telefoon past bij uw vader of moeder? Getest door senioren vergelijkt seniorentelefoons in gewone taal, met eerlijk advies per situatie.">
-  <section class="home-hero">
+  <section class="page-hero home">
+    <div class="wrap hero-grid">
+      <div class="hero-text">
+        <p class="eyebrow">{allProducts.length} seniorentelefoons naast elkaar gezet</p>
+        <h1>Kies een telefoon die uw vader of moeder echt gebruikt</h1>
+        <p class="lede">Wij vergelijken seniorentelefoons op wat telt: makkelijk bellen, goed horen, veilig voelen. In gewone taal, met een keuze per situatie.</p>
+        <div class="hero-actions">
+          <a class="btn-cta" href="/seniorentelefoons/">Naar de vergelijking</a>
+          <a class="btn-ghost" href="/zo-vergelijken-wij/">Zo vergelijken wij</a>
+        </div>
+      </div>
+      <SfeerFoto id={home.hero} eager />
+    </div>
+  </section>
+
+  {pillar && pillar.data.picks.length > 0 && (
+    <div class="wrap mid home-picks">
+      <TopPicks picks={pillar.data.picks} titel="Onze keuze per situatie" />
+      <p class="more"><a href="/seniorentelefoons/">Bekijk alle {pillar.data.products.length} toestellen naast elkaar →</a></p>
+    </div>
+  )}
+
+  <section class="band" aria-labelledby="start-title">
     <div class="wrap">
-      <p class="eyebrow">Eerlijk advies, in gewone taal</p>
-      <h1>Kies een telefoon die uw vader of moeder echt gebruikt</h1>
-      <p class="lede">Wij vergelijken seniorentelefoons op wat telt: makkelijk bellen, goed horen, veilig voelen. Zonder vakjargon, en we zeggen erbij hoe wij geld verdienen.</p>
-      <div class="hero-actions">
-        <a class="btn-primary" href="/seniorentelefoons/">Naar de vergelijking</a>
-        <a class="btn-secondary" href="/zo-vergelijken-wij/">Zo vergelijken wij</a>
+      <h2 id="start-title">Waar zoekt u een telefoon voor?</h2>
+      <ArticleCards items={situaties} />
+    </div>
+  </section>
+
+  <section class="wrap catalogus" aria-labelledby="cat-title">
+    <h2 id="cat-title">Alle toestellen die wij vergelijken</h2>
+    {groepen.filter((g) => g.items.length).map((g) => (
+      <section class="cat-groep">
+        <h3>{g.label} <span class="cat-n">{g.items.length}</span></h3>
+        <ul class="cat-list">
+          {g.items.map((p: any) => (
+            <li><a class="cat-item" href={`/producten/${p.id}/`}>
+              <ProductImg id={p.id} sizes="160px" alt="" />
+              <span class="cat-naam">{p.naam}</span>
+              <span class="cat-prijs">vanaf {euro(p.prijs?.laagste ?? p.prijs?.advies)}</span>
+            </a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </section>
+
+  <section class="band trust" aria-labelledby="trust-title">
+    <div class="wrap">
+      <h2 id="trust-title" class="sr-only">Zo werken wij</h2>
+      <div class="trust-grid">
+        <div><h3>Geschreven voor senioren</h3><p>Grote letters, korte zinnen en een duidelijk advies bovenaan. Zo kunt u het samen met uw vader of moeder lezen.</p></div>
+        <div><h3>Onafhankelijk gekozen</h3><p>Merken betalen niet voor een plek. Een product staat bovenaan omdat het het best past bij de situatie die we beschrijven.</p></div>
+        <div><h3>Een panel van senioren</h3><p>We bouwen een vast testpanel van senioren op. Tot dat draait, vergelijken we op papier en zeggen we dat ook.</p></div>
       </div>
     </div>
   </section>
-  <section class="wrap home-start" aria-labelledby="start-title">
-    <h2 id="start-title">Waar zoekt u een telefoon voor?</h2>
-    <ul class="tile-list">
-      {situaties.map((e) => (
-        <li><a class="tile" href={`/${e.id}/`}><span class="tile-title">{e.data.title}</span><span class="tile-arrow" aria-hidden="true">→</span></a></li>
-      ))}
-    </ul>
-  </section>
-  <section class="home-trust">
-    <div class="wrap trust-grid">
-      <div><h2>Geschreven voor senioren</h2><p>Grote letters, korte zinnen en een duidelijk advies bovenaan. Zo kunt u het samen met uw vader of moeder lezen.</p></div>
-      <div><h2>Eerlijk over geld</h2><p>Koopt u via ons, dan krijgen we soms een vergoeding. De volgorde bepalen onze criteria, nooit die vergoeding.</p></div>
-      <div><h2>Een panel van senioren</h2><p>We bouwen een vast testpanel van senioren op. Tot dat draait, vergelijken we op papier en zeggen we dat ook.</p></div>
-    </div>
-  </section>
+
   <section class="wrap home-recent" aria-labelledby="recent-title">
     <h2 id="recent-title">Net bijgewerkt</h2>
     <ul class="recent-list">

@@ -1,0 +1,22 @@
+---
+import ProductImg from './ProductImg.astro';
+import { heeftBeeld } from '../lib';
+interface Props { items: any[] }
+const { items } = Astro.props;
+const beeldVan = (e: any) => e.data.hero ?? e.data.picks?.[0]?.product ?? e.data.products?.[0];
+---
+<ul class="acards">
+  {items.map((e) => {
+    const id = beeldVan(e);
+    const soort = heeftBeeld('sfeer', id) ? 'sfeer' : 'studio';
+    return (
+      <li>
+        <a class="acard" href={`/${e.id}/`}>
+          <span class:list={['acard-img', `acard-${soort}`]}>{id && <ProductImg id={id} soort={soort} sizes="(max-width: 600px) 100vw, 360px" alt="" />}</span>
+          <span class="acard-title">{e.data.title}</span>
+          <span class="acard-more" aria-hidden="true">Lees verder →</span>
+        </a>
+      </li>
+    );
+  })}
+</ul>

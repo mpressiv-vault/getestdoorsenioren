@@ -1,30 +1,31 @@
 ---
 import { byId, euro } from '../lib';
 import BuyButtons from './BuyButtons.astro';
-import PhoneIcon from './PhoneIcon.astro';
 import Checks from './Checks.astro';
-interface Props { picks: { situatie: string; product: string; reden: string }[] }
-const { picks } = Astro.props;
+import ProductImg from './ProductImg.astro';
+interface Props { picks: { situatie: string; product: string; reden: string }[]; titel?: string; ankers?: string[] }
+const { picks, titel = 'Onze keuze per situatie', ankers = [] } = Astro.props;
 ---
 <section class="picks" aria-labelledby="picks-title">
-  <h2 id="picks-title">Ons snelle antwoord: de beste keuze per situatie</h2>
+  <h2 id="picks-title">{titel}</h2>
   <ol class="pick-list">
-    {picks.map((pk, i) => {
+    {picks.map((pk) => {
       const p = byId(pk.product);
       if (!p) return null;
       return (
         <li class="pick">
-          <p class="pick-label">{pk.situatie}</p>
-          <div class="pick-body">
-            <PhoneIcon type={p.type} />
-            <div>
-              <h3><a href={`/producten/${p.id}/`}>{p.naam}</a></h3>
-              <p class="pick-reden">{pk.reden}</p>
-              <Checks product={p} />
-              <p class="pick-price">Vanaf {euro(p.prijs?.laagste ?? p.prijs?.advies)}</p>
-            </div>
+          <a class="pick-img" href={`/producten/${p.id}/`} tabindex="-1" aria-hidden="true"><ProductImg id={p.id} sizes="(max-width: 600px) 40vw, 180px" /></a>
+          <div class="pick-info">
+            <p class="badge">{pk.situatie}</p>
+            <h3><a href={`/producten/${p.id}/`}>{p.naam}</a></h3>
+            <p class="pick-reden">{pk.reden}</p>
+            <Checks product={p} />
+            {ankers.includes(p.id) && <p class="pick-anker"><a href={`#p-${p.id}`}>Lees ons oordeel <span aria-hidden="true">↓</span></a></p>}
           </div>
-          <BuyButtons product={p} compact />
+          <div class="pick-aside">
+            <p class="pick-price"><span class="muted-s">Vanaf</span> {euro(p.prijs?.laagste ?? p.prijs?.advies)}</p>
+            <BuyButtons product={p} compact max={1} prijs={false} />
+          </div>
         </li>
       );
     })}

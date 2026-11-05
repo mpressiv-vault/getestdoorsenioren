@@ -24,3 +24,13 @@ export function koopLinks(p: any): { label: string; url: string; affiliate: bool
 }
 
 export const yesNo = (v: any) => (v === true ? 'Ja' : v === false ? 'Nee' : v == null || v === 'onbekend' ? 'Onbekend' : String(v));
+
+import fs from 'node:fs';
+/** Productbeelden: studio (officiële foto op warme achtergrond) en sfeer (AI-beeld op basis van die foto). */
+export type BeeldSoort = 'studio' | 'sfeer';
+const MATEN: Record<BeeldSoort, [number, number, number]> = { studio: [400, 800, 800], sfeer: [800, 1200, 900] };
+export const heeftBeeld = (soort: BeeldSoort, id?: string) => !!id && fs.existsSync(`public/img/${soort}/${id}-${MATEN[soort][0]}.webp`);
+export const beeld = (soort: BeeldSoort, id: string) => {
+  const [s, l, h] = MATEN[soort];
+  return { src: `/img/${soort}/${id}-${s}.webp`, srcset: `/img/${soort}/${id}-${s}.webp ${s}w, /img/${soort}/${id}-${l}.webp ${l}w`, width: l, height: h };
+};

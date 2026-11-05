@@ -4,6 +4,7 @@ seo_title: "Senioren telefoon kiezen (2026): welk type past?"
 description: "Senioren telefoon kiezen? Zo vindt u in drie vragen het juiste type: toetsentelefoon, klapmodel of smartphone met WhatsApp, met keuzes per situatie."
 type: pillar
 hub: telefoons
+hero: "emporia-smart-8"
 order: 1
 primary_kw: "senioren telefoon"
 secondary_kws: ["mobiele telefoon voor senioren", "telefoon voor ouderen", "mobiele telefoon voor ouderen", "seniorentelefoon", "mobiel voor senioren", "mobieltje voor senioren", "gsm voor senioren", "ouderen mobiel telefoon", "beste mobiele telefoon voor senioren", "telefoon voor ouderen mensen", "mobiele senioren telefoon", "mobiele telefoon ouderen", "senioren mobiele telefoon simlock vrij", "ouderen telefoon gsm", "senioren telefoon kopen", "beste telefoon voor ouderen", "beste mobiele telefoon voor ouderen", "beste seniorentelefoon", "seniorentelefoon vergelijken"]

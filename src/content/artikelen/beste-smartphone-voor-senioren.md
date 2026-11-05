@@ -93,6 +93,8 @@ Wilt u eerst weten of een smartphone wel de juiste keuze is? Lees dan onze [gids
 
 ## Doro Aurora A30, A20 en A10: voor wie een echte SOS-knop wil
 
+<div data-product="doro-aurora-a30,doro-aurora-a20,doro-aurora-a10"></div>
+
 Alle drie de Aurora's hebben een SOS-knop op de achterkant. Ze draaien Android 14 met een vereenvoudigd scherm. Familie helpt op afstand met de app Response by Doro: helpers zien de status en passen basisinstellingen aan. Daarvoor hebben de gebruiker en de helpers wel een account nodig.
 
 De [Doro Aurora A30](/producten/doro-aurora-a30/) heeft het grootste scherm: 6,1 inch. Hij heeft een batterij van 5000 mAh (milliampère-uur: hoe hoger, hoe langer de accu meegaat) en hoortoestelklasse T4/M4. De [Aurora A20](/producten/doro-aurora-a20/) is een klapmodel met verlichte toetsen en een touchscreen. De [Aurora A10](/producten/doro-aurora-a10/) is een compact recht model met een scherm van 4,5 inch. De A10 en A20 hebben klasse T4/M3.
@@ -100,6 +102,8 @@ De [Doro Aurora A30](/producten/doro-aurora-a30/) heeft het grootste scherm: 6,1
 **Voor wie wel:** wie een fysieke SOS-knop wil, en bij de A20 wie een klaptelefoon gewend is. **Voor wie niet:** wie een lader in de doos verwacht, want die zit er niet bij. WhatsApp zet u er zelf op via de Play Store, net als bij de Senifone. Twijfelt u tussen Doro en Senifone, lees dan [Senifone of Doro](/senifone-vs-doro/).
 
 ## Senifone S1: voor wie wil dat familie ook de locatie ziet
+
+<div data-product="senifone-s1"></div>
 
 De [Senifone S1](/senifone-s1/) heeft een scherm van 6,53 inch en een batterij van 5000 mAh. Het startscherm heet SeniOS en toont grote knoppen en foto's van contacten. De SOS-knop staat op het startscherm. U kunt hem ook gebruiken door vijf keer op de aan/uit-knop te drukken.
 
@@ -109,6 +113,8 @@ Ook Doro biedt hulp op afstand. De Companion App van Senifone gaat verder: famil
 
 ## Emporia SMART.8 en SMART.7lite: voor wie een hoortoestel draagt
 
+<div data-product="emporia-smart-8,emporia-smart-7lite"></div>
+
 De [Emporia SMART.8](/producten/emporia-smart-8/) heeft een OLED-scherm van 6,36 inch, een scherm met diepe kleuren en scherp contrast. Hij werkt op 5G, het snelste mobiele netwerk. Volgens de handleiding heeft hij klasse M4/T4. Het geluid gaat ook rechtstreeks naar een Bluetooth-hoortoestel. Op de achterkant zit een noodknop. De accu kunt u zelf vervangen.
 
 De [Emporia SMART.7lite](/producten/emporia-smart-7lite/) is kleiner, met een scherm van 5,45 inch. Hij heeft ook een noodknop op de achterkant.
@@ -117,17 +123,23 @@ De [Emporia SMART.7lite](/producten/emporia-smart-7lite/) is kleiner, met een sc
 
 ## SeniorenTab S616: voor wie een servicedesk wil
 
+<div data-product="seniorentab-s616"></div>
+
 De [SeniorenTab S616](/producten/seniorentab-s616/) is een Samsung Galaxy A16 met vaste, grote tegels. Het scherm is 6,7 inch. Er is een SOS-functie en een servicedesk die op afstand helpt. Het toestel is geschikt voor een hoortoestel, maar de klasse is onbekend.
 
 **Voor wie wel:** wie liever een vaste helpdesk belt dan familie. **Voor wie niet:** wie geen abonnement wil. Bij de Knox-varianten, de uitvoeringen met extra beveiliging en beheer op afstand, is na het eerste jaar een maandelijks abonnement verplicht. Of de SOS-functie een echte knop is, is onbekend.
 
 ## Samsung Galaxy A18: voor wie een gewone smartphone wil
 
+<div data-product="samsung-galaxy-a18"></div>
+
 De [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) is een gewone smartphone met een scherm van 6,7 inch. In de instellingen zet u de Eenvoudige modus aan, met grotere iconen en letters. Samsung belooft beveiligingsupdates tot eind oktober 2032. Hij stuurt geluid naar Bluetooth-hoortoestellen.
 
 **Voor wie wel:** wie al wat ervaring heeft en een toestel lang wil gebruiken. **Voor wie niet:** wie een echte SOS-knop wil. SOS-berichten gaan hier door drie keer op de zijknop te drukken. Een HAC-klasse voor het Europese model is niet bekend. Meer leest u bij [Samsung telefoon voor ouderen](/samsung-telefoon-voor-ouderen/).
 
 ## Apple iPhone 17e: voor wie in een iPhone-gezin wil meedoen
+
+<div data-product="apple-iphone-17e"></div>
 
 De [iPhone 17e](/producten/apple-iphone-17e/) heeft een scherm van 6,1 inch. Met de modus Assistive Access ziet het scherm er eenvoudig uit, met grote knoppen. Een vertrouwde helper stelt dat in. De iPhone werkt met Made for iPhone-hoortoestellen.
 

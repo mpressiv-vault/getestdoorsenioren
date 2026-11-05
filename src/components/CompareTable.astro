@@ -1,6 +1,8 @@
 ---
 import { byId, euro, yesNo } from '../lib';
 import BuyButtons from './BuyButtons.astro';
+import ProductImg from './ProductImg.astro';
+import Checks from './Checks.astro';
 interface Props { ids: string[] }
 const items = Astro.props.ids.map(byId).filter(Boolean) as any[];
 const rows: [string, (p: any) => string][] = [
@@ -13,25 +15,34 @@ const rows: [string, (p: any) => string][] = [
   ['Geschikt voor hoortoestel', (p) => yesNo(p.hac)],
   ['Familie kan op afstand helpen', (p) => yesNo(p.beheer_op_afstand)],
 ];
+const cls = (v: string) => (v === 'Ja' || /^ja\b/i.test(v) ? 'v-ja' : v === 'Nee' ? 'v-nee' : undefined);
 ---
 <section class="compare" aria-labelledby="compare-title">
-  <h2 id="compare-title">Alle toestellen naast elkaar</h2>
+  <h2 id="compare-title">Alle {items.length} toestellen naast elkaar</h2>
   <div class="table-wrap">
     <table>
       <caption class="sr-only">Vergelijking van {items.length} toestellen</caption>
-      <thead><tr><th scope="col">Kenmerk</th>{items.map((p) => <th scope="col"><a href={`/producten/${p.id}/`}>{p.naam}</a></th>)}</tr></thead>
+      <thead>
+        <tr><th scope="col" class="corner">Kenmerk</th>{items.map((p) => (
+          <th scope="col"><a class="th-prod" href={`/producten/${p.id}/`}><ProductImg id={p.id} sizes="120px" alt="" /><span>{p.naam}</span></a></th>
+        ))}</tr>
+      </thead>
       <tbody>
-        {rows.map(([label, f]) => <tr><th scope="row">{label}</th>{items.map((p) => <td>{f(p)}</td>)}</tr>)}
-        <tr><th scope="row">Kopen</th>{items.map((p) => <td><BuyButtons product={p} compact /></td>)}</tr>
+        {rows.map(([label, f]) => <tr><th scope="row">{label}</th>{items.map((p) => { const v = f(p); return <td class={cls(v)}>{v}</td>; })}</tr>)}
+        <tr><th scope="row">Kopen</th>{items.map((p) => <td><BuyButtons product={p} compact max={1} /></td>)}</tr>
       </tbody>
     </table>
   </div>
   <div class="compare-cards">
     {items.map((p) => (
       <article class="ccard">
-        <h3><a href={`/producten/${p.id}/`}>{p.naam}</a></h3>
-        <dl>{rows.map(([label, f]) => <div><dt>{label}</dt><dd>{f(p)}</dd></div>)}</dl>
-        <BuyButtons product={p} compact />
+        <div class="ccard-head"><ProductImg id={p.id} sizes="80px" alt="" /><div><h3><a href={`/producten/${p.id}/`}>{p.naam}</a></h3><p class="ccard-prijs">{p.type_label ?? p.type} · vanaf <strong>{euro(p.prijs?.laagste ?? p.prijs?.advies)}</strong></p></div></div>
+        <Checks product={p} />
+        <details class="ccard-more">
+          <summary>Alle gegevens</summary>
+          <dl>{rows.slice(2).map(([label, f]) => { const v = f(p); return <div><dt>{label}</dt><dd class={cls(v)}>{v}</dd></div>; })}</dl>
+        </details>
+        <BuyButtons product={p} compact max={1} prijs={false} />
       </article>
     ))}
   </div>

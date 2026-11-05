@@ -4,6 +4,8 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import Disclosure from '../../components/Disclosure.astro';
 import ProductSummary from '../../components/ProductSummary.astro';
 import Sources from '../../components/Sources.astro';
+import ProductImg from '../../components/ProductImg.astro';
+import { heeftBeeld } from '../../lib';
 import { allProducts, euro, yesNo } from '../../lib';
 import { getCollection } from 'astro:content';
 import site from '../../data/site.json';
@@ -35,9 +37,12 @@ const description = `${p.naam} op een rij: ${p.kort ?? ''}`.slice(0, 155);
   <div class="wrap narrow">
     <Breadcrumbs items={[{ label: 'Seniorentelefoons', href: '/seniorentelefoons/' }, { label: p.naam }]} />
     <h1>{p.naam}</h1>
-    <p class="status-note"><strong>Vergeleken op papier.</strong> Deze gegevens komen van de fabrikant en winkels, opgehaald op {p.opgehaald_op}. Dit toestel is nog niet door ons testpanel getest.</p>
-    <Disclosure senifone={p.id.startsWith('senifone')} />
-    <ProductSummary product={p} heading="h2" />
+    <div class="pfotos">
+      {heeftBeeld('studio', p.id) && <ProductImg id={p.id} eager sizes="(max-width: 700px) 45vw, 19rem" />}
+      {heeftBeeld('sfeer', p.id) && <figure class="pfoto-sfeer"><ProductImg id={p.id} soort="sfeer" sizes="(max-width: 700px) 55vw, 24rem" /><figcaption>Sfeerbeeld, met AI gemaakt op basis van de fabrieksfoto.</figcaption></figure>}
+    </div>
+    <Disclosure />
+    <ProductSummary product={p} heading="h2" foto={false} />
     <section aria-labelledby="spec-title">
       <h2 id="spec-title">Alle kenmerken</h2>
       <dl class="spec-list">{specs.map(([k, v]) => <div><dt>{k}</dt><dd>{v}</dd></div>)}</dl>

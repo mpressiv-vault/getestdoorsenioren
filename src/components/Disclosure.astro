@@ -1,12 +1,13 @@
 ---
-interface Props { senifone?: boolean }
-const { senifone = false } = Astro.props;
+// Eén compacte regel boven de inhoud: hoe deze pagina tot stand kwam.
+interface Props { papier?: boolean }
+const { papier = true } = Astro.props;
 ---
-<aside class="disclosure" aria-label="Hoe wij verdienen">
-  <p>Wij kiezen onafhankelijk. Koopt u via een link op deze site, dan krijgen wij soms een vergoeding. Die bepaalt nooit de volgorde. <a href="/over-ons/#verdienmodel">Zo verdienen wij</a></p>
-</aside>
-{senifone && (
-  <aside class="conflict" aria-label="Onze band met Senifone">
-    <p><strong>Goed om te weten:</strong> CREW, de uitgever van deze site, doet ook marketing voor Senifone. Senifone krijgt dezelfde beoordeling als elk ander merk. <a href="/over-ons/#belangen">Meer over onze belangen</a></p>
+{papier && (
+  <aside class="pagenote" aria-label="Over deze pagina">
+    <ul>
+      <li><strong>Vergeleken op papier.</strong> Nog niet door ons testpanel getest.</li>
+      <li><a href="/zo-vergelijken-wij/">Zo vergelijken wij</a></li>
+    </ul>
   </aside>
 )}

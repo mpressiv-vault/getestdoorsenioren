@@ -1,0 +1,15 @@
+---
+import ProductImg from './ProductImg.astro';
+import { byId, heeftBeeld } from '../lib';
+interface Props { id?: string; eager?: boolean; sizes?: string; class?: string }
+const { id, eager = false, sizes = '(max-width: 900px) 100vw, 640px', class: cls } = Astro.props;
+const ok = heeftBeeld('sfeer', id);
+const soort = ok ? 'sfeer' : 'studio';
+const naam = id ? byId(id)?.naam : undefined;
+---
+{id && heeftBeeld(soort, id) && (
+  <figure class:list={['sfeer', cls]}>
+    <ProductImg id={id} soort={soort} eager={eager} sizes={sizes} />
+    <figcaption>{naam}{ok && <span>. Sfeerbeeld, met AI gemaakt op basis van de fabrieksfoto.</span>}</figcaption>
+  </figure>
+)}

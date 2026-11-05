@@ -2,14 +2,16 @@
 import { euro } from '../lib';
 import BuyButtons from './BuyButtons.astro';
 import PhoneIcon from './PhoneIcon.astro';
-interface Props { product: any; heading?: 'h2' | 'h3' }
-const { product: p, heading = 'h3' } = Astro.props;
+import ProductImg from './ProductImg.astro';
+import { heeftBeeld } from '../lib';
+interface Props { product: any; heading?: 'h2' | 'h3'; foto?: boolean }
+const { product: p, heading = 'h3', foto = true } = Astro.props;
 const H = heading;
 const S = heading === 'h2' ? 'h3' : 'h4';
 ---
 <article class="psum" id={p.id}>
   <div class="psum-head">
-    <PhoneIcon type={p.type} />
+    {!foto ? null : heeftBeeld('studio', p.id) ? <ProductImg id={p.id} sizes="96px" alt="" /> : <PhoneIcon type={p.type} />}
     <div>
       <H><a href={`/producten/${p.id}/`}>{p.naam}</a></H>
       <p class="psum-meta">{p.type_label ?? p.type} · vanaf {euro(p.prijs?.laagste ?? p.prijs?.advies)}</p>

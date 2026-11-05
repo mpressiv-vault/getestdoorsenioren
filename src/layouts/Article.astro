@@ -6,6 +6,9 @@ import TopPicks from '../components/TopPicks.astro';
 import CompareTable from '../components/CompareTable.astro';
 import Faq from '../components/Faq.astro';
 import Sources from '../components/Sources.astro';
+import SfeerFoto from '../components/SfeerFoto.astro';
+import ArticleCards from '../components/ArticleCards.astro';
+import ProductBlok from '../components/ProductBlok.astro';
 import site from '../data/site.json';
 import { datum, byId } from '../lib';
 import { getCollection } from 'astro:content';
@@ -13,43 +16,73 @@ interface Props { entry: any }
 const { entry } = Astro.props;
 const d = entry.data;
 const url = new URL(`/${entry.id}/`, site.url).href;
+const redacteur: string = d.redacteur ?? site.redacteur;
 const hasCommerce = d.products.length > 0 || d.picks.length > 0;
-const senifone = [...d.products, ...d.picks.map((x: any) => x.product)].some((id: string) => id.startsWith('senifone')) || /senifone/i.test(entry.id);
 const jsonld: object[] = [{
   '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description, inLanguage: 'nl-NL',
   datePublished: d.published.toISOString().slice(0, 10), dateModified: d.updated.toISOString().slice(0, 10), mainEntityOfPage: url,
   author: { '@type': 'Organization', name: 'Redactie Getest door senioren', url: `${site.url}/over-ons/` },
+  editor: { '@type': 'Person', name: redacteur },
   publisher: { '@id': `${site.url}/#org` },
 }];
 if (d.products.length) jsonld.push({ '@context': 'https://schema.org', '@type': 'ItemList', name: d.title,
   itemListElement: d.products.map((id: string, i: number) => ({ '@type': 'ListItem', position: i + 1, name: byId(id)?.naam ?? id, url: `${site.url}/producten/${id}/` })) });
 const related = d.type === 'pillar' ? (await getCollection('artikelen', (e) => !e.data.draft && e.data.hub === d.hub && e.id !== entry.id)).sort((a, b) => a.data.order - b.data.order) : [];
 const hubLabel = d.hub === 'telefoons' ? 'Seniorentelefoons' : d.hub;
+const heroId: string | undefined = d.hero ?? d.picks[0]?.product ?? d.products[0];
+// Koopadvies: <div data-product="id[,id]"></div> in de markdown wordt een productblok.
+const html: string = entry.rendered?.html ?? '';
+const RE = /<div data-product="([^"]+)"[^>]*>\s*<\/div>/;
+const delen: string[] = RE.test(html) ? html.split(new RegExp(RE.source, 'g')) : [];
+const blokIds = delen.filter((_, i) => i % 2 === 1).map((x) => x.split(',')[0].trim());
+const pickVan = (id: string) => d.picks.findIndex((pk: any) => pk.product === id);
+const toc = (entry.rendered?.metadata?.headings ?? []).filter((h: any) => h.depth === 2);
 const crumbs = d.type === 'pillar' ? [{ label: hubLabel }] : [{ label: hubLabel, href: '/seniorentelefoons/' }, { label: d.title }];
 ---
 <Base title={d.seo_title ?? d.title} description={d.description} jsonld={jsonld} type="article">
-  <div class="wrap narrow">
-    <Breadcrumbs items={crumbs} />
-    <header class="article-head">
-      <h1>{d.title}</h1>
-      <p class="lede">{d.description}</p>
-      <p class="byline">Door de redactie · Bijgewerkt op <time datetime={d.updated.toISOString().slice(0, 10)}>{datum(d.updated)}</time> · <a href="/zo-vergelijken-wij/">Zo vergelijken wij</a></p>
-      {!d.panel_tested && hasCommerce && (
-        <p class="status-note"><strong>Vergeleken op papier.</strong> Dit overzicht is gemaakt op basis van de gegevens van fabrikanten, handleidingen en ervaringen van kopers. Ons testpanel van senioren is in opbouw; geteste toestellen krijgen een eigen kenmerk.</p>
-      )}
-    </header>
-    {(hasCommerce || senifone) && <Disclosure senifone={senifone} />}
-    {d.picks.length > 0 && <TopPicks picks={d.picks} />}
-  </div>
+  <section class="page-hero">
+    <div class="wrap hero-grid">
+      <div class="hero-text">
+        <Breadcrumbs items={crumbs} />
+        <h1>{d.title}</h1>
+        <p class="lede">{d.description}</p>
+        <p class="byline">{d.products.length > 0 && <span>{d.products.length} toestellen vergeleken op papier · </span>}Bijgewerkt op <time datetime={d.updated.toISOString().slice(0, 10)}>{datum(d.updated)}</time> · Redactie: {redacteur} · <a href="/zo-vergelijken-wij/">Zo vergelijken wij</a></p>
+      </div>
+      <SfeerFoto id={heroId} eager />
+    </div>
+  </section>
+  {!d.panel_tested && hasCommerce && <div class="wrap narrow"><Disclosure /></div>}
+  {d.picks.length > 0 && <div class="wrap mid"><TopPicks picks={d.picks} titel={blokIds.length ? 'In het kort: onze keuze per situatie' : undefined} ankers={blokIds} /></div>}
   {d.products.length > 0 && <div class="wrap"><CompareTable ids={d.products} /></div>}
-  <div class="wrap narrow">
-    <article class="prose"><slot /></article>
-    {related.length > 0 && (
-      <section class="related" aria-labelledby="rel-title">
-        <h2 id="rel-title">Meer hulp bij het kiezen</h2>
-        <ul class="related-list">{related.map((r) => <li><a href={`/${r.id}/`}><span>{r.data.title}</span></a></li>)}</ul>
-      </section>
+  <div class="wrap body-grid">
+    <article class="prose">
+      {toc.length >= 4 && (
+        <details class="toc-m">
+          <summary>Op deze pagina <span class="muted-s">({toc.length} onderdelen)</span></summary>
+          <ol>{toc.map((h: any) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+        </details>
+      )}
+      {delen.length > 0 ? delen.map((deel, i) => {
+        if (i % 2 === 0) return <Fragment set:html={deel} />;
+        const ids = deel.split(',').map((x) => x.trim());
+        const k = pickVan(ids[0]);
+        return <ProductBlok ids={ids} situatie={k >= 0 ? d.picks[k].situatie : undefined} nr={k >= 0 ? k + 1 : undefined} />;
+      }) : <slot />}
+    </article>
+    {toc.length >= 4 && (
+      <nav class="toc-d" aria-label="Op deze pagina">
+        <p class="toc-h">Op deze pagina</p>
+        <ol>{toc.map((h: any) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+      </nav>
     )}
+  </div>
+  {related.length > 0 && (
+    <section class="wrap related-a" aria-labelledby="rel-title">
+      <h2 id="rel-title">Meer hulp bij het kiezen</h2>
+      <ArticleCards items={related} />
+    </section>
+  )}
+  <div class="wrap narrow">
     <Faq items={d.faq} />
     {d.changelog.length > 0 && (
       <details class="changelog">

@@ -1,18 +1,22 @@
 ---
 import site from '../data/site.json';
+import f700 from '@fontsource/atkinson-hyperlegible-next/files/atkinson-hyperlegible-next-latin-700-normal.woff2?url';
+import f400 from '@fontsource/atkinson-hyperlegible-next/files/atkinson-hyperlegible-next-latin-400-normal.woff2?url';
 interface Props { title: string; description: string; canonical?: string; jsonld?: object[]; noindex?: boolean; type?: string }
 const { title, description, jsonld = [], noindex = false, type = 'website' } = Astro.props;
 const canonical = Astro.props.canonical ?? new URL(Astro.url.pathname, site.url).href;
 const fullTitle = title.includes(site.name) ? title : `${title} | ${site.name}`;
 const base = [
   { '@context': 'https://schema.org', '@type': 'Organization', '@id': `${site.url}/#org`, name: site.name, url: site.url,
-    logo: `${site.url}/logo.png`, parentOrganization: { '@type': 'Organization', name: site.publisher, url: site.publisher_url } },
+    logo: `${site.url}/logo.png` },
   { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${site.url}/#site`, name: site.name, url: site.url, inLanguage: 'nl-NL',
     publisher: { '@id': `${site.url}/#org` } },
 ];
 ---
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preload" href={f700} as="font" type="font/woff2" crossorigin />
+<link rel="preload" href={f400} as="font" type="font/woff2" crossorigin />
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
@@ -26,6 +30,7 @@ const base = [
 <meta property="og:image" content={`${site.url}/og.png`} />
 <meta name="twitter:card" content="summary_large_image" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <link rel="alternate" type="application/rss+xml" title={site.name} href="/rss.xml" />
 <link rel="sitemap" href="/sitemap-index.xml" />
 <meta name="theme-color" content="#FBF7F0" />

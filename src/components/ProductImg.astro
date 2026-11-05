@@ -1,0 +1,10 @@
+---
+import { beeld, byId, heeftBeeld, type BeeldSoort } from '../lib';
+interface Props { id: string; soort?: BeeldSoort; sizes?: string; eager?: boolean; class?: string; alt?: string }
+const { id, soort = 'studio', sizes = '160px', eager = false, class: cls, alt } = Astro.props;
+const p = byId(id);
+const ok = heeftBeeld(soort, id);
+const b = ok ? beeld(soort, id) : null;
+const tekst = alt ?? (soort === 'studio' ? `${p?.naam ?? id}, productfoto` : `${p?.naam ?? id}, sfeerbeeld (met AI gemaakt)`);
+---
+{b && <img class:list={['pimg', `pimg-${soort}`, cls]} src={b.src} srcset={b.srcset} sizes={sizes} width={b.width} height={b.height} alt={tekst} loading={eager ? 'eager' : 'lazy'} decoding="async" fetchpriority={eager ? 'high' : undefined} />}

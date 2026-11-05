@@ -1,0 +1,51 @@
+---
+// Koopadvies-blok per product: beeld, oordeel, kerngegevens, winkels. Alles uit products.json.
+import { byId, euro, yesNo, heeftBeeld } from '../lib';
+import ProductImg from './ProductImg.astro';
+import BuyButtons from './BuyButtons.astro';
+interface Props { ids: string[]; situatie?: string; nr?: number }
+const { ids, situatie, nr } = Astro.props;
+const [hoofd, ...rest] = ids.map(byId).filter(Boolean) as any[];
+const o = { plus: hoofd?.sterk, min: hoofd?.zwak };
+const soort = heeftBeeld('sfeer', hoofd?.id) ? 'sfeer' : 'studio';
+const specs: [string, string][] = hoofd ? [
+  ['Scherm', hoofd.scherm_inch ? `${String(hoofd.scherm_inch).replace('.', ',')} inch` : 'Onbekend'],
+  ['Accu', hoofd.batterij_mah ? `${hoofd.batterij_mah} mAh` : 'Onbekend'],
+  ['SOS-knop', yesNo(hoofd.sos_knop)],
+  ['WhatsApp', yesNo(hoofd.whatsapp)],
+  ['Hoortoestel', yesNo(hoofd.hac)],
+  ['Hulp op afstand', yesNo(hoofd.beheer_op_afstand)],
+] : [];
+const cls = (v: string) => (v === 'Ja' || /^ja\b/i.test(v) ? 'v-ja' : v === 'Nee' ? 'v-nee' : undefined);
+---
+{hoofd && (
+  <section class="pblok" id={`p-${hoofd.id}`} aria-label={hoofd.naam}>
+    <div class="pblok-top">
+      <figure class:list={['pblok-img', `pblok-${soort}`]}>
+        <ProductImg id={hoofd.id} soort={soort} sizes="(max-width: 700px) 100vw, 38rem" />
+      </figure>
+      <div class="pblok-kop">
+        {situatie && <p class="badge">{nr ? `${nr}. ` : ''}{situatie}</p>}
+        <p class="pblok-naam">{hoofd.naam}</p>
+        <p class="pblok-prijs"><span class="muted-s">Vanaf</span> {euro(hoofd.prijs?.laagste ?? hoofd.prijs?.advies)}</p>
+      </div>
+    </div>
+    {(o.plus?.length || o.min?.length) && (
+      <div class="pblok-oordeel">
+        {o.plus?.length > 0 && <div><p class="sub">Dit vinden we goed</p><ul class="pros">{o.plus.map((t: string) => <li>{t}</li>)}</ul></div>}
+        {o.min?.length > 0 && <div><p class="sub">Minder goed</p><ul class="cons">{o.min.map((t: string) => <li>{t}</li>)}</ul></div>}
+      </div>
+    )}
+    <dl class="pblok-specs">{specs.map(([k, v]) => <div><dt>{k}</dt><dd class={cls(v)}>{v}</dd></div>)}</dl>
+    <BuyButtons product={hoofd} max={2} prijs={true} />
+    <p class="pblok-meer"><a href={`/producten/${hoofd.id}/`}>Alle kenmerken van de {hoofd.naam}</a></p>
+    {rest.length > 0 && (
+      <div class="pblok-serie">
+        <p class="sub">Ook in deze serie</p>
+        <ul>{rest.map((p) => (
+          <li><a href={`/producten/${p.id}/`}><ProductImg id={p.id} sizes="80px" alt="" /><span class="ps-naam">{p.naam}</span><span class="ps-prijs">vanaf {euro(p.prijs?.laagste ?? p.prijs?.advies)}</span></a></li>
+        ))}</ul>
+      </div>
+    )}
+  </section>
+)}
