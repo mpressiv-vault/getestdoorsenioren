@@ -31,6 +31,12 @@ faq:
     a: "Dat hangt af van de fase. Bij beginnende dementie werkt een bekende telefoon vaak het best, eenvoudiger ingesteld. Later past een toestel met een paar vaste toetsen beter, zoals de Doro Leva X10 of een fototelefoon voor thuis."
   - q: "Kan iemand met dementie nog een smartphone gebruiken?"
     a: "In een vroege fase vaak wel. De Hulpmiddelenwijzer van Vilans schrijft dat apps dan nog goed te gebruiken zijn, zeker als iemand al langer een smartphone heeft. Hoe verder de dementie gaat, hoe lastiger een touchscreen wordt."
+  - q: "Welke dementie telefoon stuurt de locatie mee?"
+    a: "Vier van de 13 toets- en klaptelefoons in onze vergelijking sturen een GPS-locatie mee bij de hulpknop. Dat zijn de Doro Leva X10, L10, L20 en L30. Alleen bij de X10 noemt Doro dat u de locatie zelf per sms kunt opvragen. De Doro Leva E-serie stuurt volgens Doro wel een hulpbericht, maar geen locatie."
+  - q: "Neemt een dementie telefoon vanzelf op?"
+    a: "Geen van de toestellen in de keuzes hierboven noemt automatisch opnemen. Een klaptelefoon kan een tussenweg zijn. Vier klaptelefoons nemen op zodra ze opengaan: de Doro Leva E30 en L30, de Emporia JOY-LTE en de Emporia SIMPLICITYglam. Er hoeft dan geen groene knop gevonden te worden."
+  - q: "Wat is de Wonderfoon?"
+    a: "Een oude draaischijftelefoon die is omgebouwd voor ouderen met dementie. U kunt er niet mee bellen. Wie een nummer draait, hoort een liedje van vroeger. De NOS besteedde er in 2019 aandacht aan. Zoekt u een telefoon om contact te houden, dan is de Wonderfoon dus geen vervanging."
 sources:
   - label: "Hulpmiddelenwijzer (Vilans): dementie en technologie"
     url: "https://www.hulpmiddelenwijzer.nl/situatie/dementie/dementie-en-technologie"
@@ -44,13 +50,38 @@ sources:
     url: "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart"
   - label: "Emporia SIMPLICITY-LTE productpagina"
     url: "https://www.emporia.eu/nl-nl/products/simplicity-lte"
+  - label: "Doro Leva X10 handleiding (assistentieknop en GPS)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_x10_nl_v12_r23986_ua.pdf"
+  - label: "NOS: de Wonderfoon voor dementerende ouderen (2019)"
+    url: "https://nos.nl/video/2299835-de-wonderfoon-voor-dementerende-ouderen"
 published: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-09
 panel_tested: false
 order: 15
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-09
+    wat: "Nieuwe sectie over locatie delen (welke telefoons een GPS-locatie meesturen), FAQ's over locatie, automatisch opnemen en de Wonderfoon"
+vergeleken_met:
+  - url: "https://www.marthaflora.nl/blog/dementie-telefoon"
+    gelezen: 2026-11-09
+    heeft: "Algemene kenmerken en mantelzorgtips (vaste belmomenten, foto's op knoppen, automatisch opnemen), geen merk of model, niets over GPS of ongewenste bellers"
+  - url: "https://www.alzheimer.shop/hulpmiddelen/dementietelefoon"
+    gelezen: 2026-11-09
+    heeft: "Winkelpagina met 15 producten, vooral naamloze fototelefoons; noemt GPS en SOS algemeen, geen vergelijking per toestel, niets over instellen of bellers filteren"
+  - url: "https://www.dementie.nl/telefoon"
+    gelezen: 2026-11-04
+    heeft: "Tips om een smartphone simpeler te maken; geen toestelvergelijking"
+informatiewinst:
+  - wat: "Telling over 13 toets- en klaptelefoons in products.json: 4 sturen een GPS-locatie mee bij de hulpknop, de E-serie uitdrukkelijk niet, bij de rest noemt de fabrikant het niet"
+    soort: vergelijkingsdata
+    sectie: "Welke telefoon laat zien waar uw vader of moeder is?"
+    bron: "products.json"
+  - wat: "Automatisch opnemen: geen van de dementie-keuzes noemt het; vier klaptelefoons nemen op bij openklappen"
+    soort: onbekend-benoemd
+    sectie: "Welke telefoon neemt op zonder knop?"
+    bron: "products.json"
 ---
 
 Een telefoon voor iemand met dementie moet vooral één ding goed doen: bellen naar de mensen die ertoe doen. Hoe minder knoppen en keuzes, hoe groter de kans dat uw vader of moeder hem blijft gebruiken.
@@ -105,6 +136,22 @@ Is uw vader of moeder vooral thuis? Dan is een vaste fototelefoon vaak het rusti
 De [Alecto CW30](/producten/alecto-cw30/) is een snoertelefoon met zes fototoetsen. U plakt een foto van elk vast contact achter een toets. Uw ouder drukt op het gezicht en de telefoon belt. Het gespreksvolume is extra luid en een rood lampje knippert als de telefoon gaat. Hij werkt op een analoge vaste lijn.
 
 Wilt u een draadloze huistelefoon? De [Gigaset E720](/producten/gigaset-e720/) heeft vier snelkiestoetsen, een sprekend toetsenbord en bellerblokkering. Meer toestellen voor thuis vindt u bij [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/).
+
+## Welke telefoon laat zien waar uw vader of moeder is?
+
+Gaat uw ouder nog alleen naar buiten, dan wilt u misschien weten waar hij of zij is. Wij keken bij alle 13 eenvoudige toets- en klaptelefoons in onze data of de hulpknop een locatie meestuurt.
+
+- **Wel een GPS-locatie:** de [Doro Leva X10](/producten/doro-leva-x10/), L10, L20 en L30. Na een druk op de hulpknop krijgen uw vaste contacten een bericht met de plek. Alleen bij de X10 noemt Doro dat u de locatie zelf per sms kunt opvragen, zonder dat uw ouder iets doet.
+- **Wel een hulpbericht, geen locatie:** de Doro Leva E10, E20, E22 en E30. Doro zegt dat er geen locatie meegaat.
+- **Niet vermeld:** bij de Emporia SIMPLICITY-LTE, de andere Emporia-toestellen en de HMD 2660 Flip noemt de fabrikant geen locatie. Reken er dan niet op. Bij de HMD 3210 is niet eens een hulpknop bekend.
+
+De [Senifone S1](/senifone-s1/) werkt anders. Via de Companion App ziet familie op de eigen telefoon waar het toestel is, en u kunt veilige zones instellen. Senifone zegt dat die app nog in de testfase is. Ook bij gewone smartphones als de Samsung Galaxy A17 stuurt het SOS-bericht de locatie mee, na drie keer drukken op de zijknop.
+
+Een locatie helpt alleen als de telefoon mee gaat en opgeladen is. Laat uw ouder hem vaak liggen, dan zegt de locatie vooral waar de telefoon is.
+
+## Welke telefoon neemt op zonder knop?
+
+Wil uw ouder bellen zonder de groene knop te zoeken? Geen van onze keuzes bovenaan deze pagina noemt automatisch opnemen. Vier klaptelefoons nemen op zodra ze opengaan: de Doro Leva E30 en L30, de Emporia JOY-LTE en de Emporia SIMPLICITYglam. Meer daarover leest u bij [klaptelefoon voor senioren](/klaptelefoon-voor-senioren/).
 
 ## Hoe stelt u de telefoon in voor uw vader of moeder?
 
