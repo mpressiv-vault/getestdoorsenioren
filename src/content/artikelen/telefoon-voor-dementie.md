@@ -1,129 +1,190 @@
 ---
 title: "Telefoon voor iemand met dementie: wat werkt en wat niet"
-seo_title: "Telefoon bij dementie kiezen: wat werkt en wat niet"
-description: "Een dementie telefoon kiezen voor uw vader of moeder: fototoetsen, beller-filter en snelkeuzetoetsen uitgelegd, met keuzes per fase."
-type: gids
+seo_title: "Dementie telefoon kiezen (2026): 6 toestellen per fase"
+description: "Een dementie telefoon kiezen: welke toestellen alleen bekende bellers doorlaten, hoe u de instellingen op slot zet en wat per fase past. Uit de handleidingen."
+type: vergelijking
 hub: telefoons
+order: 15
 primary_kw: "dementie telefoon"
 secondary_kws: ["fototelefoon", "telefoon met fotos", "telefoon met fototoetsen", "dementie telefoon mobiel", "telefoon voor mensen met dementie", "telefoon voor ouderen met dementie", "telefoon voor dementerende ouderen", "telefoon voor dementie", "dementie mobiele telefoon", "telefoon voor dementerende", "mobiele telefoon dementie", "dementie telefoon simkaart", "beste dementie telefoon", "mobiele telefoon voor ouderen met dementie", "mobiele telefoon voor dementerende ouderen"]
-products: ["doro-leva-x10", "alecto-cw30", "emporia-simplicity-lte", "senifone-s1", "gigaset-e720"]
+products: ["doro-leva-x10", "alecto-cw30", "gigaset-e720", "senifone-s1", "emporia-simplicity-lte", "fysic-fx-9000"]
 picks:
-  - situatie: "Mobiel, voor wie snel vergeet hoe de telefoon werkt"
+  - situatie: "Mobiel, als een touchscreen niet meer lukt"
     product: "doro-leva-x10"
-    reden: "Volgens Doro bedoeld voor mensen met dementie: vier snelkeuzetoetsen, alleen vertrouwde bellers en beveiligde instellingen."
-  - situatie: "Thuis, voor wie liever op een foto drukt dan een nummer kiest"
+    reden: "Vier snelkiestoetsen, een witte lijst die alleen contacten uit het telefoonboek doorlaat, en een beheermenu dat achter een verborgen knopdruk zit."
+  - situatie: "Thuis, voor wie liever op een gezicht drukt"
     product: "alecto-cw30"
-    reden: "Vaste telefoon met zes fototoetsen en een extra luid gespreksvolume."
-  - situatie: "Mobiel en zo eenvoudig mogelijk, zonder camera"
-    product: "emporia-simplicity-lte"
-    reden: "Grote verlichte toetsen, drie snelkeuzetoetsen, een noodknop en een oplaadstation. Op 4 november 2026 alleen te koop in de webshop van Emporia."
-  - situatie: "Beginnende dementie, voor wie al een smartphone gebruikt"
+    reden: "Snoertelefoon met zes fototoetsen. Geen scherm en geen menu waarin iets kan verspringen."
+  - situatie: "Thuis, draadloos en met een bellerfilter"
+    product: "gigaset-e720"
+    reden: "Vier snelkiestoetsen, bellerblokkering en een toetsenbord dat cijfers hardop uitspreekt."
+  - situatie: "Beginnende dementie, als de smartphone nog lukt"
     product: "senifone-s1"
-    reden: "Contactfoto's op het startscherm, en familie ziet via de Companion App waar de telefoon is. Die app is volgens Senifone nog in bèta, dus nog in ontwikkeling."
+    reden: "Familie kan via de Companion App op afstand onbekende nummers blokkeren en de plek van de telefoon zien. De app is in bèta."
 faq:
   - q: "Wat is een fototelefoon?"
-    a: "Een fototelefoon heeft grote toetsen met een foto van een vast contact. Uw vader of moeder drukt op het gezicht en de telefoon belt dat nummer. De Alecto CW30 is zo'n vaste telefoon, met zes fototoetsen."
+    a: "Een telefoon met grote toetsen waar u een pasfoto achter schuift. Wie op de foto van de dochter drukt, belt de dochter. Een nummer lezen of onthouden hoeft dan niet. In ons overzicht is de Alecto CW30 zo'n toestel, met zes fototoetsen op een vaste telefoon met snoer."
   - q: "Bestaat er een mobiele telefoon met fototoetsen?"
-    a: "Een smartphone als de Senifone S1 toont foto's van contacten op het startscherm. Een toetsentelefoon als de Doro Leva X10 heeft vier snelkeuzetoetsen voor vaste nummers. Echte losse fototoetsen zitten vooral op vaste telefoons."
+    a: "Echte fototoetsen vonden we alleen op vaste telefoons. Mobiel komt de Doro Leva X10 het dichtst bij: vier toetsen met de letters A tot en met D, elk voor één vast contact. Op een smartphone als de Senifone S1 staan foto's van contacten op het scherm, maar dan moet het touchscreen nog lukken."
   - q: "Welke simkaart heeft een dementie telefoon nodig?"
-    a: "Een mobiele telefoon heeft een gewone simkaart nodig, net als elk ander toestel. Kies een abonnement of een prepaid-kaart die automatisch opwaardeert. Dan raakt het beltegoed niet ongemerkt op."
+    a: "Een gewone simkaart. Twee dingen zijn wel handig. Kies een abonnement of een prepaidkaart die vanzelf opwaardeert, zodat het tegoed niet ongemerkt op is. En vraag of er data bij zit, want de locatie-sms van de Doro Leva X10 gebruikt mobiele data."
   - q: "Wat is de beste dementie telefoon?"
-    a: "Dat hangt af van de fase. Bij beginnende dementie werkt een bekende telefoon vaak het best, eenvoudiger ingesteld. Later past een toestel met een paar vaste toetsen beter, zoals de Doro Leva X10 of een fototelefoon voor thuis."
-  - q: "Kan iemand met dementie nog een smartphone gebruiken?"
-    a: "In een vroege fase vaak wel. De Hulpmiddelenwijzer van Vilans schrijft dat apps dan nog goed te gebruiken zijn, zeker als iemand al langer een smartphone heeft. Hoe verder de dementie gaat, hoe lastiger een touchscreen wordt."
+    a: "Dat hangt af van de fase. Lukt de eigen smartphone nog, maak die dan eenvoudiger. Lukt een touchscreen niet meer, dan past de Doro Leva X10 met zijn witte lijst het best. Is uw vader of moeder vooral thuis, dan is een vaste telefoon met fototoetsen zoals de Alecto CW30 het rustigst."
+  - q: "Kan ik onbekende bellers blokkeren op een telefoon voor dementie?"
+    a: "Op de Doro Leva X10 kan dat helemaal: met de witte lijst komen alleen contacten uit het telefoonboek door. Bij de Senifone S1 regelt familie dat op afstand via de Companion App. De Emporia SIMPLICITY-LTE blokkeert alleen losse nummers, maximaal tien."
 sources:
-  - label: "Hulpmiddelenwijzer (Vilans): dementie en technologie"
-    url: "https://www.hulpmiddelenwijzer.nl/situatie/dementie/dementie-en-technologie"
-  - label: "Hulpmiddelenwijzer (Vilans): mobiele telefoon voor senioren"
-    url: "https://www.hulpmiddelenwijzer.nl/hulpmiddelen/mobiele-telefoons-senioren"
+  - label: "Doro Leva X10, handleiding (witte lijst, beheer, snelkiezen, assistentie, positie opvragen)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_x10_nl_v12_r23986_ua.pdf"
+  - label: "Doro Leva X10, productpagina Doro"
+    url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-x10-c23b5db7/"
+  - label: "Emporia SIMPLICITY-LTE, handleiding (geblokkeerde nummers, veiligheidsmodus)"
+    url: "https://www.emporiamobile.com/cdn/shop/files/V27.LTE.v3_BDA-V7_55816-NED.pdf"
+  - label: "Alecto CW30, productpagina Alecto"
+    url: "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart"
+  - label: "Gigaset E720, productpagina Gigaset"
+    url: "https://www.gigaset.com/nl_nl/gigaset-e720/"
+  - label: "Senifone Companion App"
+    url: "https://senifone.nl/pages/companion-app"
+  - label: "Senifone handleiding, Companion App"
+    url: "https://manual.senifone.com/nl/docs/companion/"
+  - label: "Fysic FX-9000, handleiding (Direct gesprek)"
+    url: "https://cdn.nedis.com/datasheets/FX-9000_MAN_NL.PDF"
+  - label: "Alecto CW30, handleiding (voeding via de telefoonaansluiting)"
+    url: "https://cdn.nedis.com/datasheets/CW30_MAN_COMP.PDF"
+  - label: "Fysic FX-9000, productpagina Fysic"
+    url: "https://www.fysic.nl/products/fysic-fx-9000-senioren-dect-telefoon-met-grote-toetsen-en-1-handset-wit"
   - label: "Dementie.nl: telefoon simpeler maken bij dementie"
     url: "https://www.dementie.nl/telefoon"
-  - label: "Doro Leva X10 productpagina"
-    url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-x10-c23b5db7/"
-  - label: "Alecto CW30 productpagina"
-    url: "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart"
-  - label: "Emporia SIMPLICITY-LTE productpagina"
-    url: "https://www.emporia.eu/nl-nl/products/simplicity-lte"
+  - label: "Dementie.nl: apparaten opnieuw leren bedienen met dementie"
+    url: "https://www.dementie.nl/veiligheid-en-zelfstandigheid/zelfstandig-en-veilig-wonen/apparaten-opnieuw-leren-bedienen-met-dementie"
+  - label: "Hulpmiddelenwijzer (Vilans): dementie en technologie"
+    url: "https://www.hulpmiddelenwijzer.nl/situatie/dementie/dementie-en-technologie"
 published: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 panel_tested: false
-order: 15
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-11
+    wat: "Omgebouwd van gids naar koopadvies: oordeel per toestel bij dementie, uit de handleidingen hoe het bellerfilter en het beheermenu werken, en wat we niet konden vinden"
+vergeleken_met:
+  - url: "https://nursepoint.nl/beste-telefoon-senioren"
+    gelezen: 2026-11-11
+    heeft: "Zes toestellen, waaronder de Doro Leva X10, met 'Doro blokkeert onbekende nummers' zonder uitleg. Dementie is één situatie van een paar zinnen. FAQ van zes vragen, geen fase-indeling."
+  - url: "https://www.marthaflora.nl/blog/dementie-telefoon"
+    gelezen: 2026-11-11
+    heeft: "Algemene uitleg over wat er verandert bij telefoneren, fototoetsen en automatisch opnemen kort genoemd. Geen toestellen, geen bellerfilter, geen noodknop, geen FAQ."
+  - url: "https://www.hulpmiddelenwijzer.nl/hulpmiddelen/mobiele-telefoons-senioren"
+    gelezen: 2026-11-11
+    heeft: "Kenmerken van seniorentelefoons in het algemeen, geen merken, niets over bellerfilter of dementie, geen FAQ."
+informatiewinst:
+  - wat: "Hoe de vijf toestellen onbekende bellers tegenhouden: witte lijst op de X10 (met de waarschuwing dat een leeg telefoonboek alle oproepen tegenhoudt), blokkeren op afstand bij Senifone, bellerblokkering bij Gigaset, maximaal tien nummers bij Emporia, niets bij Alecto."
+    soort: vergelijkingsdata
+    sectie: "Welke telefoon houdt onbekende bellers buiten?"
+    bron: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_x10_nl_v12_r23986_ua.pdf"
+  - wat: "Uit de handleidingen: het beheermenu van de X10 opent met de zijknop zes seconden ingedrukt, zonder pincode; de Emporia heeft een veiligheidsmodus met code 0000."
+    soort: handleiding
+    sectie: "Hoe zet u de instellingen op slot?"
+    bron: "https://www.emporiamobile.com/cdn/shop/files/V27.LTE.v3_BDA-V7_55816-NED.pdf"
+  - wat: "Wat we niet konden vinden: een medicatieherinnering in de X10-handleiding (Doro noemt hem wel), wat een geweigerde beller hoort, en of de verlichting van de Alecto CW30 zonder stopcontact werkt."
+    soort: onbekend-benoemd
+    sectie: "Wat konden we niet vinden?"
+    bron: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_x10_nl_v12_r23986_ua.pdf"
+  - wat: "Keuze per fase: eigen smartphone eenvoudiger, mobiel met vaste toetsen, vaste telefoon thuis."
+    soort: beslisboom
+    sectie: "Kies zo"
+    bron: "products.json"
 ---
 
-Een telefoon voor iemand met dementie moet vooral één ding goed doen: bellen naar de mensen die ertoe doen. Hoe minder knoppen en keuzes, hoe groter de kans dat uw vader of moeder hem blijft gebruiken.
+Een telefoon voor iemand met dementie moet weinig kunnen en weinig laten veranderen. Het korte antwoord: lukt een touchscreen niet meer, kies dan de Doro Leva X10. Die laat alleen bekende bellers door. Is uw vader of moeder vooral thuis, dan is een vaste telefoon met fototoetsen zoals de Alecto CW30 het rustigst.
 
-Er is geen telefoon die voor iedereen met dementie werkt. Wat past, hangt af van de fase en van wat uw ouder al gewend is. Deze gids helpt u kiezen. Wij kijken naar dezelfde zes punten als op [zo vergelijken wij](/zo-vergelijken-wij/): makkelijk te bedienen, goed te horen, veilig, doet wat u nodig hebt, zorgeloos en een eerlijke prijs. Bij dementie tellen makkelijk te bedienen en veilig het zwaarst. De gids is gebaseerd op fabrieksgegevens en op adviezen van de Hulpmiddelenwijzer van Vilans en dementie.nl. Ons testpanel is in opbouw.
+Lukt de eigen smartphone nog? Dan is een nieuw toestel vaak niet de eerste stap. Dementie.nl raadt aan zo min mogelijk nieuwe apparaten te kopen, tenzij ze makkelijker te bedienen zijn.
 
-## Is een aparte dementie telefoon altijd nodig?
+## Waar let u op bij een telefoon voor dementie?
 
-Nee. Dementie.nl geeft tips om een gewone smartphone simpeler te maken. Bij beginnende dementie is dat vaak de beste eerste stap. Uw ouder kent het toestel al, en een nieuwe telefoon leren is juist moeilijk.
+Alle punten staan op [zo vergelijken wij](/zo-vergelijken-wij/). Bij dementie tellen er vier:
 
-De Hulpmiddelenwijzer van Vilans noemt technologie bij dementie "maatwerk". Apps zijn in een vroege fase nog goed te gebruiken, "zeker als u al langere tijd een smartphone of tablet gebruikt".
+- **Hoeveel knoppen zijn er?** Dementie.nl schrijft dat de functie van knoppen onduidelijk kan worden, en adviseert zo min mogelijk knoppen.
+- **Komen onbekende bellers erdoor?** Een verkoper aan de lijn is voor iemand met dementie lastig te herkennen.
+- **Kan er per ongeluk iets veranderen?** Een menu dat op slot zit, blijft morgen hetzelfde als vandaag.
+- **Wat doet de noodknop, en waar is de telefoon?** Vooral als uw vader of moeder nog alleen naar buiten gaat.
 
-Een nieuw toestel wordt pas zinvol als het vertrouwde toestel niet meer lukt. Bijvoorbeeld als uw ouder de groene knop niet meer vindt, per ongeluk apps opent of instellingen verandert.
+Wat er medisch speelt, beschrijven wij niet zelf. De Hulpmiddelenwijzer van Vilans noemt dat iemand bij vergevorderde dementie een stem door de telefoon soms niet meer herkent. Dan helpt ook een eenvoudig toestel niet meer.
 
-## Wat werkt goed bij dementie?
+## Welke telefoon houdt onbekende bellers buiten?
 
-Dit zijn de functies die op papier het verschil maken. Ze komen uit de specificaties van de fabrikanten.
+Dit verschilt sterk tussen de toestellen op deze pagina. Volgens de handleidingen en fabrikanten:
 
-- **Weinig, vaste toetsen.** Een paar snelkeuzetoetsen voor de kinderen of de buurvrouw. Eén druk en de telefoon belt.
-- **Foto's in plaats van nummers.** Uw ouder drukt op de foto van de persoon die hij of zij wil bellen. Een nummer onthouden of een naam lezen is dan niet nodig.
-- **Alleen vertrouwde bellers.** Sommige toestellen laten alleen bekende nummers door. Onbekende verkopers komen dan niet meer binnen.
-- **Instellingen op slot.** Een beveiligd beheerdersmenu voorkomt dat uw ouder per ongeluk iets verandert.
-- **Een oplaadschaal.** Neerzetten is makkelijker dan een kabeltje in een klein gat steken.
+- **Doro Leva X10:** een witte lijst. Staat die aan, dan komen alleen contacten uit het telefoonboek door. Let op: is het telefoonboek leeg, dan komt er niemand door, schrijft Doro.
+- **Senifone S1:** familie blokkeert onbekende nummers op afstand, via de Companion App.
+- **Gigaset E720:** heeft bellerblokkering. Hoe ver die gaat, beschrijft Gigaset op de productpagina niet.
+- **Emporia SIMPLICITY-LTE:** blokkeert alleen losse nummers, maximaal tien. Alle onbekende bellers tegenhouden kan niet.
+- **Alecto CW30:** noemt geen blokkering en heeft geen nummerweergave.
 
-## Wat werkt minder goed?
+## Hoe zet u de instellingen op slot?
 
-- **Een volle smartphone met veel apps.** Meldingen, updates en pop-ups zijn verwarrend.
-- **Menu's met veel stappen.** Elke extra stap is een kans om de weg kwijt te raken.
-- **Een toestel dat steeds verandert.** Updates kunnen knoppen verplaatsen. Een eenvoudige telefoon met een eigen besturingssysteem verandert minder.
-- **Kleine of platte toetsen.** Grote, verhoogde toetsen zijn makkelijker te vinden en te voelen.
+Bij de **Doro Leva X10** zit alles wat familie instelt in een apart beheermenu. Dat opent u door de zijknop zes seconden in te houden. Een pincode noemt de handleiding niet: het slot is die lange druk. Kies daarna een van de drie gebruikersmodi. In de modus Beperkt blijft alleen het basisscherm over, maar de assistentieknop, 112 en de snelkiestoetsen werken altijd.
 
-## Welke telefoon past bij welke fase?
+Bij de **Emporia SIMPLICITY-LTE** zet u een veiligheidsmodus aan. Instellingen wijzigen kan dan alleen nog met de code 0000. Dat houdt een zoekende vinger tegen, geen helper die de code kent.
 
-### Beginnende dementie: de bekende smartphone, of een eenvoudige smartphone
+Bij de **vaste telefoons** is er weinig te verstellen. De Alecto heeft geen scherm en geen menu.
 
-Gebruikt uw vader of moeder al jaren WhatsApp? Maak dan eerst het eigen toestel simpeler. Lukt dat niet, dan is een seniorensmartphone een optie.
+## Doro Leva X10: voor wie een touchscreen niet meer lukt
 
-De [Senifone S1](/senifone-s1/) toont foto's van contacten op het startscherm, en via de Companion App ziet u als kind waar de telefoon is. Die app is volgens Senifone nog in bèta. Het blijft wel een smartphone met een touchscreen, dus later in het proces past hij minder goed.
+<div data-product="doro-leva-x10"></div>
 
-### Middenfase: een mobiele telefoon met vaste toetsen
+De X10 is het enige mobiele toestel in ons overzicht dat Doro zelf noemt voor mensen met dementie. Vier toetsen, A tot en met D, bellen elk één vast contact als uw vader of moeder ze ingedrukt houdt. Alleen gesprekken van die vier contacten neemt hij vanzelf aan, na een tijd die u instelt. Een onbekend nummer gaat dus niet ineens op de luidspreker.
 
-Lukt een touchscreen niet meer, dan past een toestel met een paar grote toetsen. Twee opties uit onze data:
+Gaat uw vader of moeder nog alleen een rondje lopen, dan kan een helper de plek opvragen. Hij stuurt een sms met #GPS# en krijgt een kaartlink terug. Dat werkt alleen als het vooraf is aangezet, en alleen voor helpers. Met de veiligheidstimer vraagt de telefoon na een ingestelde tijd "Bent u veilig?". Wie niets doet, laat het alarm doorgaan.
 
-De [Doro Leva X10](/producten/doro-leva-x10/) is volgens Doro bedoeld voor mensen met geheugenproblemen of dementie. Hij heeft vier snelkeuzetoetsen en u kunt alleen vertrouwde bellers toestaan. Verder: een medicatieherinnering, een veiligheidstimer en een assistentieknop op de achterkant. Die knop stuurt een sms, belt en deelt de GPS-locatie met maximaal vijf contacten. Als helper kunt u de locatie ook zelf opvragen per sms. Instellingen zitten achter een beveiligd beheerdersmenu. De X10 heeft geen camera en een oplaadschaal zit in de doos.
+**Voor wie wel:** wie nog buiten de deur komt en een smartphone niet meer kan volgen. **Voor wie niet:** wie een hoortoestel draagt en de hoogste klasse zoekt; de X10 heeft T3/M3.
 
-De [Emporia SIMPLICITY-LTE](/producten/emporia-simplicity-lte/) is nog kaler. Hij heeft extra grote, verlichte toetsen, drie snelkeuzetoetsen en een noodknop op de achterkant. Een oplaadstation zit erbij. Een beller-filter noemt Emporia niet. Op 4 november 2026 zagen wij hem alleen in de webshop van Emporia, niet bij bol, Belsimpel, Coolblue of MediaMarkt.
+## Alecto CW30: voor wie thuis liever op een gezicht drukt
 
-### Thuis: een fototelefoon op de vaste lijn
+<div data-product="alecto-cw30"></div>
 
-Is uw vader of moeder vooral thuis? Dan is een vaste fototelefoon vaak het rustigst. Hij staat altijd op dezelfde plek en hoeft niet opgeladen te worden.
+Hier is niets dat verspringt: geen scherm, geen menu, geen accu. De telefoon staat altijd op dezelfde plek en de hoorn ligt op de haak. Achter zes toetsen schuift u een foto. Uw vader of moeder belt de buurvrouw door op haar gezicht te drukken.
 
-De [Alecto CW30](/producten/alecto-cw30/) is een snoertelefoon met zes fototoetsen. U plakt een foto van elk vast contact achter een toets. Uw ouder drukt op het gezicht en de telefoon belt. Het gespreksvolume is extra luid en een rood lampje knippert als de telefoon gaat. Hij werkt op een analoge vaste lijn.
+Er is ook een keerzijde. Wie er belt, ziet uw ouder niet, want de CW30 heeft geen nummerweergave. Een filter op onbekende bellers noemt Alecto niet.
 
-Wilt u een draadloze huistelefoon? De [Gigaset E720](/producten/gigaset-e720/) heeft vier snelkiestoetsen, een sprekend toetsenbord en bellerblokkering. Meer toestellen voor thuis vindt u bij [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/).
+**Voor wie wel:** wie vooral thuis is en zelf nog een paar vaste mensen wil bellen. **Voor wie niet:** wie veel ongewenste telefoontjes krijgt; kies dan de Gigaset.
 
-## Hoe stelt u de telefoon in voor uw vader of moeder?
+## Gigaset E720: voor wie thuis draadloos belt en een filter nodig heeft
 
-- **Zet alleen de belangrijkste nummers erin.** Drie of vier contacten is vaak genoeg.
-- **Gebruik duidelijke foto's.** Een gezicht van dichtbij, op een rustige achtergrond.
-- **Kies één vaste plek.** Een oplaadschaal op het nachtkastje of bij de stoel.
-- **Zet het volume hoog.** Hoort uw ouder ook slecht, kijk dan bij [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
-- **Oefen samen.** Een paar keer, op een rustig moment, met dezelfde stappen.
+<div data-product="gigaset-e720"></div>
 
-## Wat als bellen niet meer lukt?
+Komen er vaak verkopers aan de lijn, of loopt uw vader of moeder met de telefoon door het huis? Dan past deze draadloze huistelefoon beter dan de Alecto. Hij heeft bellerblokkering en vier snelkiestoetsen. Het toetsenbord spreekt cijfers hardop uit, en ook het nummer van wie belt.
 
-Op een gegeven moment lukt ook een eenvoudige telefoon niet meer. Dat is geen falen van u of van het toestel. Het hoort bij het verloop van dementie.
+De handset moet terug in de schaal, anders is hij leeg. Bij dementie is dat een echte vraag: lukt dat terugleggen nog elke avond? Zo niet, dan is een snoertelefoon zekerder. Meer vaste toestellen staan op [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/).
 
-De Hulpmiddelenwijzer noemt dan andere hulpmiddelen. Voorbeelden zijn een vereenvoudigde tablet voor beeldbellen, of een computer met één knop. Daarmee start familie zelf het gesprek. Overleg ook met de casemanager dementie of de huisarts over wat bij uw ouder past.
+**Voor wie wel:** wie thuis belt en last heeft van onbekende bellers. **Voor wie niet:** wie de handset vaak ergens laat liggen.
 
-## Hoe kiest u in drie vragen?
+## Senifone S1: voor beginnende dementie, als de smartphone nog lukt
 
-1. **Gebruikt uw ouder nu nog zelf een smartphone?** Maak die eerst eenvoudiger, of kies een [smartphone voor senioren](/beste-smartphone-voor-senioren/).
-2. **Lukt een touchscreen niet meer, maar gaat uw ouder nog de deur uit?** Kies een mobiele telefoon met vaste toetsen, zoals de Doro Leva X10.
-3. **Is uw ouder vooral thuis?** Kies een vaste fototelefoon.
+<div data-product="senifone-s1"></div>
 
-Twijfelt u tussen eenvoudige toestellen? Bekijk de [simpele telefoons voor ouderen](/simpele-telefoon-voor-ouderen/) of het [overzicht van seniorentelefoons](/seniorentelefoons/).
+Appt uw vader of moeder nog, maar raakt hij of zij soms de weg kwijt in de telefoon? Dan kan een smartphone met een vast startscherm een stap terug zijn zonder alles op te geven. Bij dementie zit de waarde vooral in wat de familie op afstand doet. Zij blokkeren onbekende nummers, zetten contacten erbij en zien waar de telefoon is.
+
+Het blijft een touchscreen met meldingen en een Play Store. Dat wordt later in het verloop lastiger. De Companion App is volgens Senifone nog in bèta, en per account koppelt u één toestel.
+
+**Voor wie wel:** wie al jaren een smartphone gebruikt en familie heeft die meekijkt. **Voor wie niet:** wie de groene knop op een scherm nu al niet meer vindt.
+
+## Ook goed, maar niet onze keuze
+
+- **Emporia SIMPLICITY-LTE:** grote verlichte toetsen en een slot op de instellingen, maar geen witte lijst. Op 4 november 2026 zagen we hem alleen bij Emporia zelf.
+- **Fysic FX-9000:** in de stand Direct gesprek belt elke toets hetzelfde ene nummer, volgens de handleiding. Dat kan in een late fase passen, maar dan belt uw vader of moeder ook echt niemand anders.
+
+## Wat konden we niet vinden?
+
+- **Medicatieherinnering op de X10.** Doro noemt die in de inleiding. In de handleiding staat alleen een gewoon alarm met een naam en dagelijkse herhaling.
+- **Wat een geweigerde beller hoort** als de witte lijst van de X10 aan staat: in gesprek, of de voicemail.
+- **Of de lampjes van de Alecto CW30 werken zonder stopcontact.** Volgens de handleiding haalt hij zijn spanning uit de telefoonaansluiting. Of dat ook geldt voor de verlichting, staat er niet.
+
+## Kies zo
+
+- Lukt de eigen smartphone nog? Maak die eerst eenvoudiger. Is een nieuwe nodig, kies de **Senifone S1**.
+- Lukt een touchscreen niet meer, maar gaat uw vader of moeder nog naar buiten? Kies de **Doro Leva X10**, en zet de witte lijst aan.
+- Vooral thuis, en zelf nog bellen? Kies de **Alecto CW30**.
+- Vooral thuis, met veel onbekende bellers? Kies de **Gigaset E720**.
+
+Zoekt u een eenvoudig toestel zonder dementie in het spel? Kijk dan op [simpele telefoon voor ouderen](/simpele-telefoon-voor-ouderen/). Alle soorten naast elkaar staan op [seniorentelefoons](/seniorentelefoons/).
