@@ -1,136 +1,176 @@
 ---
 title: "Seniorentelefoon kiezen: mobiel, smartphone en klapmodel vergeleken"
-seo_title: "Senioren telefoon kiezen (2026): welk type past?"
-description: "Senioren telefoon kiezen? Zo vindt u in drie vragen het juiste type: toetsentelefoon, klapmodel of smartphone met WhatsApp, met keuzes per situatie."
+seo_title: "Senioren telefoon kiezen (2026): 27 toestellen per situatie"
+description: "Senioren telefoon kiezen: 27 toestellen op papier naast elkaar, van toetsentelefoon tot smartphone en huistelefoon. Met een keuze per situatie."
 type: pillar
 hub: telefoons
 hero: "emporia-smart-8"
 order: 1
 primary_kw: "senioren telefoon"
 secondary_kws: ["mobiele telefoon voor senioren", "telefoon voor ouderen", "mobiele telefoon voor ouderen", "seniorentelefoon", "mobiel voor senioren", "mobieltje voor senioren", "gsm voor senioren", "ouderen mobiel telefoon", "beste mobiele telefoon voor senioren", "telefoon voor ouderen mensen", "mobiele senioren telefoon", "mobiele telefoon ouderen", "senioren mobiele telefoon simlock vrij", "ouderen telefoon gsm", "senioren telefoon kopen", "beste telefoon voor ouderen", "beste mobiele telefoon voor ouderen", "beste seniorentelefoon", "seniorentelefoon vergelijken"]
-products: ["doro-aurora-a30", "senifone-s1", "doro-aurora-a20", "emporia-smart-8", "samsung-galaxy-a18", "doro-leva-l30", "emporia-joy-lte", "doro-leva-e10", "doro-leva-x10"]
+products: ["doro-leva-e10", "doro-leva-l30", "emporia-simplicityglam-4g", "doro-leva-x10", "doro-aurora-a30", "senifone-s1", "emporia-smart-8", "samsung-galaxy-a18", "gigaset-e720", "alecto-cw30"]
 picks:
-  - situatie: "Voor wie WhatsApp wil en hulp van familie op afstand"
-    product: "senifone-s1"
-    reden: "Groot scherm van 6,53 inch, een SOS-knop op het startscherm en een gratis app waarmee familie contacten en volume op afstand regelt."
-  - situatie: "Voor wie een klaptelefoon gewend is, maar wel WhatsApp wil"
-    product: "doro-aurora-a20"
-    reden: "Een smartphone in klapvorm met echte toetsen en een touchscreen, en een SOS-knop op de achterkant."
-  - situatie: "Voor wie een hoortoestel draagt en een smartphone wil"
-    product: "emporia-smart-8"
-    reden: "Volgens de handleiding hoortoestelklasse M4/T4, een noodknop op de achterkant en geluid rechtstreeks naar een Bluetooth-hoortoestel."
-  - situatie: "Voor wie alleen wil bellen, met een klapmodel"
+  - situatie: "Voor wie alleen wil bellen"
     product: "doro-leva-l30"
-    reden: "Buitenscherm dat toont wie belt, een assistentieknop die uw locatie meestuurt en een oplaadschaal in de doos."
-  - situatie: "Voor wie een gewone smartphone lang wil gebruiken"
-    product: "samsung-galaxy-a18"
-    reden: "Volgens Samsung beveiligingsupdates tot eind oktober 2032, met een Eenvoudige modus voor grotere letters en iconen."
+    reden: "Klaptelefoon met buitenscherm, klasse T4/M4 en een assistentieknop die een sms met de plek kan sturen. De oplaadschaal zit in de doos."
+  - situatie: "Voor wie WhatsApp wil en een echte SOS-knop"
+    product: "doro-aurora-a30"
+    reden: "Smartphone met een SOS-knop op de achterkant, de hoogste hoortoestelklasse en een scherm van 6,1 inch. WhatsApp zet u er zelf op."
+  - situatie: "Voor wie veel hulp van familie op afstand krijgt"
+    product: "senifone-s1"
+    reden: "De Companion App laat familie de plek zien en contacten en volume regelen. Senifone noemt geen hoortoestelklasse."
+  - situatie: "Voor wie vooral thuis belt"
+    product: "gigaset-e720"
+    reden: "Draadloze huistelefoon met een SOS-toets, een Boost-toets voor harder geluid en Bluetooth naar hoortoestellen."
 faq:
   - q: "Wat is een makkelijke telefoon voor ouderen?"
-    a: "Dat hangt af van wat iemand ermee wil. Wie alleen belt, heeft het makkelijkst met een toetsen- of klaptelefoon met grote toetsen, een noodknop en een oplaadschaal. Wie WhatsApp en foto's wil, heeft een smartphone met een vereenvoudigd startscherm nodig, zoals de Senifone S1, een Doro Aurora of een Emporia SMART."
+    a: "Makkelijk is een telefoon die maar doet wat uw vader of moeder nodig heeft. Voor alleen bellen is dat een toetsen- of klaptelefoon: 12 van de 13 in ons overzicht hebben een noodknop. Voor WhatsApp is het een seniorensmartphone met een vast startscherm. Een gewone smartphone met grote letters blijft vol meldingen."
   - q: "Welke telefoon is geschikt voor ouderen?"
-    a: "Stel drie vragen. Wil uw vader of moeder alleen bellen, of ook WhatsApp? Draagt hij of zij een hoortoestel? En kan familie helpen bij het instellen? Met die antwoorden kiest u het type: toetsentelefoon, klapmodel, seniorensmartphone of een gewone smartphone in eenvoudige stand."
+    a: "Dat hangt af van twee dingen: wil uw vader of moeder appen, en draagt hij of zij een hoortoestel. Alleen bellen en een hoortoestel? Dan is een Doro Leva of Emporia met klasse M4/T4 de veilige keus. Appen en een hoortoestel? Dan blijven er van de elf smartphones twee over met die klasse: de Doro Aurora A30 en de Emporia SMART.8."
   - q: "Welke telefoon is het meest geschikt voor ouderen?"
-    a: "Er is geen toestel dat voor iedereen het beste is. De beste telefoon is de telefoon die iemand echt gebruikt. Daarom geven wij een keuze per situatie, bovenaan deze pagina, in plaats van één winnaar."
+    a: "Eén winnaar is er niet, want een klaptelefoon en een smartphone lossen een ander probleem op. Op papier is de Doro Leva L30 het meest complete toestel voor alleen bellen. Voor WhatsApp is dat de Doro Aurora A30. De keuze per situatie staat bovenaan deze pagina."
   - q: "Is Doro een mobiele telefoon?"
-    a: "Doro is een merk dat mobiele telefoons voor senioren maakt. De Leva-lijn bestaat uit toetsen- en klaptelefoons zonder apps. De Aurora-lijn bestaat uit smartphones met Android, waarop u ook WhatsApp kunt zetten."
+    a: "Ja, Doro maakt mobiele telefoons voor senioren. In ons overzicht staan er elf: acht Leva-toestellen met toetsen en zonder apps, en drie Aurora-smartphones met Android. Op een Aurora werkt WhatsApp, op een Leva niet."
   - q: "Welke Android-telefoons zijn geschikt voor ouderen?"
-    a: "Seniorensmartphones met Android zijn onder meer de Senifone S1, de Doro Aurora A10, A20 en A30, de Emporia SMART.7lite en SMART.8 en de SeniorenTab S616. Een gewone Samsung Galaxy A17 of A18 kan ook, met de Eenvoudige modus aan."
+    a: "Van de elf smartphones in ons overzicht draaien er tien op Android. Zeven daarvan zijn gemaakt voor senioren: de Doro Aurora A10, A20 en A30, de Emporia SMART.7lite en SMART.8, de Senifone S1 en de SeniorenTab S616. De Samsung Galaxy A17 en A18 zijn gewone toestellen met een Eenvoudige modus."
   - q: "Welke smartphone is volgens de Consumentenbond de beste koop?"
-    a: "De Consumentenbond test smartphones en kiest geregeld een Beste Koop. Die uitslag verandert vaak, dus wij nemen hem hier niet over. U vindt de actuele lijst op consumentenbond.nl."
-  - q: "Bestaat er een smartphone met echte toetsen?"
-    a: "Ja. De Doro Aurora A20 is een klapmodel met een touchscreen en een toetsenbord met verlichting. U kunt er WhatsApp op zetten via de Play Store. Het scherm is wel klein voor foto's en videobellen."
-  - q: "Hoe werkt de SOS-knop op een seniorentelefoon?"
-    a: "Eerst stelt u een paar vaste contacten in, bijvoorbeeld de kinderen. Drukt uw vader of moeder op de knop, dan waarschuwt het toestel die contacten. Bij de Doro Aurora en de Emporia SMART.8 zit de knop op de achterkant. Bij de Senifone S1 is het een rode knop op het startscherm."
+    a: "Dat kunnen wij niet zeggen. De Consumentenbond heeft een keuzehulp voor senioren boven op de gewone smartphonetest, maar de uitslag staat achter een betaalmuur. Openbaar noemt de bond geen modellen. Een aparte test van toestellen met toetsen en een noodknop vonden we er niet. Wij vergelijken op papier, ook op noodknop, hoortoestelklasse en hulp op afstand."
 sources:
+  - label: "Doro Leva L30, productpagina Doro"
+    url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l30-e845f699/"
+  - label: "Doro Aurora A30, productpagina Doro"
+    url: "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a30-a4af12c0/"
   - label: "Senifone S1, productpagina Senifone"
     url: "https://senifone.nl/products/senioren-smartphone"
   - label: "Senifone Companion App"
     url: "https://senifone.nl/pages/companion-app"
-  - label: "Doro Aurora A20, productpagina Doro"
-    url: "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a20-659c1e61/"
   - label: "Emporia SMART.8, productpagina Emporia"
     url: "https://www.emporia.eu/nl-nl/products/smart-8"
   - label: "Samsung Galaxy A18, productpagina Samsung"
     url: "https://www.samsung.com/nl/smartphones/galaxy-a/galaxy-a18-light-blue-128gb-sm-a185flbdeub/"
-  - label: "Doro Leva L30, productpagina Doro"
-    url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l30-e845f699/"
-  - label: "Doro Leva X10, productpagina Doro"
-    url: "https://www.doro.com/nl-nl/landing-page/doro-leva-x10/"
-  - label: "Emporia JOY-LTE, productpagina Emporia"
-    url: "https://www.emporia.eu/nl-nl/products/joy-lte"
+  - label: "Gigaset E720, productpagina Gigaset"
+    url: "https://www.gigaset.com/nl_nl/gigaset-e720/"
   - label: "WhatsApp: ondersteunde apparaten"
     url: "https://faq.whatsapp.com/1150261202542208/"
+  - label: "Consumentenbond, keuzehulp mobiele telefoon voor senioren"
+    url: "https://www.consumentenbond.nl/smartphone/keuzehulp-mobiele-telefoon-voor-senioren"
 published: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 panel_tested: false
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
   - datum: 2026-11-04
     wat: "Vragen over een smartphone met toetsen en over de SOS-knop toegevoegd"
+  - datum: 2026-11-11
+    wat: "Omgebouwd tot overzichtspagina: keuze per situatie, telling over alle 27 toestellen, soorten in het kort, beslisboom en wat we niet konden vinden"
+vergeleken_met:
+  - url: "https://id.nl/huis-en-entertainment/mobiel/smartphone-en-tablet/dit-zijn-de-beste-mobiele-telefoons-voor-senioren"
+    gelezen: 2026-11-11
+    heeft: "Zeven toestellen uit 2023 (Fysic F25, Doro 8200, Senifone S1, Galaxy A32, iPhone SE, Pixel 4a, Swissvoice), ingedeeld op prijs. Geen hoortoestelklasse, geen tabel, geen advies per situatie, geen FAQ."
+  - url: "https://www.mobiel.nl/nieuws/slim-kiezen-seniorensmartphone"
+    gelezen: 2026-11-11
+    heeft: "Vijf gewone smartphones (Galaxy A16, A17, twee iPhone Pro Max, Pixel 9a), geen seniorentoestellen, geen noodknop, geen hoortoestelklasse, geen keuze per situatie."
+  - url: "https://slimster.nl/mobiele-telefoons/beste-smartphone-voor-ouderen/"
+    gelezen: 2026-11-11
+    heeft: "Top 5 (Senifone S1, Doro 8100, Doro 8200, Swissvoice, Beafon), oppervlakkig onderscheid bellen of chatten. Geen hoortoestelklasse, geen telling, geen beslisboom, geen FAQ."
+informatiewinst:
+  - wat: "Telling over alle 24 mobiele toestellen in products.json per soort: WhatsApp, echte noodknop, klasse M4/T4, oplaadschaal in de doos, hulp op afstand. Plus: alleen de Emporia SMART.7lite heeft WhatsApp en een schaal in de doos. Geen van de drie telt iets."
+    soort: vergelijkingsdata
+    sectie: "Wat hebben de 24 mobiele toestellen wel en niet?"
+    bron: "products.json"
+  - wat: "Wat de fabrikanten niet opgeven: gespreksvolume bij smartphones, valdetectie, garantie bij HMD en SeniorenTab, en of de SOS van de SeniorenTab een knop is. Bij 9 van de 24 geen M- of T-cijfer."
+    soort: onbekend-benoemd
+    sectie: "Wat konden we niet vinden?"
+    bron: "products.json"
+  - wat: "Beslisboom in vijf regels van situatie naar toestel; de drie concurrenten geven alleen een lijst."
+    soort: beslisboom
+    sectie: "Kies zo"
+    bron: "products.json"
+  - wat: "Zeven situaties die elk naar een eigen koopadvies leiden, met per situatie het kenmerk dat beslist."
+    soort: situatie-oordeel
+    sectie: "Welke situatie past bij uw vader of moeder?"
+    bron: "products.json"
 ---
 
-Een goede senioren telefoon is een telefoon die uw vader of moeder ook echt gebruikt. Dat is voor de een een klaptelefoon met grote toetsen. Voor de ander is het een smartphone met WhatsApp en foto's van de kleinkinderen. Het korte antwoord: wil uw vader of moeder alleen bellen, kies dan een klaptelefoon zoals de Doro Leva L30. Wil hij of zij ook WhatsApp, kies dan een seniorensmartphone zoals de Doro Aurora A30 of de Senifone S1. Hieronder leest u welk type bij wie past, en waar u op let.
+Een senioren telefoon kiest u op wat uw vader of moeder ermee wil doen. De grootte van de knoppen komt daarna. Wie alleen belt, heeft genoeg aan toetsen; wie met de familie wil appen, heeft een smartphone nodig.
+
+Het korte antwoord: voor alleen bellen past de Doro Leva L30, een klaptelefoon waarvan de noodknop de plek kan doorsturen. Voor WhatsApp past de Doro Aurora A30, met een echte SOS-knop en de hoogste hoortoestelklasse. Regelt de familie graag veel op afstand, dan heeft de Senifone S1 de uitgebreidste app.
+
+## Welke situatie past bij uw vader of moeder?
+
+Voor elke situatie hebben we een apart koopadvies. Daar staan de toestellen in volgorde, met per toestel waarom het wel of niet past.
+
+- **Alleen bellen, met een recht toestel.** Toetsen, geen apps, een schaal om op te laden. Lees [simpele telefoon voor ouderen](/simpele-telefoon-voor-ouderen/).
+- **Alleen bellen, met een klapmodel.** Dicht in de tas, dus geen toetsen die vanzelf iets doen. Lees [klaptelefoon voor senioren](/klaptelefoon-voor-senioren/).
+- **Appen, foto's en videobellen.** Daarvoor is een smartphone nodig. Lees [seniorentelefoon met WhatsApp](/seniorentelefoon-met-whatsapp/) of [beste smartphone voor senioren](/beste-smartphone-voor-senioren/).
+- **Een hoortoestel.** Kijk naar de M- en T-klasse en naar Bluetooth. Lees [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
+- **Vergeetachtig of dementie.** Weinig knoppen, vaste nummers, geen onbekende bellers. Lees [telefoon voor dementie](/telefoon-voor-dementie/).
+- **Vooral thuis.** Een vast toestel dat altijd op dezelfde plek staat. Lees [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/).
+- **Er ligt al een Samsung.** Met de Eenvoudige modus wordt het scherm rustiger. Lees [Samsung telefoon voor ouderen](/samsung-telefoon-voor-ouderen/).
+
+## Wat hebben de 24 mobiele toestellen wel en niet?
+
+In onze gegevens staan 27 toestellen, waarvan 24 mobiel. Die 24 hebben we op papier geteld, per soort. Bron is meestal de fabrikant of de handleiding, soms de winkel, opgehaald op 4 november 2026.
+
+- **Toetsentelefoons (5):** geen WhatsApp. Vier met een echte noodknop, drie met klasse M4/T4, vier met een schaal in de doos.
+- **Klaptelefoons (8):** geen WhatsApp. Alle acht met een noodknop, zeven met M4/T4, vijf met een schaal in de doos.
+- **Seniorensmartphones (7):** allemaal WhatsApp. Vijf met een echte noodknop, twee met M4/T4, één met een schaal in de doos. Bij vijf past familie instellingen aan op afstand.
+- **Gewone smartphones (4):** allemaal WhatsApp, geen aparte noodknop, geen M- of T-cijfer. Een schaal en hulp op afstand noemen de fabrikanten niet.
+
+Drie dingen vallen op. WhatsApp en een oplaadschaal in de doos gaan bijna nooit samen: alleen de Emporia SMART.7lite heeft allebei. De hoogste hoortoestelklasse zit vooral op toestellen met toetsen, 10 van de 13. Van de 11 smartphones hebben alleen de Doro Aurora A30 en de Emporia SMART.8 hem.
+
+En andersom: instellingen op afstand aanpassen kan volgens de fabrikanten op geen enkel toestel met toetsen. Bij de Doro Leva X10 kan een helper wel per sms de plek opvragen.
 
 ## Welke soorten seniorentelefoons zijn er?
 
-Er zijn vier soorten. Ze verschillen vooral in wat u ermee kunt, niet in hoe groot de knoppen zijn.
+### Toetsentelefoon
 
-1. **Toetsentelefoon.** Een recht model met grote toetsen, zoals de [Doro Leva E10](/producten/doro-leva-e10/). Bellen en sms'en, verder weinig.
-2. **Klaptelefoon.** Hetzelfde idee, maar u klapt hem open om op te nemen. Veel modellen hebben een buitenscherm dat laat zien wie er belt.
-3. **Seniorensmartphone.** Een smartphone met een vereenvoudigd startscherm en vaak een SOS-knop. Hierop werken WhatsApp, videobellen en foto's.
-4. **Gewone smartphone in eenvoudige stand.** Bijvoorbeeld een Samsung Galaxy met de Eenvoudige modus aan. Grotere letters, maar verder een gewone telefoon.
+Een recht toestel met grote toetsen en een klein scherm, zoals de [Doro Leva E10](/producten/doro-leva-e10/). Er draait een eigen systeem op, zonder appwinkel. Bellen en sms'en lukt, WhatsApp niet. Vier van de vijf in ons overzicht hebben een noodknop en een schaal in de doos. De vijfde, de HMD 3210 4G, is een gewone eenvoudige telefoon: HMD noemt geen noodknop. Past bij wie de telefoon vooral in de jaszak meeneemt en een klapmechaniek onhandig vindt.
 
-De eerste twee soorten noemen mensen vaak een gsm voor senioren of een mobieltje voor senioren. Ze hebben geen apps. WhatsApp werkt volgens WhatsApp zelf alleen op Android en iPhone, dus op deze toestellen niet.
+### Klaptelefoon
 
-## Welke drie vragen helpen u kiezen?
+Hetzelfde soort systeem, maar het toestel klapt dicht. Openklappen is opnemen, als die instelling aan staat. Vier van de acht hebben een buitenscherm, zodat u ziet wie er belt terwijl hij dicht op tafel ligt. Alle acht hebben een noodknop. Dit is het type met de meeste keuze voor wie een hoortoestel draagt: zeven hebben klasse M4/T4.
 
-**Wil uw vader of moeder alleen bellen, of ook WhatsApp?** Dit is de belangrijkste vraag. Wie alleen belt, is vaak blij met een simpel toestel dat dagen meegaat. Lees daarover meer bij [simpele telefoon voor ouderen](/simpele-telefoon-voor-ouderen/). Wie met de familie-app wil meedoen, heeft een smartphone nodig. Zie [seniorentelefoon met WhatsApp](/seniorentelefoon-met-whatsapp/).
+### Seniorensmartphone
 
-**Hoe gaat het met horen en zien?** Draagt iemand een hoortoestel, kijk dan naar de HAC-klasse die de fabrikant opgeeft, zoals M4/T4. Dat getal geeft aan hoe goed een telefoon samenwerkt met een hoortoestel. Veel Doro- en Emporia-toestellen noemen die klasse. Bij de Senifone S1 en de Samsung Galaxy A-modellen staat geen klasse vermeld. Meer hierover leest u bij [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
+Een Android-toestel met een eigen, rustig startscherm. Zeven staan er in ons overzicht, van Doro, Emporia, Senifone en SeniorenTab. Op alle zeven werkt WhatsApp. Vijf hebben een programma waarmee familie op afstand meekijkt of instellingen aanpast. Bij Doro en Emporia zit de noodknop op de achterkant; bij de Senifone S1 staat hij op het scherm. Past bij wie wil appen, maar van een gewone smartphone in de war raakt.
 
-**Wie helpt bij het instellen?** Een smartphone vraagt in het begin hulp. Kan een zoon, dochter of buur af en toe meekijken, dan is een smartphone goed te doen. Sommige toestellen laten familie ook op afstand helpen. Bij de Senifone S1 gaat dat met de Companion App, bij de Doro Aurora met de app Response by Doro.
+### Gewone smartphone in eenvoudige stand
 
-## Waar let u op bij een mobiele telefoon voor senioren?
+Een Samsung Galaxy A17 of A18, of een iPhone 17e, met grotere letters en een eenvoudiger scherm. Een aparte noodknop is er niet. Bij Samsung gaat een SOS-bericht door drie keer op de zijknop te drukken. Past bij wie al een smartphone heeft gehad, of bij een gezin waar iedereen hetzelfde merk gebruikt. De [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) krijgt volgens Samsung beveiligingsupdates tot eind oktober 2032.
 
-Wij vergelijken op dezelfde punten als op onze pagina [zo vergelijken wij](/zo-vergelijken-wij/). In gewone taal:
+### Huistelefoon
 
-- **Makkelijk te bedienen.** Grote toetsen of een rustig startscherm met grote foto's van contacten.
-- **Goed te horen.** Een luide beltoon en een toestel dat werkt met een hoortoestel.
-- **Veilig.** Een SOS-knop die een paar vaste contacten waarschuwt, liefst met locatie.
-- **Doet wat u nodig hebt.** Alleen bellen, of ook WhatsApp, foto's en videobellen.
-- **Zorgeloos.** Een batterij die lang meegaat, makkelijk opladen, bijvoorbeeld in een oplaadschaal, en hulp in het Nederlands.
-- **Eerlijke prijs.** Wat u krijgt voor uw geld, ook vergeleken met een gewone smartphone in eenvoudige stand.
+Een vast toestel voor thuis, met snoer of draadloos. In ons overzicht staan er drie: de Alecto CW30, de Fysic FX-9000 en de [Gigaset E720](/producten/gigaset-e720/). De Alecto heeft zes toetsen waar u een foto achter zet. Een huistelefoon raakt niet zoek in een jaszak, maar werkt alleen binnen. Daarom past hij vaak naast een eenvoudige mobiel, niet in plaats ervan.
 
-Een oplaadschaal is een standaard waar u de telefoon in zet. Dat is makkelijker dan een klein stekkertje. De Doro Leva L30, E22 en E10 hebben er een in de doos, net als de Emporia SIMPLICITYglam.4G. Bij de smartphones is dat zelden zo.
+## Waar let u op, welk type het ook wordt?
 
-## Welke seniorensmartphones zijn er?
+Op [zo vergelijken wij](/zo-vergelijken-wij/) staan al onze punten. Bij de eerste keuze tellen er vier.
 
-De [Senifone S1](/senifone-s1/) heeft foto's van contacten op het startscherm, en familie helpt op afstand met de Companion App. Er is geen hoortoestelklasse bekend.
+- **Wat doet de noodknop?** Een knop op de achterkant vindt u op de tast. Een knop op het scherm vraagt dat het scherm aan staat. Elke noodknop doet pas iets als er vaste contacten in staan. Dat regelt de familie op de eerste dag.
+- **Welke hoortoestelklasse geeft de fabrikant op?** Bij 9 van de 24 mobiele toestellen staat er geen M- of T-cijfer. Dat geldt voor de Senifone S1, de SeniorenTab S616, de Emporia SMART.7lite, de iPhone 17e, alle drie de Samsungs en beide HMD-toestellen. Draagt uw vader of moeder een hoortoestel, kies dan een toestel met een cijfer.
+- **Hoe laadt hij op?** Een schaal is neerzetten. Een stekkertje vraagt goede ogen en vaste vingers. Bij de Doro Aurora's en de SeniorenTab zit geen lader in de doos, bij de Emporia-toestellen geen stekker voor het stopcontact.
+- **Wie helpt er?** Een smartphone vraagt in het begin instellen. Woont de familie ver weg, kies dan een toestel waarop zij op afstand kunnen meekijken.
 
-De Doro Aurora-lijn heeft een SOS-knop op de achterkant. De [Doro Aurora A20](/producten/doro-aurora-a20/) is een klapmodel met toetsen en een touchscreen. De A30 heeft een groter scherm van 6,1 inch. WhatsApp zet u er zelf op via de Play Store. Wilt u Senifone en Doro naast elkaar zien, lees dan [Senifone of Doro](/senifone-vs-doro/).
+## Wat konden we niet vinden?
 
-De [Emporia SMART.8](/producten/emporia-smart-8/) is een seniorensmartphone met 5G, het snelste mobiele netwerk. Hij heeft een noodknop op de achterkant en volgens de handleiding klasse M4/T4. Het geluid gaat ook rechtstreeks naar een Bluetooth-hoortoestel. Het nadeel: de grote winkelketens verkochten hem begin november 2026 niet.
+Niet alles staat bij de fabrikant. Dit missen we, en dat zeggen we liever hier dan dat we het invullen.
 
-Een overzicht van alle smartphones vindt u op [beste smartphone voor senioren](/beste-smartphone-voor-senioren/).
+- **Hoe hard het gesprek klinkt.** Doro noemt een gespreksvolume voor de Leva's, Apple een versterking voor de iPhone. Bij de andere mobiele toestellen staat alleen de beltoon of de luidspreker erbij, of niets.
+- **Valdetectie.** Geen fabrikant van de 24 mobiele toestellen noemt een functie die een val vanzelf meldt.
+- **Garantie.** HMD en SeniorenTab noemen geen termijn op hun site.
+- **De hoortoestelklasse van de Doro Leva E10 en L10.** De productpagina noemt T4/M4, de handleiding M3/T3. In de telling hierboven volgen we de productpagina.
+- **Of de SOS-functie van de SeniorenTab S616 een echte knop is.** Dat staat niet in de specificaties die we konden openen.
 
-## Is een gewone smartphone ook goed?
+## Kies zo
 
-Ja, voor wie al wat gewend is. Een [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) heeft een scherm van 6,7 inch en een Eenvoudige modus met grotere letters. Samsung belooft beveiligingsupdates tot eind oktober 2032. Er is geen aparte SOS-knop. Wel kunt u SOS-berichten sturen door drie keer op de zijknop te drukken. Lees meer op [Samsung telefoon voor ouderen](/samsung-telefoon-voor-ouderen/).
+- Wil uw vader of moeder alleen bellen en gaat hij of zij vaak alleen op pad? Kies een **Doro Leva L30**.
+- Alleen bellen, liever een recht toestel? Kies een **Doro Leva E10**.
+- Appen en een hoortoestel? Kies een **Doro Aurora A30** of een **Emporia SMART.8**.
+- Appen, en de familie wil veel op afstand regelen? Kies een **Senifone S1**.
+- Vooral thuis? Kies een **Gigaset E720**, en houd een eenvoudige mobiel als reserve.
 
-Een iPhone kan ook. De iPhone 17e heeft de modus Assistive Access met een vereenvoudigd scherm. Een helper moet die modus wel instellen.
+## Waar vindt u de losse toestellen en vergelijkingen?
 
-## Welke telefoon past bij alleen bellen?
-
-Kies dan een toetsentelefoon of klaptelefoon. De [Doro Leva L30](/producten/doro-leva-l30/) is een klapmodel met een buitenscherm en een assistentieknop die een hulpbericht met GPS-locatie stuurt. De [Emporia JOY-LTE](/producten/emporia-joy-lte/) heeft drie snelkeuzetoetsen en neemt op zodra u hem openklapt. Wie liever een recht model heeft, kijkt naar de Doro Leva E10 met een breed scherm van 2,4 inch.
-
-Heeft uw vader of moeder geheugenproblemen? De [Doro Leva X10](/producten/doro-leva-x10/) is daarvoor bedoeld, volgens Doro. Hij heeft vier snelkeuzetoetsen en laat alleen vertrouwde bellers door. Kijk ook op [telefoon voor dementie](/telefoon-voor-dementie/).
-
-Belt iemand vooral thuis? Dan kan een vaste telefoon handiger zijn. Zie [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/).
-
-## Waar let u op bij het kopen?
-
-Koopt u een los toestel, kijk dan of het simlockvrij is. Bij de Senifone S1 staat dat erbij, en hij heeft plek voor twee simkaarten. Kijk ook of er een lader in de doos zit. Bij de Doro Aurora-toestellen zit geen lader. Bij de Emporia-toestellen zit geen netadapter, de stekker voor in het stopcontact. De SIMPLICITYglam.4G en SIMPLICITY-LTE hebben wel een oplaadstation in de doos. Bij de Senifone S1 zitten adapter en kabel erbij.
-
-Vergelijk de toestellen gerust in de tabel bovenaan. De prijzen daarin controleren wij elke maand.
+Elk toestel uit de tabel heeft een eigen pagina met alle gegevens, bijvoorbeeld de [Doro Leva L30](/producten/doro-leva-l30/) of de [Doro Aurora A30](/producten/doro-aurora-a30/). Over de [Senifone S1](/senifone-s1/) schreven we een aparte beoordeling op papier. Twijfelt u tussen twee merken, lees dan [Senifone of Doro](/senifone-vs-doro/).

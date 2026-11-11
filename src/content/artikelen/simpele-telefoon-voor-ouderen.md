@@ -1,127 +1,206 @@
 ---
-title: "Simpele telefoon voor ouderen: alleen bellen, of ook WhatsApp?"
+title: "Simpele telefoon voor ouderen: welke past bij alleen bellen?"
 seo_title: "Simpele telefoon voor ouderen (2026): 10 toestellen"
-description: "Een simpele mobiele telefoon voor ouderen: toetsen- en klaptelefoons voor alleen bellen, en wat u kiest als er toch WhatsApp op moet. Met keuze per situatie."
+description: "Simpele mobiele telefoon voor ouderen kiezen: tien toestellen voor alleen bellen, wat ze aan internet doen en of de oude telefoon na 2027 nog werkt."
 type: vergelijking
 hub: telefoons
 order: 20
 primary_kw: "simpele mobiele telefoon voor ouderen"
 secondary_kws: ["ouderwetse telefoon", "simpele telefoon", "telefoon zonder internet", "simpele mobiele telefoon", "telefoon alleen bellen", "eenvoudige mobiele telefoon", "mobiele telefoon zonder internet", "eenvoudige telefoon", "simpele telefoon voor ouderen", "makkelijke telefoon voor ouderen", "eenvoudige telefoon voor ouderen", "eenvoudige mobiele telefoon voor ouderen", "makkelijke mobiele telefoon voor ouderen"]
-products: ["doro-leva-e10", "doro-leva-l30", "doro-leva-e22", "emporia-simplicityglam-4g", "emporia-joy-lte", "emporia-simplicity-lte", "hmd-2660-flip-4g", "hmd-3210-4g", "doro-aurora-a20", "senifone-s1"]
+products: ["doro-leva-e10", "doro-leva-l10", "emporia-simplicity-lte", "doro-leva-x10", "doro-leva-l30", "emporia-simplicityglam-4g", "hmd-3210-4g", "doro-leva-e22", "hmd-2660-flip-4g", "emporia-joy-lte"]
 picks:
-  - situatie: "Voor wie alleen wil bellen, met een recht model"
+  - situatie: "Voor wie alleen wil bellen, met een recht toestel"
     product: "doro-leva-e10"
-    reden: "Ver uit elkaar geplaatste toetsen, een breed scherm, een assistentieknop en een oplaadschaal in de doos."
-  - situatie: "Voor wie een klaptelefoon wil die toont wie er belt"
+    reden: "Toetsen ver uit elkaar, een noodknop op de achterkant en een laadhouder in de doos. Geen browser en geen apps."
+  - situatie: "Voor wie de toetsen goed moet kunnen zien"
+    product: "emporia-simplicity-lte"
+    reden: "Grote verlichte toetsen, klasse M4/T4 volgens de handleiding en een tafellader in de doos. Op 4 november 2026 alleen bij Emporia te koop."
+  - situatie: "Voor wie een klapmodel wil en vaak alleen op pad gaat"
     product: "doro-leva-l30"
-    reden: "Buitenscherm met nummerweergave, een assistentieknop die de GPS-locatie meestuurt en een oplaadschaal."
-  - situatie: "Voor wie slecht hoort en grote verlichte toetsen wil"
-    product: "emporia-simplicityglam-4g"
-    reden: "Volgens de handleiding klasse M4/T4, extra grote verlichte toetsen en een oplaadstation in de doos."
-  - situatie: "Voor wie het simpel wil houden, maar toch WhatsApp wil"
-    product: "doro-aurora-a20"
-    reden: "Een smartphone in klapvorm met echte toetsen en een SOS-knop op de achterkant."
+    reden: "Dichtgeklapt drukt niemand per ongeluk iets in, en de noodknop kan de plek meesturen. Daarvoor is wel mobiele data nodig."
+  - situatie: "Voor wie een gewone telefoon wil, zonder seniorenlook"
+    product: "hmd-3210-4g"
+    reden: "Opvolger van de bekende Nokia, zonder apps. HMD noemt geen noodknop en geen hoortoestelklasse."
 faq:
   - q: "Wat is een makkelijke telefoon voor ouderen?"
-    a: "Voor wie alleen belt, is een toetsen- of klaptelefoon met grote toetsen het makkelijkst. Let op een noodknop, een luide beltoon en een oplaadschaal. Voorbeelden zijn de Doro Leva E10, de Doro Leva L30 en de Emporia SIMPLICITYglam.4G."
+    a: "Voor wie alleen belt: een toestel dat niet meer kan dan bellen en sms'en, met een noodknop en een houder om op te laden. De Doro Leva E10 en de Emporia SIMPLICITY-LTE zijn zulke rechte toestellen. Liever dichtklappen? Dan past de Doro Leva L30."
   - q: "Welke simpele telefoon kan ik alleen WhatsApp gebruiken?"
-    a: "In ons overzicht staat geen toetsen- of klaptelefoon met WhatsApp. WhatsApp werkt volgens WhatsApp zelf op Android en iPhone. Wie het simpel wil houden, kiest een seniorensmartphone met een eenvoudig startscherm, zoals de Senifone S1, of de Doro Aurora A20 in klapvorm."
+    a: "Geen van de toestellen op deze pagina kan WhatsApp; ze hebben geen browser en geen appwinkel. Moet WhatsApp erop, dan wordt het een smartphone. Die richt u zo in dat alleen bellen en WhatsApp op het startscherm staan."
   - q: "Wat is de beste simpele smartphone?"
-    a: "Dat hangt af van de hulp die er is. De Senifone S1 heeft een eenvoudig startscherm en een app waarmee familie op afstand helpt. De Doro Aurora A20 is een klapmodel met echte toetsen. Alle smartphones vergelijken wij op de pagina over de beste smartphone voor senioren."
+    a: "Een smartphone is nooit zo simpel als de toestellen hier, want er komen meldingen en updates binnen. Wie alleen een beetje wil appen, kan een smartphone in klapvorm nemen, zoals de Doro Aurora A20. Die voelt het meest als een gewone simpele telefoon."
+  - q: "Heeft een simpele telefoon internet nodig?"
+    a: "Om te bellen niet. Toch gebruiken ze allemaal mobiele data, volgens de handleidingen voor updates en mms. Bij de Doro Leva L10 en X10 ook voor de locatie-sms van de noodknop. Emporia zet op de handleiding van de SIMPLICITY-LTE dat een abonnement met data nodig is."
+  - q: "Werkt een oude Nokia of Doro nog?"
+    a: "Dat hangt af van het netwerk. Odido zette 2G in juni 2023 uit, KPN stopt er op 1 december 2027 mee. Een toestel dat alleen 2G kan, werkt dan niet meer, ook niet voor 112. Alle toestellen op deze pagina werken op 4G."
 sources:
+  - label: "Doro Leva E10, handleiding (data, Secure-knop, HAC)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e10_nl_v30_r23786_ua.pdf"
   - label: "Doro Leva E10, productpagina Doro"
     url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e10/"
+  - label: "Doro Leva L10, handleiding (Positie SMS, data)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_l10_nl_v40_r23786_ua.pdf"
+  - label: "Doro Leva X10, handleiding (Positie SMS, positie opvragen)"
+    url: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_x10_nl_v12_r23986_ua.pdf"
+  - label: "Emporia SIMPLICITY-LTE, handleiding (data, noodknop, inhoud doos, HAC)"
+    url: "https://reseller.emporia.at/Products/MOBILES/V27.LTE.v3%20emporiaSIMPLICITY-LTE/DOC/MANUAL/BDA-V7%20WEB/V27.LTE.v3_BDA-V7_55816-NED.pdf"
   - label: "Doro Leva L30, productpagina Doro"
     url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-l30-e845f699/"
-  - label: "Doro Leva E22, productpagina Doro"
-    url: "https://www.doro.com/nl-nl/shop/mobile-devices/easy-phones/doro-leva-e22-0b338e63/"
   - label: "Emporia SIMPLICITYglam.4G, productpagina Emporia"
     url: "https://www.emporia.eu/nl-nl/products/simplicityglam-4g"
-  - label: "Emporia SIMPLICITYglam.4G, handleiding (HAC, oplaadstation)"
-    url: "https://reseller.emporia.at/Products/MOBILES/V227-4G%20emporiaSiMPLiCiTYglam4G/DOC/MANUAL/V227.LTE.v3_BDA-V7_55916/V227.LTE.v3_BDA-V7_55916-NED_WEB.pdf"
-  - label: "Emporia JOY-LTE, productpagina Emporia"
-    url: "https://www.emporia.eu/nl-nl/products/joy-lte"
-  - label: "Emporia SIMPLICITY-LTE, productpagina Emporia"
-    url: "https://www.emporia.eu/nl-nl/products/simplicity-lte"
-  - label: "HMD 2660 Flip, productpagina HMD"
-    url: "https://www.hmd.com/nl_nl/hmd-2660-flip"
   - label: "HMD 3210 4G, productpagina HMD"
     url: "https://www.hmd.com/nl_nl/hmd-3210-4g"
-  - label: "Doro Aurora A20, productpagina Doro"
-    url: "https://www.doro.com/nl-nl/shop/mobile-devices/smart-phones/doro-aurora-a20-659c1e61/"
+  - label: "Nokia 3210, gebruikershandleiding HMD"
+    url: "https://www.hmd.com/nl_nl/support/api/pdf/icon-user-guide?locale=nl-NL"
+  - label: "HMD: Nokia 3210, Cloud Apps niet in Europa"
+    url: "https://hmd.com/en_int/nokia-3210"
+  - label: "KPN: stoppen met 2G"
+    url: "https://www.kpn.com/2g"
+  - label: "Odido: kan ik het 2G-netwerk nog gebruiken?"
+    url: "https://www.odido.nl/service/veelgestelde-vragen/kan-ik-het-2g-netwerk-nog-gebruiken/000454055"
+  - label: "ACM: gevolgen van de afschakeling van 2G en 3G"
+    url: "https://www.acm.nl/nl/publicaties/gevolgen-van-de-afschakeling-van-2g-en-3g"
   - label: "WhatsApp: ondersteunde apparaten"
     url: "https://faq.whatsapp.com/1150261202542208/"
 published: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 panel_tested: false
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-11
+    wat: "Omgebouwd tot koopadvies: oordeel per toestel voor alleen bellen, uit de handleidingen wat deze toestellen aan internet doen, het stoppen van 2G, en een tegenstrijdige hoortoestelklasse bij Doro"
+vergeleken_met:
+  - url: "https://langerthuisinhuis.nl/senioren-smartphone/"
+    gelezen: 2026-11-11
+    heeft: "Vijf smartphones (Doro Aurora A30, Senifone S1, SimPhone, Galaxy A17 5G, iPhone 17e), noodknop per toestel, FAQ van tien vragen. Geen toestellen met toetsen, niets over 2G of 3G."
+  - url: "https://tech-meester.net/beste-smartphone-ouderen/"
+    gelezen: 2026-11-11
+    heeft: "Vijf deels verouderde toestellen (SwissVoice G50 Plus, Amplicomms M50, Galaxy A52s, Emporia Smart 5, Doro 8080). 'Internet hoeft niet', maar geen uitleg wat een toestel aan data doet. Geen FAQ, niets over 2G."
+informatiewinst:
+  - wat: "Uit de handleidingen: geen van de vijf rechte toestellen heeft een browser, maar alle gebruiken mobiele data voor updates en mms; bij de L10 en X10 ook de locatie-sms. Emporia zet 'abonnement met datagebruik nodig' op de handleiding."
+    soort: handleiding
+    sectie: "Heeft een simpele telefoon internet?"
+    bron: "https://reseller.emporia.at/Products/MOBILES/V27.LTE.v3%20emporiaSIMPLICITY-LTE/DOC/MANUAL/BDA-V7%20WEB/V27.LTE.v3_BDA-V7_55816-NED.pdf"
+  - wat: "Wanneer een oude telefoon stopt: Odido zette 2G uit in juni 2023, KPN stopt op 1 december 2027. Plus de Doro-instelling 'Alleen 2G' waarmee ook 112 wegvalt."
+    soort: vergelijkingsdata
+    sectie: "Werkt de oude telefoon van uw vader of moeder nog?"
+    bron: "https://www.kpn.com/2g"
+  - wat: "Wat elkaar tegenspreekt of ontbreekt: Doro noemt voor de Leva E10 en L10 op de productpagina T4/M4, in de handleiding M3/T3. HMD noemt voor de 3210 geen noodknop en geen hoortoestelklasse."
+    soort: onbekend-benoemd
+    sectie: "Wat konden we niet vinden?"
+    bron: "https://www.doro.com/globalassets/inriver/resources/manual_doro_leva_e10_nl_v30_r23786_ua.pdf"
+  - wat: "Beslisboom voor alleen bellen: recht of klap, zien, op pad, geen seniorenlook."
+    soort: beslisboom
+    sectie: "Kies zo"
+    bron: "products.json"
 ---
 
-Een simpele mobiele telefoon voor ouderen doet weinig, en dat is precies de bedoeling. Grote toetsen, een luide beltoon en een noodknop. Geen apps en geen meldingen. Het korte antwoord: wil uw vader of moeder alleen bellen, kies dan een Doro Leva E10 of de klaptelefoon Doro Leva L30. Bij allebei zit een oplaadschaal in de doos. Moet er WhatsApp op, kijk dan naar de Doro Aurora A20: een smartphone in klapvorm.
+Een simpele mobiele telefoon voor ouderen kan bellen, sms'en en hulp halen. Verder niets, en daar gaat het om. Het korte antwoord: kies voor een recht toestel de Doro Leva E10, en bij slechte ogen de Emporia SIMPLICITY-LTE met verlichte toetsen. Liever dichtklappen? Dan de Doro Leva L30.
 
-## Alleen bellen, of ook WhatsApp?
+Moet er WhatsApp op, dan is geen van deze toestellen geschikt. Kijk dan op [seniorentelefoon met WhatsApp](/seniorentelefoon-met-whatsapp/).
 
-Dat is de eerste keuze, want het bepaalt het type toestel.
+## Waar let u op bij een simpele telefoon?
 
-**Alleen bellen en sms'en.** Dan past een toetsentelefoon of klaptelefoon. Die hebben geen apps en geen internet zoals een smartphone. Er kan dus ook weinig misgaan. Volgens HMD gaat de batterij van de HMD 3210 dagen mee.
+Alle punten staan op [zo vergelijken wij](/zo-vergelijken-wij/). Voor alleen bellen tellen er vier:
 
-**Ook WhatsApp.** Dan heeft uw vader of moeder een smartphone nodig. WhatsApp werkt volgens WhatsApp zelf alleen op Android en iPhone. Een toetsentelefoon met WhatsApp staat niet in ons overzicht. Wel zijn er smartphones die heel eenvoudig zijn gemaakt. Daarover leest u meer onderaan, en op [seniorentelefoon met WhatsApp](/seniorentelefoon-met-whatsapp/).
+- **Zijn de toetsen te zien en te voelen?** Verlicht, verhoogd, ver uit elkaar.
+- **Wat doet de noodknop?** Belt hij een rijtje mensen, stuurt hij de plek mee, en wat gebeurt er als niemand opneemt?
+- **Hoe laadt hij op?** Een houder in de doos scheelt elke avond priegelen met een kabeltje.
+- **Werkt hij op 4G?** Oude toestellen op 2G houden ermee op, zie hieronder.
 
-Twijfelt u nog tussen de soorten? Op onze [gids over seniorentelefoons](/seniorentelefoons/) staan ze naast elkaar.
+## Heeft een simpele telefoon internet?
 
-## Waar let u op bij een eenvoudige telefoon?
+Een browser heeft geen van de vijf rechte toestellen op deze pagina. Toch zijn ze niet helemaal offline. Volgens de handleidingen gebruiken ze mobiele data voor software-updates en voor mms, berichten met een foto.
 
-Wij vergelijken op dezelfde zes punten als op onze pagina [zo vergelijken wij](/zo-vergelijken-wij/). Voor een simpele telefoon betekent dat:
+Bij de Doro Leva L10 en X10 heeft ook de noodknop data nodig. Die stuurt de plek mee in een sms, en dat gaat via data. Emporia zet op de voorkant van de handleiding van de SIMPLICITY-LTE: "Mobiel abonnement met datagebruik nodig."
 
-- **Makkelijk te bedienen.** Grote toetsen die ver uit elkaar staan, en snelkeuzetoetsen: één knop voor de dochter, één voor de buurvrouw.
-- **Goed te horen.** Een luide beltoon en een toestel dat werkt met een hoortoestel. Doro en Emporia geven vaak een HAC-klasse op, zoals M4/T4.
-- **Veilig.** Een noodknop, bij de meeste modellen op de achterkant. Hij stuurt een hulpbericht naar vaste contacten. Bij sommige Doro's gaat de GPS-locatie mee.
-- **Doet wat u nodig hebt.** Bellen en sms'en. Wie WhatsApp wil, heeft een smartphone nodig.
-- **Zorgeloos.** Een oplaadschaal: u zet de telefoon erin en hij laadt op, zonder klein stekkertje.
-- **Eerlijke prijs.** Wat u krijgt voor uw geld. De prijzen staan in de tabel bovenaan.
+Data uitzetten kan in het menu. Bij Doro staat in de handleiding dat dit datakosten voorkomt. Maar dan werkt de locatie-sms niet meer. Twijfelt u, vraag dan bij de provider wat een klein databundeltje kost.
 
-Alle toestellen op deze pagina werken op het 4G-netwerk.
+## Werkt de oude telefoon van uw vader of moeder nog?
 
-## Doro Leva E10 en L10: het simpelste rechte model
+Dat hangt af van het netwerk waarop hij belt. Odido zette het 2G-netwerk in juni 2023 uit. KPN stopt er volgens de eigen site op 1 december 2027 mee. De ACM schrijft dat vooral oudere toestellen die alleen bellen en sms'en hier last van krijgen.
 
-De [Doro Leva E10](/producten/doro-leva-e10/) is een rechte toetsentelefoon met een breed, liggend scherm van 2,4 inch. De toetsen staan ver uit elkaar. Achterop zit een assistentieknop die een hulpbericht stuurt, zonder locatie. Een oplaadschaal zit in de doos. Doro geeft klasse M4/T4 op, een beltoon van meer dan 83 dB en een gespreksvolume van 35 dB.
+Werkt het toestel alleen op 2G, dan kan uw vader of moeder daarna niet meer bellen, ook niet naar 112. Alle toestellen op deze pagina werken op 4G. Let bij een Doro wel op één instelling: kiest u in het menu "Alleen 2G", dan kunt u zonder 2G-netwerk niet bellen, ook geen noodoproep. Laat die stand dus op 4G.
 
-De Doro Leva L10 is bijna gelijk, maar stuurt bij de assistentieknop ook de GPS-locatie mee. Belsimpel verkoopt de L10 niet meer.
+## Doro Leva E10: voor wie alleen wil bellen, met een recht toestel
 
-**Voor wie wel:** wie alleen wil bellen en een klaptelefoon onhandig vindt. **Voor wie niet:** wie een toestel wil dat dichtklapt, zodat er niet per ongeluk toetsen worden ingedrukt.
+<div data-product="doro-leva-e10,doro-leva-l10"></div>
 
-## Doro Leva L30 en E22: klaptelefoon met oplaadschaal
+Gaat de telefoon mee in de jaszak en ligt hij 's avonds op het kastje? Dan is een recht toestel zonder klep het eenvoudigst: oppakken, groene toets, praten. De E10 heeft geen browser en geen apps. Er is dus niets waarin uw vader of moeder kan verdwalen. De laadhouder zit volgens Doro in de doos, de stekker voor het stopcontact niet.
 
-De [Doro Leva L30](/producten/doro-leva-l30/) is een klaptelefoon met een scherm van 2,8 inch binnen en een klein buitenscherm. Op dat buitenscherm ziet u wie er belt. U neemt op door open te klappen. De assistentieknop stuurt een hulpbericht met GPS-locatie. Een oplaadschaal zit in de doos.
+De noodknop belt een rijtje vaste mensen. Neemt de voicemail van een van hen op, dan ziet de E10 dat als beantwoord en belt hij niemand meer. Zet dus eerst de mensen in de lijst die echt opnemen. De L10 is hetzelfde toestel met een locatie-sms erbij. Belsimpel verkoopt hem niet meer.
 
-De [Doro Leva E22](/producten/doro-leva-e22/) is eenvoudiger: geen buitenscherm en geen locatie bij het hulpbericht. Wel krijgt u ook hier een oplaadschaal. De Doro Leva E20 is hetzelfde toestel zonder oplaadschaal.
+**Voor wie wel:** wie het simpelste rechte toestel wil met een vangnet. **Voor wie niet:** wie de hoogste hoortoestelklasse zeker wil weten; Doro noemt twee verschillende klassen.
 
-**Voor wie wel:** wie gewend is aan een klaptelefoon. **Voor wie niet:** wie WhatsApp wil. Doro noemt geen apps bij de Leva-lijn, en er is geen appwinkel.
+## Emporia SIMPLICITY-LTE: voor wie de toetsen goed moet kunnen zien
 
-## Emporia SIMPLICITYglam.4G en JOY-LTE: voor wie slecht hoort
+<div data-product="emporia-simplicity-lte"></div>
 
-De [Emporia SIMPLICITYglam.4G](/producten/emporia-simplicityglam-4g/) is een witte klaptelefoon met extra grote, verlichte toetsen. Volgens de handleiding heeft hij klasse M4/T4. Op de achterkant zit een noodknop en er zijn drie snelkeuzetoetsen. Een oplaadstation zit in de doos. Een camera noemt Emporia niet.
+Ziet uw vader of moeder de cijfers op een toetsenbord slecht? Dan geven verlichte, verhoogde toetsen meer houvast dan een groter scherm. De letters op het scherm stelt u groter in. Volgens de handleiding zitten toestel, accu, kabel en een tafellader in de doos.
 
-De [Emporia JOY-LTE](/producten/emporia-joy-lte/) heeft een buitenscherm voor nummerweergave en neemt op zodra u hem openklapt. Ook hier klasse M4/T4 en drie snelkeuzetoetsen. Een oplaadschaal is los te koop, maar was op 4 november 2026 niet op voorraad bij Emporia.
+De noodknop werkt anders dan bij Doro. Hij belt vijf nummers en stuurt een sms. De helper moet ophangen en terugbellen; dan neemt de telefoon vanzelf op. Staan er geen nummers in, of is er geen beltegoed, dan belt de knop 112.
 
-De [Emporia SIMPLICITY-LTE](/producten/emporia-simplicity-lte/) is een recht model met een scherm van 2,0 inch, grote verlichte toetsen en een oplaadstation. Op 4 november 2026 zagen wij hem alleen in de webshop van Emporia.
+**Voor wie wel:** wie slecht ziet en alleen wil bellen. **Voor wie niet:** wie in een gewone winkel wil kopen; op 4 november 2026 zagen we hem alleen bij Emporia zelf.
 
-**Voor wie wel:** wie een hoortoestel draagt en grote toetsen wil. **Voor wie niet:** wie de SIMPLICITY-LTE in een gewone winkel wil kopen. De glam en de JOY-LTE zijn breder te koop. Meer over horen leest u bij [telefoon voor slechthorenden](/telefoon-voor-slechthorenden/).
+## Doro Leva X10: voor wie zelfs een cijfertoets te veel is
 
-## HMD 2660 Flip en HMD 3210: de ouderwetse telefoon
+<div data-product="doro-leva-x10"></div>
 
-Zoekt u een ouderwetse telefoon zonder poespas? HMD maakt de opvolgers van de bekende Nokia-toestellen. De [HMD 2660 Flip 4G](/producten/hmd-2660-flip-4g/) is een klapmodel met een buitenscherm en een aparte noodtoets. HMD schrijft dat er geen apps voor sociale media op staan.
+Belt uw vader of moeder eigenlijk maar vier mensen? Dan kan het nog eenvoudiger dan de E10. De X10 heeft vier toetsen, A tot en met D, die elk één persoon bellen. Familie zet in een apart beheermenu vast wat er wel en niet op het scherm staat.
 
-De [HMD 3210 4G](/producten/hmd-3210-4g/) is een klein recht toestel zonder apps. HMD noemt geen noodknop en geen oplaadschaal. Het is meer een eenvoudige telefoon dan een seniorentelefoon.
+Doro maakte hem voor mensen met geheugenproblemen. Is daar geen sprake van, dan voelt hij voor sommigen te beperkt. Meer over dit toestel staat op [telefoon voor dementie](/telefoon-voor-dementie/).
 
-**Voor wie wel:** wie een gewone, simpele telefoon wil zonder seniorenlook. **Voor wie niet:** wie een hoortoestel draagt. HMD geeft voor deze toestellen geen HAC-klasse op.
+**Voor wie wel:** wie vier vaste mensen belt en verder niets. **Voor wie niet:** wie ook weleens een nieuw nummer intoetst of een hoortoestel draagt; de klasse is T3/M3.
 
-## Wat als het toch WhatsApp moet zijn?
+## Doro Leva L30: voor wie een klapmodel wil en vaak alleen op pad gaat
 
-Dan kiest u een smartphone die zo simpel mogelijk is gemaakt. De [Doro Aurora A20](/producten/doro-aurora-a20/) lijkt op een klaptelefoon, met echte toetsen. Binnenin draait Android, dus WhatsApp werkt. U zet het er zelf op via de Play Store. Achterop zit een SOS-knop.
+<div data-product="doro-leva-l30"></div>
 
-De [Senifone S1](/senifone-s1/) heeft een groot scherm met grote knoppen en foto's van contacten. Familie kan via de gratis Companion App op afstand helpen. Dat scheelt veel uitleg aan de telefoon. Een overzicht van alle smartphones vindt u bij [beste smartphone voor senioren](/beste-smartphone-voor-senioren/).
+Een klapmodel is ook simpel, op een andere manier. Dicht in de tas gebeurt er niets, en openklappen is opnemen als u dat aanzet. De L30 is van de simpele toestellen het meest compleet voor wie vaak alleen de deur uit gaat.
 
-Heeft uw vader of moeder geheugenproblemen? Dan is een gewone simpele telefoon soms nog te veel. Kijk dan bij [telefoon voor dementie](/telefoon-voor-dementie/).
+Bij de L10 en X10 gaat de plek in de noodsms volgens de handleiding via mobiele data. Voor de L30 vonden we dat niet terug. Wilt u een simkaart zonder data, vraag dan eerst na of de plek dan nog meekomt. Alle klapmodellen naast elkaar staan op [klaptelefoon voor senioren](/klaptelefoon-voor-senioren/).
+
+**Voor wie wel:** wie een klep vertrouwd vindt en alleen boodschappen doet. **Voor wie niet:** wie de plek in de noodsms niet nodig heeft. Dan is een eenvoudiger klapmodel genoeg.
+
+## Emporia SIMPLICITYglam.4G: voor wie een klapmodel wil met toetsen die oplichten
+
+<div data-product="emporia-simplicityglam-4g"></div>
+
+Dit is het klapmodel voor wie het rechte Emporia-toestel prettig vindt maar liever dichtklapt. Het toetsenbord heeft dezelfde verlichte, verhoogde toetsen. De noodknop zit op de achterkant en een oplaadstation zit erbij. Een plek in de noodsms is er niet.
+
+**Voor wie wel:** wie slecht ziet en een klep wil. **Voor wie niet:** wie vaak alleen op pad gaat en wil dat familie weet waar hij of zij is.
+
+## HMD 3210 4G: voor wie een gewone telefoon wil, zonder seniorenlook
+
+<div data-product="hmd-3210-4g"></div>
+
+Wil uw vader of moeder geen telefoon die eruitziet als een hulpmiddel? De HMD 3210 is de opvolger van de Nokia 3210, met een eigen systeem zonder apps. De internetdiensten die dit soort Nokia's elders hebben, zijn volgens HMD in Europa niet beschikbaar.
+
+Wat ontbreekt, is wat de andere toestellen hier juist hebben. HMD noemt geen noodknop, geen hoortoestelklasse en geen laadhouder. Een lader zit er volgens de handleiding van de Nokia 3210 niet bij.
+
+**Voor wie wel:** wie goed hoort, goed ziet en een gewoon toestel wil. **Voor wie niet:** wie alleen woont en een noodknop nodig heeft.
+
+## Ook goed, maar niet onze keuze
+
+- **Doro Leva E22:** het eenvoudigste Doro-klapmodel met schaal, maar zonder buitenscherm en zonder plek in de noodsms. Wie dat niet mist, is er goed mee.
+- **HMD 2660 Flip 4G:** een klapmodel zonder seniorenlook, wel met noodtoets. HMD noemt geen hoortoestelklasse.
+
+## Wat raden we niet aan?
+
+- **Emporia JOY-LTE:** de laadkom koopt u los en was op 4 november 2026 niet op voorraad, en een handleiding vonden we niet.
+
+## Wat konden we niet vinden?
+
+- **De juiste hoortoestelklasse van de Doro Leva E10 en L10.** De productpagina noemt T4/M4, de handleiding M3/T3. Draagt uw vader of moeder een hoortoestel, kies dan de Emporia SIMPLICITY-LTE: daar zegt de handleiding M4/T4.
+- **Een aparte handleiding van de HMD 3210 4G.** We lazen die van de Nokia 3210, de voorganger.
+- **Of bellen via 4G blijft werken als u mobiele data uitzet.** De handleidingen zeggen het niet. Vraag het bij uw provider voordat u data uitzet.
+
+## Kies zo
+
+- Recht toestel, alleen bellen? Kies de **Doro Leva E10**.
+- Slecht zicht of een hoortoestel? Kies de **Emporia SIMPLICITY-LTE**.
+- Maar vier vaste mensen om te bellen? Kies de **Doro Leva X10**.
+- Een klapmodel en vaak alleen op pad? Kies de **Doro Leva L30**.
+- Geen seniorenlook en geen noodknop nodig? Kies de **HMD 3210 4G**.
+
+Belt uw vader of moeder vooral thuis? Dan is een vast toestel misschien prettiger, zie [huistelefoon voor ouderen](/huistelefoon-voor-ouderen/). Alle soorten naast elkaar staan op [seniorentelefoons](/seniorentelefoons/), en alle smartphones op [beste smartphone voor senioren](/beste-smartphone-voor-senioren/).
