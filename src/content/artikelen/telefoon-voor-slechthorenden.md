@@ -35,6 +35,8 @@ faq:
     a: "Een telefoon die het gesprek luider maakt dan een gewoon toestel. Fabrikanten noemen dat gespreksversterking, vaak in decibel. Let erop dat het om het gesprek gaat en niet alleen om de beltoon. Veel fabrikanten noemen alleen de beltoon."
   - q: "Is er een telefoon voor doven?"
     a: "Wie helemaal niet hoort, heeft weinig aan een luidere telefoon. Dan zijn berichten en videobellen vaak de betere weg, bijvoorbeeld via WhatsApp op een smartphone. Een fel knipperend bellampje helpt om een oproep op te merken."
+  - q: "Wordt een telefoon voor slechthorenden vergoed?"
+    a: "Vilans noemt in de Hulpmiddelenwijzer twee regelingen: de Participatiewet via de gemeente en de WIA via het UWV. Die zijn bedoeld voor wie werkt of een opleiding volgt. Een andere vergoeding noemt Vilans niet. Vraagt u er toch een aan? Koop dan pas iets als de gemeente of het UWV ja heeft gezegd."
 sources:
   - label: "Alecto CW30 productpagina (alectohome.nl)"
     url: "https://alectohome.nl/products/alecto-cw30-senioren-telefoon-met-grote-fototoetsen-en-cijfers-voorzien-van-extra-luid-gespreksvolume-zwart"
@@ -48,13 +50,33 @@ sources:
     url: "https://support.apple.com/en-us/106349"
   - label: "Uitleg M- en T-waarden (Phone Scoop, woordenlijst)"
     url: "https://phonescoop.com/glossary/term.php?gid=434"
+  - label: "Vilans Hulpmiddelenwijzer: mobiele telefoon bij slechthorendheid"
+    url: "https://www.hulpmiddelenwijzer.nl/hulpmiddelen/mobiele-telefoons-bij-slechthorendheid"
 published: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-23
 panel_tested: false
 order: 26
 changelog:
   - datum: 2026-11-04
     wat: "Eerste versie"
+  - datum: 2026-11-23
+    wat: "Hoortoestelwaarde van alle 24 mobiele telefoons naast elkaar gezet; uitleg hoe u de huidige telefoon beter hoorbaar maakt; vraag over vergoeding toegevoegd."
+vergeleken_met:
+  - url: "https://www.hulpmiddelenwijzer.nl/hulpmiddelen/mobiele-telefoons-bij-slechthorendheid"
+    gelezen: 2026-11-23
+    heeft: "Uitleg over instellingen (volume, toonhoogte beltoon, trillen, lichtflits), headset, ringleiding, Bluetooth en HAC met M- en T-waarde; vergoeding via Participatiewet of WIA. Noemt geen enkel toestel en geen waarde per toestel."
+  - url: "https://www.beterhoren.nl/andere-hulpmiddelen/senioren-telefoons"
+    gelezen: 2026-11-23
+    heeft: "Winkelpagina van een audicien met twee vaste toestellen (Geemarc Amplidect 595, Gigaset E720A). Geen mobiele telefoons, geen M- of T-waarden, geen vergelijking."
+informatiewinst:
+  - wat: "Hoortoestelwaarde van alle 24 mobiele telefoons in products.json: 12 met M4/T4 (waarvan maar 2 smartphones), 2 met T4/M3, 1 met M3/T3. Geen van beide pagina's noemt een waarde per toestel."
+    soort: vergelijkingsdata
+    sectie: "Welke mobiele telefoons hebben de hoogste hoortoestelwaarde?"
+    bron: "products.json"
+  - wat: "Wat we niet konden vinden: zeven toestellen noemen geen hoortoestelwaarde (Senifone S1, Emporia SMART.7lite, Samsung Galaxy A17, A17 5G en A18, HMD 2660 Flip 4G en HMD 3210 4G); SeniorenTab S616 en iPhone 17e alleen zonder cijfer."
+    soort: onbekend-benoemd
+    sectie: "Welke mobiele telefoons hebben de hoogste hoortoestelwaarde?"
+    bron: "products.json"
 ---
 
 Hoort uw vader of moeder de telefoon slecht? Dan zijn drie dingen belangrijk: hoe hard het gesprek klinkt, of de telefoon samenwerkt met het hoortoestel, en of een oproep ook te zien is. Voor thuis geeft de Alecto CW30 op papier een flinke gespreksversterking. Voor onderweg passen de Doro Leva L20 en de Emporia SMART.8, allebei met hoortoestelwaarde M4/T4.
@@ -77,6 +99,20 @@ Bij hoortoestellen komt u twee waarden tegen. De M-waarde gaat over de gewone st
 Heeft het hoortoestel geen T-stand? Dan telt vooral de M-waarde. Vraag de audicien welke stand uw vader of moeder gebruikt. Die weet ook of het hoortoestel Bluetooth heeft.
 
 Niet elke fabrikant noemt deze waarden. Bij de Samsung Galaxy A18 vonden we geen waarde voor het Europese model. Bij de vaste toestellen staat alleen dat ze geschikt zijn voor een hoortoestel, zonder cijfer.
+
+## Welke mobiele telefoons hebben de hoogste hoortoestelwaarde?
+
+We zochten de waarde op van alle 24 mobiele telefoons in onze vergelijking. Twaalf hebben de hoogste waarde, M4/T4. Bijna allemaal zijn het toets- of klaptelefoons:
+
+- Doro Leva E10, E20, E22, E30, L10, L20 en L30.
+- Emporia SIMPLICITY-LTE, SIMPLICITYglam.4G en JOY-LTE.
+- Van de smartphones alleen de [Doro Aurora A30](/producten/doro-aurora-a30/) en de [Emporia SMART.8](/producten/emporia-smart-8/).
+
+De Doro Aurora A10 en A20 hebben T4/M3. In de T-stand zitten ze dus op het hoogste niveau, in de gewone stand een stap lager. De Doro Leva X10 heeft M3/T3, en dat geldt nog als geschikt.
+
+Zeven toestellen geven geen waarde op. Dat zijn de Senifone S1 en de Emporia SMART.7lite, de drie Samsungs (Galaxy A17, A17 5G en A18) en de twee HMD-toestellen (2660 Flip 4G en 3210 4G). Bij de SeniorenTab S616 staat alleen "geschikt voor een gehoorapparaat". Apple noemt bij de iPhone 17e de T-stand, maar geen cijfer.
+
+Draagt uw vader of moeder een hoortoestel en wilt u zekerheid? Kies dan een toestel met M4/T4. Moet WhatsApp erop, dan blijven de Aurora A30 en de SMART.8 over.
 
 ## Vaste telefoon of mobiel?
 
@@ -145,6 +181,19 @@ De [Samsung Galaxy A18](/producten/samsung-galaxy-a18/) ondersteunt ASHA-streami
 ## En de Senifone S1?
 
 De [Senifone S1](/senifone-s1/) noemen we hier niet als keuze. Senifone geeft geen hoortoestelwaarde en geen geluidsniveau. Op de site staat alleen dat veel hoortoestellen via Bluetooth koppelen. Dat is te weinig om hem aan te raden voor wie slecht hoort.
+
+## Kan het ook met de telefoon die uw vader of moeder al heeft?
+
+Bij licht gehoorverlies vaak wel. Vilans noemt in de Hulpmiddelenwijzer een paar dingen die op de meeste mobiele telefoons kunnen:
+
+- Het volume van de beltoon en het gesprek hoger zetten.
+- Een beltoon kiezen met een toonhoogte die uw vader of moeder goed hoort.
+- De trilfunctie aanzetten, zodat een oproep ook te voelen is.
+- Bij sommige telefoons een lichtflits aanzetten als er iemand belt.
+
+Een headset of oordopjes helpen ook, omdat het gesprek dan direct in het oor klinkt.
+
+Met een hoortoestel kan het signaal van een mobiele telefoon storen. Volgens Vilans helpt dan een ringleiding om de hals of een Bluetooth-verbinding met het hoortoestel. Een telefoon met een M- en T-waarde is gemaakt om die storing te voorkomen. Blijft het gesprek slecht te verstaan, vraag dan de audicien om mee te kijken.
 
 ## Wat als iemand helemaal niet hoort?
 
